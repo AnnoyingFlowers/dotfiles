@@ -1,4 +1,5 @@
 AnnoyingFlowers's dotfiles
+==========================
 
 The install script will:
 
@@ -10,5 +11,5 @@ Installation
 '''bash
 git clone git://github.com/AnnoyingFlowers/dotfiles ~/gits/dotfiles
 cd ~/gits/dotfiles
-./makedotfiles.sh
+./makesymlinks.sh
 '''

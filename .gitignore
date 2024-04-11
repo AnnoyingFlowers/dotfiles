@@ -1,4 +1,3 @@
-*.*
 *
 !bashrc
 !gitconfig
@@ -7,3 +6,4 @@
 !README.md
 !vimrc
 !.gitignore
+
