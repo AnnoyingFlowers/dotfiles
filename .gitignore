@@ -1,9 +1,1 @@
-*
-!bashrc
-!gitconfig
-!makesymlinks.sh
-!profile
-!README.md
-!vimrc
-!.gitignore
-
+dotfiles_old/
