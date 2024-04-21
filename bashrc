@@ -127,6 +127,7 @@ export PATH="$PATH:$HOME/.local/bin"
 export PATH="/usr/lib/ccache:$PATH"
 export NEMU_HOME=/home/louis/gits/ysyx/ysyx-workbench/nemu
 export AM_HOME=/home/louis/gits/ysyx/ysyx-workbench/abstract-machine
+export NPC_HOME=/home/louis/gits/ysyx/ysyx-workbench/npc
 export PATH="$PATH:/opt/FriendlyARM/toolschain/4.5.1/bin"
 
 source /home/louis/.config/broot/launcher/bash/br
