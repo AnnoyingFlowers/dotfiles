@@ -131,3 +131,7 @@ export NPC_HOME=/home/louis/gits/ysyx/ysyx-workbench/npc
 export PATH="$PATH:/opt/FriendlyARM/toolschain/4.5.1/bin"
 
 source /home/louis/.config/broot/launcher/bash/br
+
+export VERILATOR_ROOT="/home/louis/gits/verilator"
+export PATH="$PATH:$VERILATOR_ROOT/bin"
+export NVBOARD_HOME=/home/louis/gits/ysyx/ysyx-workbench/nvboard
