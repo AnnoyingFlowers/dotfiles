@@ -1,0 +1,14 @@
+fix: 更新数电exp07
+
+* 解决digital-IDE每次都在主目录创建文件夹的坏毛病
++ 完成数电exp07
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa0
+# Your branch is up to date with 'origin/pa0'.
+#
+# Changes to be committed:
+#	modified:   .vscode/property.json
+#	modified:   ysyx-workbench
+#

@@ -1,0 +1,2360 @@
+2024-05-03 10:15:20.615 [info] Extension host with pid 36672 started
+2024-05-03 10:15:20.615 [info] Skipping acquiring lock for /home/louis/.config/Code/User/workspaceStorage/2ac9015a99c4bb5b8d4bde9e16538236.
+2024-05-03 10:15:21.071 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-03 10:15:21.072 [info] ExtensionService#_doActivateExtension mshr-h.veriloghdl, startup: false, activationEvent: 'onLanguage:verilog'
+2024-05-03 10:15:21.121 [info] ExtensionService#_doActivateExtension sterben.fpga-support, startup: false, activationEvent: 'onLanguage:verilog'
+2024-05-03 10:15:22.165 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-03 10:15:22.173 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2024-05-03 10:15:22.278 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-03 10:15:22.279 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-03 10:15:22.633 [info] Eager extensions activated
+2024-05-03 10:15:22.655 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-03 10:15:22.655 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-03 10:15:22.656 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-05-03 10:15:22.691 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2024-05-03 10:15:22.710 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-05-03 10:15:23.126 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:23.538 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.540 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.543 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.543 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.544 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.544 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.545 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.545 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.546 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.546 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.547 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.548 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.549 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.549 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.550 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.550 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.551 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.551 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.552 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.552 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.553 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.553 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.554 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.555 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.555 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.556 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.556 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.557 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.557 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.558 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.558 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 10:15:24.558 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 11:11:38.409 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 11:11:38.410 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 11:11:41.603 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 11:11:41.603 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 11:12:06.533 [warning] TextEditor is closed/disposed
+2024-05-03 11:12:06.592 [info] ExtensionService#_doActivateExtension llvm-vs-code-extensions.vscode-clangd, startup: false, activationEvent: 'onLanguage:cpp'
+2024-05-03 11:12:06.631 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+2024-05-03 11:15:28.408 [warning] TextEditor is closed/disposed
+2024-05-03 11:15:30.678 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 11:15:30.678 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 11:15:54.606 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 11:15:54.606 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 11:16:07.518 [warning] TextEditor is closed/disposed
+2024-05-03 11:16:47.590 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 11:16:47.590 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 11:16:56.944 [warning] TextEditor is closed/disposed
+2024-05-03 11:16:57.762 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 11:16:57.762 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 11:17:05.478 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 11:17:05.478 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 11:20:16.832 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 11:20:16.832 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 11:20:39.605 [warning] TextEditor is closed/disposed
+2024-05-03 11:22:42.242 [warning] TextEditor is closed/disposed
+2024-05-03 11:24:23.451 [warning] TextEditor is closed/disposed
+2024-05-03 11:26:25.101 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 11:26:25.101 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 11:26:56.040 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 11:26:56.041 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 11:26:59.307 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 11:26:59.307 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 11:29:18.470 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 11:29:18.470 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 11:29:35.964 [warning] TextEditor is closed/disposed
+2024-05-03 11:29:46.827 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 11:29:46.827 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 11:29:47.030 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 11:29:47.030 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 11:30:01.247 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 11:30:01.247 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 11:30:25.518 [warning] TextEditor is closed/disposed
+2024-05-03 11:30:28.375 [warning] TextEditor is closed/disposed
+2024-05-03 11:30:50.539 [warning] TextEditor is closed/disposed
+2024-05-03 11:31:24.275 [warning] TextEditor is closed/disposed
+2024-05-03 11:31:25.632 [warning] TextEditor is closed/disposed
+2024-05-03 11:31:29.997 [warning] TextEditor is closed/disposed
+2024-05-03 11:31:42.516 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 11:31:42.516 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 11:31:45.783 [warning] TextEditor is closed/disposed
+2024-05-03 11:31:51.816 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 11:31:51.816 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 11:32:04.918 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 11:32:04.918 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 11:32:32.465 [warning] TextEditor is closed/disposed
+2024-05-03 11:33:02.260 [warning] TextEditor is closed/disposed
+2024-05-03 11:33:25.197 [warning] TextEditor is closed/disposed
+2024-05-03 11:34:43.875 [warning] TextEditor is closed/disposed
+2024-05-03 11:34:55.203 [warning] TextEditor is closed/disposed
+2024-05-03 11:35:01.012 [warning] TextEditor is closed/disposed
+2024-05-03 11:35:01.424 [warning] TextEditor is closed/disposed
+2024-05-03 11:35:05.961 [warning] TextEditor is closed/disposed
+2024-05-03 11:35:11.759 [warning] TextEditor is closed/disposed
+2024-05-03 11:36:55.929 [warning] TextEditor is closed/disposed
+2024-05-03 11:37:09.333 [warning] TextEditor is closed/disposed
+2024-05-03 11:37:22.441 [warning] TextEditor is closed/disposed
+2024-05-03 11:38:03.362 [warning] TextEditor is closed/disposed
+2024-05-03 11:38:57.023 [warning] TextEditor is closed/disposed
+2024-05-03 11:39:07.023 [warning] TextEditor is closed/disposed
+2024-05-03 11:39:17.163 [warning] TextEditor is closed/disposed
+2024-05-03 11:39:25.275 [warning] TextEditor is closed/disposed
+2024-05-03 11:39:25.938 [warning] TextEditor is closed/disposed
+2024-05-03 11:40:18.501 [warning] TextEditor is closed/disposed
+2024-05-03 11:40:45.333 [warning] TextEditor is closed/disposed
+2024-05-03 11:40:46.061 [warning] TextEditor is closed/disposed
+2024-05-03 11:41:12.095 [warning] TextEditor is closed/disposed
+2024-05-03 11:41:24.025 [warning] TextEditor is closed/disposed
+2024-05-03 11:41:32.028 [warning] TextEditor is closed/disposed
+2024-05-03 11:42:03.808 [warning] TextEditor is closed/disposed
+2024-05-03 11:42:43.513 [warning] TextEditor is closed/disposed
+2024-05-03 11:43:03.380 [warning] TextEditor is closed/disposed
+2024-05-03 11:43:04.477 [warning] TextEditor is closed/disposed
+2024-05-03 11:43:09.137 [warning] TextEditor is closed/disposed
+2024-05-03 11:43:23.732 [warning] TextEditor is closed/disposed
+2024-05-03 11:43:35.445 [warning] TextEditor is closed/disposed
+2024-05-03 11:44:27.083 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:44:27.083 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":8807}]}}
+2024-05-03 11:44:27.083 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:44:27.083 [error] {"a":true,"b":null}
+2024-05-03 11:45:14.609 [warning] TextEditor is closed/disposed
+2024-05-03 11:45:20.818 [warning] TextEditor is closed/disposed
+2024-05-03 11:45:31.462 [warning] TextEditor is closed/disposed
+2024-05-03 11:45:47.492 [warning] TextEditor is closed/disposed
+2024-05-03 11:48:29.845 [warning] TextEditor is closed/disposed
+2024-05-03 11:51:25.664 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:25.664 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":10068}]}}
+2024-05-03 11:51:25.665 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:25.665 [error] {"a":true,"b":null}
+2024-05-03 11:51:25.665 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:25.665 [error] {"a":true,"b":null}
+2024-05-03 11:51:25.665 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:25.665 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":10076}]}}
+2024-05-03 11:51:26.989 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:26.989 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":10080}]}}
+2024-05-03 11:51:26.989 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:26.989 [error] {"a":true,"b":null}
+2024-05-03 11:51:26.990 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:26.990 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":10086}]}}
+2024-05-03 11:51:26.990 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:26.990 [error] {"a":true,"b":null}
+2024-05-03 11:51:26.991 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:26.991 [error] {"a":true,"b":null}
+2024-05-03 11:51:26.991 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:26.991 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":10094}]}}
+2024-05-03 11:51:27.725 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:27.725 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":10104}]}}
+2024-05-03 11:51:27.725 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:27.725 [error] {"a":true,"b":null}
+2024-05-03 11:51:27.725 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:27.725 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":10110}]}}
+2024-05-03 11:51:27.725 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:27.725 [error] {"a":true,"b":null}
+2024-05-03 11:51:28.525 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:28.525 [error] {"a":true,"b":null}
+2024-05-03 11:51:28.526 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:28.526 [error] {"a":true,"b":null}
+2024-05-03 11:51:29.193 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:29.193 [error] {"a":true,"b":null}
+2024-05-03 11:51:29.193 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:29.193 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":10130}]}}
+2024-05-03 11:51:29.193 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:29.193 [error] {"a":true,"b":null}
+2024-05-03 11:51:29.928 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:29.928 [error] {"a":true,"b":null}
+2024-05-03 11:51:30.605 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:30.605 [error] {"a":true,"b":null}
+2024-05-03 11:51:30.606 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:30.606 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":10150}]}}
+2024-05-03 11:51:30.606 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:30.606 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":10152}]}}
+2024-05-03 11:51:37.569 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:51:37.569 [error] {"a":true,"b":null}
+2024-05-03 11:51:46.057 [warning] TextEditor is closed/disposed
+2024-05-03 11:52:05.772 [warning] TextEditor is closed/disposed
+2024-05-03 11:52:07.711 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 11:52:07.711 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 11:52:13.622 [warning] TextEditor is closed/disposed
+2024-05-03 11:54:04.402 [warning] TextEditor is closed/disposed
+2024-05-03 11:55:40.755 [warning] TextEditor is closed/disposed
+2024-05-03 11:55:42.473 [warning] TextEditor is closed/disposed
+2024-05-03 11:57:36.565 [warning] TextEditor is closed/disposed
+2024-05-03 11:57:55.484 [warning] TextEditor is closed/disposed
+2024-05-03 11:58:30.186 [warning] TextEditor is closed/disposed
+2024-05-03 11:59:06.056 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 11:59:06.056 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":11970}]}}
+2024-05-03 11:59:27.951 [warning] TextEditor is closed/disposed
+2024-05-03 12:00:48.630 [warning] TextEditor is closed/disposed
+2024-05-03 12:01:17.952 [warning] TextEditor is closed/disposed
+2024-05-03 12:01:31.024 [warning] TextEditor is closed/disposed
+2024-05-03 12:01:41.089 [warning] TextEditor is closed/disposed
+2024-05-03 12:01:42.074 [warning] TextEditor is closed/disposed
+2024-05-03 12:02:01.611 [warning] TextEditor is closed/disposed
+2024-05-03 12:02:18.186 [warning] TextEditor is closed/disposed
+2024-05-03 12:03:37.984 [warning] TextEditor is closed/disposed
+2024-05-03 12:04:08.291 [warning] TextEditor is closed/disposed
+2024-05-03 12:04:10.794 [warning] TextEditor is closed/disposed
+2024-05-03 12:04:18.800 [warning] TextEditor is closed/disposed
+2024-05-03 12:05:49.446 [warning] TextEditor is closed/disposed
+2024-05-03 12:51:32.912 [warning] TextEditor is closed/disposed
+2024-05-03 12:51:49.057 [warning] TextEditor is closed/disposed
+2024-05-03 12:56:48.901 [warning] TextEditor is closed/disposed
+2024-05-03 12:56:51.990 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 12:56:51.990 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 12:57:01.705 [warning] TextEditor is closed/disposed
+2024-05-03 12:58:47.015 [warning] TextEditor is closed/disposed
+2024-05-03 12:59:41.599 [warning] TextEditor is closed/disposed
+2024-05-03 12:59:44.786 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 12:59:44.786 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 13:00:05.675 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 13:00:05.675 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 13:10:15.869 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 13:10:15.869 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 13:13:48.223 [warning] TextEditor is closed/disposed
+2024-05-03 13:46:43.500 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 13:46:43.500 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 13:47:06.922 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 13:47:06.922 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 13:49:10.267 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 13:49:10.267 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 13:49:12.158 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 13:49:12.158 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 13:49:12.570 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 13:49:12.570 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 13:49:39.323 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 13:49:39.324 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 13:51:48.401 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 13:51:48.401 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 13:51:48.578 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 13:51:48.578 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 13:51:50.920 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 13:51:50.920 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 13:51:51.144 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 13:51:51.144 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 13:54:33.786 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 13:54:33.786 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 13:58:50.383 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 13:58:50.383 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 13:58:56.252 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 13:58:56.252 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 13:59:05.472 [warning] TextEditor is closed/disposed
+2024-05-03 13:59:29.207 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 13:59:29.207 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 13:59:32.749 [warning] TextEditor is closed/disposed
+2024-05-03 14:00:14.640 [warning] TextEditor is closed/disposed
+2024-05-03 14:00:16.932 [warning] TextEditor is closed/disposed
+2024-05-03 14:00:54.597 [warning] TextEditor is closed/disposed
+2024-05-03 14:00:57.198 [warning] TextEditor is closed/disposed
+2024-05-03 14:01:08.521 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:01:08.521 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:01:48.962 [warning] TextEditor is closed/disposed
+2024-05-03 14:02:10.861 [warning] TextEditor is closed/disposed
+2024-05-03 14:02:19.031 [warning] TextEditor is closed/disposed
+2024-05-03 14:02:39.440 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:02:39.440 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:13:00.232 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:13:00.232 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:14:01.490 [warning] TextEditor is closed/disposed
+2024-05-03 14:14:38.122 [warning] TextEditor is closed/disposed
+2024-05-03 14:14:48.500 [warning] TextEditor is closed/disposed
+2024-05-03 14:15:05.058 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:15:05.058 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:15:06.952 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:15:06.952 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:15:35.907 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:15:35.907 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:15:52.945 [warning] TextEditor is closed/disposed
+2024-05-03 14:19:11.550 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:19:11.550 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:21:01.092 [warning] TextEditor is closed/disposed
+2024-05-03 14:21:01.912 [warning] TextEditor is closed/disposed
+2024-05-03 14:21:13.797 [warning] TextEditor is closed/disposed
+2024-05-03 14:38:58.987 [warning] TextEditor is closed/disposed
+2024-05-03 14:39:07.993 [warning] TextEditor is closed/disposed
+2024-05-03 14:39:57.044 [warning] TextEditor is closed/disposed
+2024-05-03 14:40:06.272 [warning] TextEditor is closed/disposed
+2024-05-03 14:40:12.529 [warning] TextEditor is closed/disposed
+2024-05-03 14:40:43.044 [warning] TextEditor is closed/disposed
+2024-05-03 14:41:04.635 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:41:04.635 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:42:02.796 [warning] TextEditor is closed/disposed
+2024-05-03 14:43:19.604 [warning] TextEditor is closed/disposed
+2024-05-03 14:43:46.814 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:43:46.814 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:44:36.178 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:44:36.178 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:44:41.609 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:44:41.609 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:44:43.388 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:44:43.388 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:45:30.699 [warning] TextEditor is closed/disposed
+2024-05-03 14:50:58.593 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:50:58.593 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:50:59.136 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:50:59.136 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:50:59.862 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:50:59.863 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:51:02.194 [warning] TextEditor is closed/disposed
+2024-05-03 14:51:02.773 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:51:02.773 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:58:22.347 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:58:22.348 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:58:30.643 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:58:30.643 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:58:46.734 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:58:46.734 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:58:58.270 [warning] TextEditor is closed/disposed
+2024-05-03 14:58:59.890 [warning] TextEditor is closed/disposed
+2024-05-03 14:59:00.340 [warning] TextEditor is closed/disposed
+2024-05-03 14:59:28.469 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:59:28.469 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:59:36.872 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:59:36.872 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 14:59:38.261 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 14:59:38.261 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:00:23.814 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:00:23.814 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:00:40.766 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:00:40.766 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:00:56.824 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:00:56.824 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:01:54.101 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:01:54.101 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:21:25.647 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:21:25.647 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:21:50.750 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:21:50.750 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:23:37.337 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:23:37.337 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:24:03.727 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:24:03.727 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:24:23.249 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:24:23.249 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:24:25.716 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:24:25.716 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:27:06.331 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:27:06.331 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:28:18.005 [warning] TextEditor is closed/disposed
+2024-05-03 15:28:56.177 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:28:56.177 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:28:57.931 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:28:57.931 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:29:07.550 [warning] TextEditor is closed/disposed
+2024-05-03 15:29:10.994 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:29:10.994 [error] Error: Illegal argument: character must be non-negative
+	at p (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1029)
+	at new m (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4728)
+	at new o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6193)
+	at qf.findSymbol (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:65:72780)
+	at X_.provideDefinition (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:8267)
+	at h.provideDefinition (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:92652)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:120450
+	at Re.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:118853)
+	at Re.$provideDefinition (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:120437)
+	at u.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5502)
+	at u.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5268)
+	at u.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:4323)
+	at u.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:3440)
+	at o.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2227)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at o.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:8018)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6298)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-05-03 15:29:12.194 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:29:12.195 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:29:17.760 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:29:17.760 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:29:23.668 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:29:23.669 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:29:41.129 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:29:41.129 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:30:01.460 [warning] TextEditor is closed/disposed
+2024-05-03 15:30:05.164 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:30:05.164 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:30:05.898 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:30:05.898 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:31:11.797 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:31:11.797 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:31:31.123 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:31:31.123 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:32:59.944 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:32:59.944 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:33:05.200 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:33:05.200 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:33:06.949 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:33:06.959 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:33:08.422 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:33:08.422 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:33:13.947 [warning] TextEditor is closed/disposed
+2024-05-03 15:33:29.834 [warning] TextEditor is closed/disposed
+2024-05-03 15:34:04.579 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:34:04.580 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:34:50.452 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:34:50.452 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:39:12.907 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:39:12.907 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:41:37.385 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:41:37.385 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:41:39.381 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:41:39.381 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:41:45.595 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:41:45.595 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:42:03.724 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:42:03.724 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:42:51.708 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:42:51.708 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:45:06.714 [warning] TextEditor is closed/disposed
+2024-05-03 15:51:02.457 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:51:02.457 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:51:04.152 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:51:04.152 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:51:25.013 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:51:25.013 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:56:10.951 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:56:10.951 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:56:16.261 [warning] TextEditor is closed/disposed
+2024-05-03 15:59:06.386 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:59:06.386 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:59:21.384 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:59:21.384 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:59:48.810 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:59:48.811 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 15:59:49.209 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 15:59:49.209 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:03.385 [warning] TextEditor is closed/disposed
+2024-05-03 16:01:13.333 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:13.333 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:16.125 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:16.125 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:17.538 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:17.539 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:20.295 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:20.295 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:21.037 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:21.037 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:24.331 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:24.331 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:29.333 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:29.333 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:31.967 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:31.967 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:34.037 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:34.037 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:36.032 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:36.032 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:38.641 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:38.641 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:39.151 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:39.151 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:39.384 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:39.384 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:40.208 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:40.208 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:40.654 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:40.654 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:41.083 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:41.084 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:48.528 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:48.528 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:48.883 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:48.883 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:51.292 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:51.292 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:01:57.799 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:01:57.799 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:04:08.547 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:04:08.547 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:05:24.701 [warning] TextEditor is closed/disposed
+2024-05-03 16:05:33.467 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:05:33.467 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:07:28.626 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:07:28.626 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:09:12.269 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:09:12.269 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:09:35.652 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:09:35.653 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:11:29.476 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:11:29.477 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:11:32.978 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:11:32.978 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:11:35.406 [warning] TextEditor is closed/disposed
+2024-05-03 16:12:08.002 [warning] TextEditor is closed/disposed
+2024-05-03 16:12:58.540 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:12:58.540 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:13:19.075 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:13:19.075 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:15:27.223 [warning] TextEditor is closed/disposed
+2024-05-03 16:20:15.567 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:20:15.567 [error] Error: Illegal argument: character must be non-negative
+	at p (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1029)
+	at new m (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4728)
+	at new o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6193)
+	at qf.findSymbol (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:65:72780)
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7652)
+	at E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93385)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:121405
+	at Re.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:118853)
+	at Re.$provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:121392)
+	at u.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5502)
+	at u.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5268)
+	at u.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:4323)
+	at u.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:3440)
+	at o.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2227)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at o.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:8018)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6298)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-05-03 16:21:40.905 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:21:40.905 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:23:52.583 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:23:52.594 [error] Error: Illegal argument: character must be non-negative
+	at p (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1029)
+	at new m (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4728)
+	at new o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6193)
+	at qf.findSymbol (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:65:72780)
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7652)
+	at E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93385)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:121405
+	at Re.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:118853)
+	at Re.$provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:121392)
+	at u.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5502)
+	at u.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5268)
+	at u.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:4323)
+	at u.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:3440)
+	at o.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2227)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at o.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:8018)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6298)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-05-03 16:23:56.535 [warning] TextEditor is closed/disposed
+2024-05-03 16:24:25.932 [warning] TextEditor is closed/disposed
+2024-05-03 16:24:43.409 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:24:43.409 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:24:45.827 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:24:45.827 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:25:00.508 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:25:00.508 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:25:06.772 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:25:06.772 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:25:28.754 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:25:28.754 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:30:28.302 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:30:28.302 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:30:33.715 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:30:33.716 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:31:10.500 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:31:10.501 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:36:24.104 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:36:24.104 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:36:26.725 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:36:26.725 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:36:27.047 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:36:27.047 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:37:28.271 [warning] TextEditor is closed/disposed
+2024-05-03 16:39:12.348 [warning] TextEditor is closed/disposed
+2024-05-03 16:39:24.726 [warning] TextEditor is closed/disposed
+2024-05-03 16:39:36.814 [warning] TextEditor is closed/disposed
+2024-05-03 16:39:51.810 [warning] TextEditor is closed/disposed
+2024-05-03 16:40:07.672 [warning] TextEditor is closed/disposed
+2024-05-03 16:40:11.863 [warning] TextEditor is closed/disposed
+2024-05-03 16:40:14.490 [warning] TextEditor is closed/disposed
+2024-05-03 16:40:18.443 [warning] TextEditor is closed/disposed
+2024-05-03 16:40:23.612 [warning] TextEditor is closed/disposed
+2024-05-03 16:40:48.123 [warning] TextEditor is closed/disposed
+2024-05-03 16:41:11.646 [warning] TextEditor is closed/disposed
+2024-05-03 16:41:13.128 [warning] TextEditor is closed/disposed
+2024-05-03 16:41:21.147 [warning] TextEditor is closed/disposed
+2024-05-03 16:41:24.401 [warning] TextEditor is closed/disposed
+2024-05-03 16:41:27.612 [warning] TextEditor is closed/disposed
+2024-05-03 16:41:29.547 [warning] TextEditor is closed/disposed
+2024-05-03 16:41:32.366 [warning] TextEditor is closed/disposed
+2024-05-03 16:41:34.278 [warning] TextEditor is closed/disposed
+2024-05-03 16:41:54.353 [warning] TextEditor is closed/disposed
+2024-05-03 16:41:56.705 [warning] TextEditor is closed/disposed
+2024-05-03 16:43:16.600 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 16:43:16.600 [error] {"a":true,"b":null}
+2024-05-03 16:43:25.344 [warning] TextEditor is closed/disposed
+2024-05-03 16:43:32.097 [warning] TextEditor is closed/disposed
+2024-05-03 16:44:26.282 [warning] TextEditor is closed/disposed
+2024-05-03 16:44:27.624 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:44:27.624 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:44:35.721 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:44:35.721 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:44:51.585 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:44:51.586 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:44:52.016 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:44:52.016 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:44:52.651 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:44:52.651 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:44:54.028 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:44:54.028 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:44:54.803 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:44:54.803 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:44:55.118 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:44:55.118 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:44:55.270 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:44:55.270 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:44:56.304 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 16:44:56.304 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 16:45:19.342 [warning] TextEditor is closed/disposed
+2024-05-03 16:45:36.240 [warning] TextEditor is closed/disposed
+2024-05-03 16:45:50.995 [warning] TextEditor is closed/disposed
+2024-05-03 16:45:53.042 [warning] TextEditor is closed/disposed
+2024-05-03 16:45:53.855 [warning] TextEditor is closed/disposed
+2024-05-03 16:46:10.486 [warning] TextEditor is closed/disposed
+2024-05-03 16:46:10.530 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 16:46:10.530 [error] {"a":true,"b":null}
+2024-05-03 16:47:34.737 [warning] TextEditor is closed/disposed
+2024-05-03 16:51:08.181 [warning] TextEditor is closed/disposed
+2024-05-03 16:52:30.301 [warning] TextEditor is closed/disposed
+2024-05-03 16:53:02.762 [warning] TextEditor is closed/disposed
+2024-05-03 16:53:47.738 [warning] TextEditor is closed/disposed
+2024-05-03 16:59:34.149 [warning] TextEditor is closed/disposed
+2024-05-03 17:12:29.916 [warning] TextEditor is closed/disposed
+2024-05-03 17:12:31.528 [warning] TextEditor is closed/disposed
+2024-05-03 17:13:00.227 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:13:00.227 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 17:13:01.938 [warning] TextEditor is closed/disposed
+2024-05-03 17:19:01.560 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 17:19:01.560 [error] {"a":true,"b":null}
+2024-05-03 17:22:29.376 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 17:22:29.376 [error] {"a":true,"b":null}
+2024-05-03 17:28:43.308 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 17:28:43.308 [error] {"a":true,"b":null}
+2024-05-03 17:34:54.663 [warning] TextEditor is closed/disposed
+2024-05-03 17:34:58.658 [warning] TextEditor is closed/disposed
+2024-05-03 17:35:11.295 [warning] TextEditor is closed/disposed
+2024-05-03 17:37:08.946 [warning] TextEditor is closed/disposed
+2024-05-03 17:39:53.237 [warning] TextEditor is closed/disposed
+2024-05-03 17:40:19.324 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:40:19.324 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 17:40:29.103 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:40:29.103 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 17:40:33.321 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:40:33.321 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 17:40:55.544 [warning] TextEditor is closed/disposed
+2024-05-03 17:40:58.708 [warning] TextEditor is closed/disposed
+2024-05-03 17:42:36.222 [warning] TextEditor is closed/disposed
+2024-05-03 17:42:37.139 [warning] TextEditor is closed/disposed
+2024-05-03 17:49:23.270 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:49:23.271 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 17:49:54.293 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:49:54.293 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 17:49:59.205 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:49:59.205 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 17:50:05.941 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:50:05.941 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 17:50:09.923 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:50:09.923 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 17:51:50.786 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:51:50.786 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 17:52:34.219 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:52:34.219 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 17:52:34.397 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:52:34.397 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 17:52:37.392 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:52:37.392 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 17:53:11.175 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:53:11.175 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 17:53:13.955 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:53:13.955 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 17:53:25.145 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:53:25.145 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 17:53:25.693 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:53:25.694 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 17:54:19.089 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:54:19.089 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 17:59:54.856 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:59:54.856 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 17:59:56.407 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 17:59:56.407 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:04:15.229 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:04:15.229 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:10:35.306 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:10:35.306 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:11:05.395 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:11:05.395 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:11:20.024 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:11:20.024 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:11:24.951 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:11:24.951 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:11:39.140 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:11:39.140 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:11:59.301 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:11:59.301 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:12:00.332 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:12:00.332 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:12:02.192 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:12:02.192 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:14:13.138 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:14:13.138 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:14:17.947 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:14:17.947 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:14:19.424 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:14:19.424 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:14:21.535 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:14:21.535 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:14:22.005 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:14:22.005 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:15:08.457 [warning] TextEditor is closed/disposed
+2024-05-03 18:16:48.470 [warning] TextEditor is closed/disposed
+2024-05-03 18:16:52.110 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:16:52.110 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:17:55.292 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:17:55.293 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:18:05.258 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:18:05.258 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:18:36.690 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:18:36.690 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:18:43.025 [warning] TextEditor is closed/disposed
+2024-05-03 18:18:43.813 [warning] TextEditor is closed/disposed
+2024-05-03 18:19:41.702 [warning] TextEditor is closed/disposed
+2024-05-03 18:19:43.422 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:19:43.422 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:21:07.906 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:21:07.906 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:21:09.337 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:21:09.337 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:21:11.164 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:21:11.164 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:21:24.549 [warning] TextEditor is closed/disposed
+2024-05-03 18:23:06.608 [warning] TextEditor is closed/disposed
+2024-05-03 18:23:07.984 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:23:07.984 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:23:15.425 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:23:15.425 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:23:22.771 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:23:22.771 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:23:32.970 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:23:32.970 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:23:33.870 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:23:33.870 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:30:32.304 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:30:32.304 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:31:02.203 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:31:02.204 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:31:02.745 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:31:02.745 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:32:12.143 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:32:12.143 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:32:15.687 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:32:15.687 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:41:14.162 [warning] TextEditor is closed/disposed
+2024-05-03 18:41:25.427 [warning] TextEditor is closed/disposed
+2024-05-03 18:41:27.869 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:41:27.869 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:41:41.618 [warning] TextEditor is closed/disposed
+2024-05-03 18:42:03.698 [warning] TextEditor is closed/disposed
+2024-05-03 18:42:14.616 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:42:14.616 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:42:27.953 [warning] TextEditor is closed/disposed
+2024-05-03 18:42:30.894 [warning] TextEditor is closed/disposed
+2024-05-03 18:42:52.533 [warning] TextEditor is closed/disposed
+2024-05-03 18:42:55.587 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:42:55.587 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:43:14.375 [warning] TextEditor is closed/disposed
+2024-05-03 18:43:17.582 [warning] TextEditor is closed/disposed
+2024-05-03 18:44:39.927 [warning] TextEditor is closed/disposed
+2024-05-03 18:44:42.259 [warning] TextEditor is closed/disposed
+2024-05-03 18:45:09.642 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:45:09.642 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:45:15.264 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:45:15.265 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:45:26.899 [warning] TextEditor is closed/disposed
+2024-05-03 18:45:35.876 [warning] TextEditor is closed/disposed
+2024-05-03 18:45:55.619 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:45:55.619 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:46:01.366 [warning] TextEditor is closed/disposed
+2024-05-03 18:46:15.906 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:46:15.907 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:46:53.264 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:46:53.264 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:47:08.903 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:47:08.903 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:47:34.457 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:47:34.457 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:49:08.052 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:49:08.052 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:50:20.414 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:50:20.414 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:54:10.458 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:54:10.458 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:56:08.857 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:56:08.857 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:57:23.577 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 18:57:23.577 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 18:58:19.559 [warning] TextEditor is closed/disposed
+2024-05-03 19:00:16.570 [warning] TextEditor is closed/disposed
+2024-05-03 19:01:16.112 [warning] TextEditor is closed/disposed
+2024-05-03 19:01:53.020 [warning] TextEditor is closed/disposed
+2024-05-03 19:01:53.687 [warning] TextEditor is closed/disposed
+2024-05-03 19:01:56.715 [warning] TextEditor is closed/disposed
+2024-05-03 19:52:54.385 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 19:52:54.397 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 19:53:06.010 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 19:53:06.010 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 19:56:11.184 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 19:56:11.184 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 19:56:12.365 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 19:56:12.365 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 19:56:20.628 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 19:56:20.628 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 19:56:22.120 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 19:56:22.121 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 19:57:01.756 [warning] TextEditor is closed/disposed
+2024-05-03 20:01:40.675 [warning] TextEditor is closed/disposed
+2024-05-03 20:03:51.019 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:03:51.019 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:03:55.435 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:03:55.435 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:04:26.067 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:04:26.067 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:04:32.395 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:04:32.396 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:04:41.668 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:04:41.668 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:04:49.381 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:04:49.381 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:04:50.334 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:04:50.334 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:04:51.804 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:04:51.804 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:05:06.396 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:05:06.396 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:05:09.749 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:05:09.749 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:05:40.988 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:05:40.988 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:06:13.476 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:06:13.476 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:06:18.486 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:06:18.486 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:06:20.444 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:06:20.445 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:06:21.209 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:06:21.209 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:06:21.441 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:06:21.441 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:06:21.831 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:06:21.831 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:08:27.564 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:08:27.564 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:09:12.787 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:09:12.787 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:09:13.039 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:09:13.039 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:09:15.840 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:09:15.840 [error] Error: Illegal argument: character must be non-negative
+	at p (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1029)
+	at new m (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4728)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6193)
+	at qf.findSymbol (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:65:72780)
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7652)
+	at E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93385)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:121405
+	at Re.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:118853)
+	at Re.$provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:121392)
+	at u.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5502)
+	at u.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5268)
+	at u.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:4323)
+	at u.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:3440)
+	at o.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2227)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at o.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:8018)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6298)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-05-03 20:11:38.711 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:11:38.711 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:12:37.648 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:12:37.648 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:13:48.616 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:13:48.616 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:14:35.750 [warning] TextEditor is closed/disposed
+2024-05-03 20:14:43.470 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 20:14:43.470 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":56007}]}}
+2024-05-03 20:14:43.470 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 20:14:43.470 [error] {"a":true,"b":null}
+2024-05-03 20:14:53.825 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 20:14:53.825 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":56143}]}}
+2024-05-03 20:14:53.825 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 20:14:53.825 [error] {"a":true,"b":null}
+2024-05-03 20:14:53.825 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 20:14:53.825 [error] {"a":true,"b":null}
+2024-05-03 20:14:54.768 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 20:14:54.768 [error] {"a":true,"b":null}
+2024-05-03 20:14:54.768 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 20:14:54.768 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":56167}]}}
+2024-05-03 20:14:54.768 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 20:14:54.768 [error] {"a":true,"b":null}
+2024-05-03 20:14:54.769 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 20:14:54.769 [error] {"a":true,"b":null}
+2024-05-03 20:14:54.769 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 20:14:54.769 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":56175}]}}
+2024-05-03 20:22:47.853 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 20:22:47.853 [error] {"a":true,"b":null}
+2024-05-03 20:24:18.031 [warning] TextEditor is closed/disposed
+2024-05-03 20:24:22.104 [warning] TextEditor is closed/disposed
+2024-05-03 20:24:25.601 [warning] TextEditor is closed/disposed
+2024-05-03 20:24:55.517 [warning] TextEditor is closed/disposed
+2024-05-03 20:25:21.509 [warning] TextEditor is closed/disposed
+2024-05-03 20:25:23.621 [warning] TextEditor is closed/disposed
+2024-05-03 20:25:33.749 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:25:33.749 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:25:42.229 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:25:42.230 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:25:42.816 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:25:42.816 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:25:46.803 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:25:46.803 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:26:28.565 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:26:28.565 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:27:11.004 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:27:11.004 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:27:12.177 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:27:12.177 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:27:13.490 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:27:13.490 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:27:20.433 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:27:20.433 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:27:26.172 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:27:26.172 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:27:27.359 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:27:27.359 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:27:27.933 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:27:27.933 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:27:28.627 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:27:28.627 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:27:30.125 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:27:30.125 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:27:59.052 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:27:59.052 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 20:28:19.832 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:28:19.833 [error] Error: Illegal argument: character must be non-negative
+	at p (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1029)
+	at new m (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4728)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6193)
+	at qf.findSymbol (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:65:72780)
+	at X_.provideDefinition (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:8267)
+	at h.provideDefinition (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:92652)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:120450
+	at Re.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:118853)
+	at Re.$provideDefinition (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:120437)
+	at u.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5502)
+	at u.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5268)
+	at u.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:4323)
+	at u.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:3440)
+	at o.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2227)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at o.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:8018)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6298)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-05-03 20:28:19.839 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:28:19.839 [error] Error: Illegal argument: character must be non-negative
+	at p (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1029)
+	at new m (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4728)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6193)
+	at qf.findSymbol (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:65:72780)
+	at X_.provideDefinition (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:8267)
+	at h.provideDefinition (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:92652)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:120450
+	at Re.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:118853)
+	at Re.$provideDefinition (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:120437)
+	at u.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5502)
+	at u.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5268)
+	at u.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:4323)
+	at u.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:3440)
+	at o.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2227)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at o.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:8018)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6298)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-05-03 20:28:19.844 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:28:19.844 [error] Error: Illegal argument: character must be non-negative
+	at p (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1029)
+	at new m (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4728)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6193)
+	at qf.findSymbol (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:65:72780)
+	at X_.provideDefinition (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:8267)
+	at h.provideDefinition (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:92652)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:120450
+	at Re.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:118853)
+	at Re.$provideDefinition (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:120437)
+	at u.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5502)
+	at u.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5268)
+	at u.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:4323)
+	at u.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:3440)
+	at o.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2227)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at o.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:8018)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6298)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-05-03 20:28:19.853 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 20:28:19.853 [error] Error: Illegal argument: character must be non-negative
+	at p (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1029)
+	at new m (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4728)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6193)
+	at qf.findSymbol (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:65:72780)
+	at X_.provideDefinition (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:8267)
+	at h.provideDefinition (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:92652)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:120450
+	at Re.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:118853)
+	at Re.$provideDefinition (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:120437)
+	at u.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5502)
+	at u.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5268)
+	at u.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:4323)
+	at u.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:3440)
+	at o.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2227)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at o.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:8018)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6298)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-05-03 20:28:21.246 [warning] TextEditor is closed/disposed
+2024-05-03 20:32:58.929 [warning] TextEditor is closed/disposed
+2024-05-03 20:34:48.432 [warning] TextEditor is closed/disposed
+2024-05-03 21:34:02.380 [warning] TextEditor is closed/disposed
+2024-05-03 21:34:04.155 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-03 21:34:04.155 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 21:34:10.725 [warning] TextEditor is closed/disposed
+2024-05-03 21:39:25.978 [warning] TextEditor is closed/disposed
+2024-05-03 21:41:00.834 [warning] TextEditor is closed/disposed
+2024-05-03 21:41:21.156 [warning] TextEditor is closed/disposed
+2024-05-03 21:41:23.213 [warning] TextEditor is closed/disposed
+2024-05-03 21:41:29.775 [warning] TextEditor is closed/disposed
+2024-05-03 21:41:40.846 [warning] TextEditor is closed/disposed
+2024-05-03 21:42:09.288 [warning] TextEditor is closed/disposed
+2024-05-03 21:42:31.520 [warning] TextEditor is closed/disposed
+2024-05-03 21:42:40.294 [warning] TextEditor is closed/disposed
+2024-05-03 21:42:43.290 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 21:42:43.290 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 21:42:43.290 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 21:42:43.301 [error] Error: abort(Git error {
+  "exitCode": 128,
+  "stdout": "",
+  "stderr": "fatal: pathspec '/home/louis/gits/ysyx/ysyx-workbench/nemu/src/isa/riscv64/init.c' is beyond a symbolic link\n"
+}). Build with -s ASSERTIONS=1 for more info.
+	at process.te (/home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/out/extension.js:2:1049938)
+	at process.emit (node:events:529:35)
+	at emit (node:internal/process/promises:149:20)
+	at processPromiseRejections (node:internal/process/promises:283:27)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+2024-05-03 21:42:43.395 [error] Error: abort(Git error {
+  "exitCode": 128,
+  "stdout": "",
+  "stderr": "fatal: pathspec '/home/louis/gits/ysyx/ysyx-workbench/nemu/src/isa/riscv64/init.c' is beyond a symbolic link\n"
+}). Build with -s ASSERTIONS=1 for more info.
+	at process.te (/home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/out/extension.js:2:1049938)
+	at process.emit (node:events:529:35)
+	at emit (node:internal/process/promises:149:20)
+	at processPromiseRejections (node:internal/process/promises:283:27)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+2024-05-03 21:42:43.473 [error] Error: abort(Git error {
+  "exitCode": 128,
+  "stdout": "",
+  "stderr": "fatal: pathspec '/home/louis/gits/ysyx/ysyx-workbench/nemu/src/isa/riscv64/init.c' is beyond a symbolic link\n"
+}). Build with -s ASSERTIONS=1 for more info.
+	at process.te (/home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/out/extension.js:2:1049938)
+	at process.emit (node:events:529:35)
+	at emit (node:internal/process/promises:149:20)
+	at processPromiseRejections (node:internal/process/promises:283:27)
+	at processTicksAndRejections (node:internal/process/task_queues:96:32)
+	at runNextTicks (node:internal/process/task_queues:64:3)
+	at process.processImmediate (node:internal/timers:447:9)
+2024-05-03 21:42:44.291 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 21:42:44.396 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 21:42:44.474 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-03 21:42:46.733 [warning] TextEditor is closed/disposed
+2024-05-03 21:43:33.253 [warning] TextEditor is closed/disposed
+2024-05-03 21:43:47.548 [warning] TextEditor is closed/disposed
+2024-05-03 21:43:50.106 [warning] TextEditor is closed/disposed
+2024-05-03 21:43:54.469 [warning] TextEditor is closed/disposed
+2024-05-03 21:44:28.092 [warning] TextEditor is closed/disposed
+2024-05-03 21:44:39.137 [warning] TextEditor is closed/disposed
+2024-05-03 21:44:56.791 [warning] TextEditor is closed/disposed
+2024-05-03 21:46:02.494 [warning] TextEditor is closed/disposed
+2024-05-03 21:46:08.678 [warning] TextEditor is closed/disposed
+2024-05-03 21:46:10.015 [warning] TextEditor is closed/disposed
+2024-05-03 21:46:13.958 [warning] TextEditor is closed/disposed
+2024-05-03 21:46:33.414 [warning] TextEditor is closed/disposed
+2024-05-03 21:50:10.150 [warning] TextEditor is closed/disposed
+2024-05-03 21:50:11.534 [warning] TextEditor is closed/disposed
+2024-05-03 21:51:29.354 [warning] TextEditor is closed/disposed
+2024-05-03 21:51:29.441 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-05-03 21:52:54.680 [warning] TextEditor is closed/disposed
+2024-05-03 21:58:20.371 [warning] TextEditor is closed/disposed
+2024-05-03 21:58:25.142 [warning] TextEditor is closed/disposed
+2024-05-03 22:44:26.267 [warning] TextEditor is closed/disposed
+2024-05-03 22:45:34.379 [warning] TextEditor is closed/disposed
+2024-05-03 22:48:53.877 [warning] TextEditor is closed/disposed
+2024-05-03 22:49:26.438 [warning] TextEditor is closed/disposed
+2024-05-03 22:49:33.007 [warning] TextEditor is closed/disposed
+2024-05-03 22:49:53.879 [warning] TextEditor is closed/disposed
+2024-05-03 22:49:53.954 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-05-03 22:49:53.954 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-05-03 22:49:53.955 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-05-03 22:50:40.465 [warning] TextEditor is closed/disposed
+2024-05-03 22:50:46.006 [warning] TextEditor is closed/disposed
+2024-05-03 22:53:12.497 [warning] TextEditor is closed/disposed
+2024-05-03 22:53:27.736 [warning] TextEditor is closed/disposed
+2024-05-03 22:53:30.936 [warning] TextEditor is closed/disposed
+2024-05-03 22:59:01.207 [warning] TextEditor is closed/disposed
+2024-05-03 23:00:11.209 [warning] TextEditor is closed/disposed
+2024-05-03 23:01:57.757 [warning] TextEditor is closed/disposed
+2024-05-03 23:04:57.243 [warning] TextEditor is closed/disposed
+2024-05-03 23:05:15.423 [warning] TextEditor is closed/disposed
+2024-05-03 23:05:40.072 [warning] TextEditor is closed/disposed
+2024-05-03 23:06:48.111 [warning] TextEditor is closed/disposed
+2024-05-03 23:06:53.031 [warning] TextEditor is closed/disposed
+2024-05-03 23:07:23.832 [warning] TextEditor is closed/disposed
+2024-05-03 23:07:27.859 [warning] TextEditor is closed/disposed
+2024-05-03 23:52:12.922 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-03 23:52:12.922 [error] {"a":true,"b":null}
+2024-05-04 00:03:21.109 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 00:03:21.109 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 00:03:21.109 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 00:03:21.109 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 00:03:21.110 [error] Error: abort(Git error {
+  "exitCode": 128,
+  "stdout": "",
+  "stderr": "fatal: pathspec '/home/louis/gits/ysyx/ysyx-workbench/nemu/src/isa/riscv64/init.c' is beyond a symbolic link\n"
+}). Build with -s ASSERTIONS=1 for more info.
+	at process.te (/home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/out/extension.js:2:1049938)
+	at process.emit (node:events:529:35)
+	at emit (node:internal/process/promises:149:20)
+	at processPromiseRejections (node:internal/process/promises:283:27)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+2024-05-04 00:03:21.189 [error] Error: abort(Git error {
+  "exitCode": 128,
+  "stdout": "",
+  "stderr": "fatal: pathspec '/home/louis/gits/ysyx/ysyx-workbench/nemu/src/isa/riscv64/init.c' is beyond a symbolic link\n"
+}). Build with -s ASSERTIONS=1 for more info.
+	at process.te (/home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/out/extension.js:2:1049938)
+	at process.emit (node:events:529:35)
+	at emit (node:internal/process/promises:149:20)
+	at processPromiseRejections (node:internal/process/promises:283:27)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+2024-05-04 00:03:21.251 [error] Error: abort(Git error {
+  "exitCode": 128,
+  "stdout": "",
+  "stderr": "fatal: pathspec '/home/louis/gits/ysyx/ysyx-workbench/nemu/src/isa/riscv64/init.c' is beyond a symbolic link\n"
+}). Build with -s ASSERTIONS=1 for more info.
+	at process.te (/home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/out/extension.js:2:1049938)
+	at process.emit (node:events:529:35)
+	at emit (node:internal/process/promises:149:20)
+	at processPromiseRejections (node:internal/process/promises:283:27)
+	at processTicksAndRejections (node:internal/process/task_queues:96:32)
+	at runNextTicks (node:internal/process/task_queues:64:3)
+	at process.processImmediate (node:internal/timers:447:9)
+2024-05-04 00:03:21.310 [error] Error: abort(Git error {
+  "exitCode": 128,
+  "stdout": "",
+  "stderr": "fatal: pathspec '/home/louis/gits/ysyx/ysyx-workbench/nemu/src/isa/riscv64/init.c' is beyond a symbolic link\n"
+}). Build with -s ASSERTIONS=1 for more info.
+	at process.te (/home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/out/extension.js:2:1049938)
+	at process.emit (node:events:529:35)
+	at emit (node:internal/process/promises:149:20)
+	at processPromiseRejections (node:internal/process/promises:283:27)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+2024-05-04 00:03:22.110 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 00:03:22.189 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 00:03:22.251 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 00:03:22.310 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 00:03:36.028 [warning] TextEditor is closed/disposed
+2024-05-04 00:03:44.406 [warning] TextEditor is closed/disposed
+2024-05-04 00:35:00.636 [warning] TextEditor is closed/disposed
+2024-05-04 00:35:05.905 [warning] TextEditor is closed/disposed
+2024-05-04 00:56:14.897 [warning] TextEditor is closed/disposed
+2024-05-04 00:56:18.642 [warning] TextEditor is closed/disposed
+2024-05-04 01:02:52.474 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 01:02:52.474 [error] {"a":true,"b":null}
+2024-05-04 01:04:03.735 [warning] TextEditor is closed/disposed
+2024-05-04 01:21:05.632 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 01:21:05.632 [error] {"a":true,"b":null}
+2024-05-04 01:29:39.688 [warning] TextEditor is closed/disposed
+2024-05-04 01:30:07.280 [warning] TextEditor is closed/disposed
+2024-05-04 01:31:00.217 [warning] TextEditor is closed/disposed
+2024-05-04 01:31:25.557 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-04 01:31:25.604 [warning] Canceled
+2024-05-04 01:31:25.607 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at o.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945802)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:729)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:945)
+	at Object.m [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964886)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970920
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970906)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3830)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:948059)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-04 01:31:25.607 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at o.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945802)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:729)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:945)
+	at Object.m [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964886)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970920
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970906)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3830)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:948059)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-04 01:31:25.607 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at o.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945802)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:729)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:945)
+	at Object.m [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964886)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970920
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970906)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3830)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:948059)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-04 01:31:25.607 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at set hasGitHubRepositories [as hasGitHubRepositories] (/usr/share/code/resources/app/extensions/github/dist/extension.js:2:324866)
+	at /usr/share/code/resources/app/extensions/github/dist/extension.js:2:325825
+	at o.value (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1051703)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:729)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:945)
+	at Object.m [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964886)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970920
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970906)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3830)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:948059)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-04 01:31:25.608 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at w (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1081:41198)
+	at h (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1081:46237)
+	at ActionRunners._updateContextKeys (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:18411)
+	at s (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16855)
+	at RegisteredActionRunner.unregister (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16998)
+	at RegisteredActionRunner.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:15651)
+	at ActionRunners.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16438)
+	at /home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1041:19519
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1041:19501)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-04 01:31:25.608 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at w (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1081:41198)
+	at h (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1081:46237)
+	at ActionRunners._updateContextKeys (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:18411)
+	at s (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16855)
+	at RegisteredActionRunner.unregister (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16998)
+	at RegisteredActionRunner.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:15651)
+	at ActionRunners.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16438)
+	at /home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1041:19519
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1041:19501)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-04 01:31:25.608 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at w (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1081:41198)
+	at h (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1081:46237)
+	at ActionRunners._updateContextKeys (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:18411)
+	at s (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16855)
+	at RegisteredActionRunner.unregister (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16998)
+	at RegisteredActionRunner.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:15651)
+	at ActionRunners.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16438)
+	at /home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1041:19519
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1041:19501)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-04 01:31:25.608 [error] Error: abort(Canceled: Canceled). Build with -s ASSERTIONS=1 for more info.
+	at process.te (/home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/out/extension.js:2:1049938)
+	at process.emit (node:events:529:35)
+	at emit (node:internal/process/promises:149:20)
+	at processPromiseRejections (node:internal/process/promises:283:27)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+2024-05-04 01:31:25.688 [error] Error: abort(Canceled: Canceled). Build with -s ASSERTIONS=1 for more info.
+	at process.te (/home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/out/extension.js:2:1049938)
+	at process.emit (node:events:529:35)
+	at emit (node:internal/process/promises:149:20)
+	at processPromiseRejections (node:internal/process/promises:283:27)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+2024-05-04 01:31:25.766 [error] Error: abort(Canceled: Canceled). Build with -s ASSERTIONS=1 for more info.
+	at process.te (/home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/out/extension.js:2:1049938)
+	at process.emit (node:events:529:35)
+	at emit (node:internal/process/promises:149:20)
+	at processPromiseRejections (node:internal/process/promises:283:27)
+	at processTicksAndRejections (node:internal/process/task_queues:96:32)
+	at runNextTicks (node:internal/process/task_queues:64:3)
+	at process.processTimers (node:internal/timers:509:9)
+2024-05-04 01:31:25.840 [error] Error: abort(Canceled: Canceled). Build with -s ASSERTIONS=1 for more info.
+	at process.te (/home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/out/extension.js:2:1049938)
+	at process.emit (node:events:529:35)
+	at emit (node:internal/process/promises:149:20)
+	at processPromiseRejections (node:internal/process/promises:283:27)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+2024-05-04 01:31:25.903 [error] Error: abort(Canceled: Canceled). Build with -s ASSERTIONS=1 for more info.
+	at process.te (/home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/out/extension.js:2:1049938)
+	at process.emit (node:events:529:35)
+	at emit (node:internal/process/promises:149:20)
+	at processPromiseRejections (node:internal/process/promises:283:27)
+	at processTicksAndRejections (node:internal/process/task_queues:96:32)
+	at runNextTicks (node:internal/process/task_queues:64:3)
+	at listOnTimeout (node:internal/timers:538:9)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-04 01:31:25.969 [error] Error: abort(Canceled: Canceled). Build with -s ASSERTIONS=1 for more info.
+	at process.te (/home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/out/extension.js:2:1049938)
+	at process.emit (node:events:529:35)
+	at emit (node:internal/process/promises:149:20)
+	at processPromiseRejections (node:internal/process/promises:283:27)
+	at processTicksAndRejections (node:internal/process/task_queues:96:32)
+	at runNextTicks (node:internal/process/task_queues:64:3)
+	at listOnTimeout (node:internal/timers:538:9)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-04 01:31:26.042 [error] Error: abort(Canceled: Canceled). Build with -s ASSERTIONS=1 for more info.
+	at process.te (/home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/out/extension.js:2:1049938)
+	at process.emit (node:events:529:35)
+	at emit (node:internal/process/promises:149:20)
+	at processPromiseRejections (node:internal/process/promises:283:27)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+2024-05-04 01:31:26.109 [error] Error: abort(Canceled: Canceled). Build with -s ASSERTIONS=1 for more info.
+	at process.te (/home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/out/extension.js:2:1049938)
+	at process.emit (node:events:529:35)
+	at emit (node:internal/process/promises:149:20)
+	at processPromiseRejections (node:internal/process/promises:283:27)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+2024-05-04 01:31:26.164 [error] Error: abort(Canceled: Canceled). Build with -s ASSERTIONS=1 for more info.
+	at process.te (/home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/out/extension.js:2:1049938)
+	at process.emit (node:events:529:35)
+	at emit (node:internal/process/promises:149:20)
+	at processPromiseRejections (node:internal/process/promises:283:27)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+2024-05-04 01:31:26.219 [error] Error: abort(Error: Channel has been closed). Build with -s ASSERTIONS=1 for more info.
+	at process.te (/home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/out/extension.js:2:1049938)
+	at process.emit (node:events:529:35)
+	at emit (node:internal/process/promises:149:20)
+	at processPromiseRejections (node:internal/process/promises:283:27)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+2024-05-04 01:31:26.271 [error] Error: abort(Error: Channel has been closed). Build with -s ASSERTIONS=1 for more info.
+	at process.te (/home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/out/extension.js:2:1049938)
+	at process.emit (node:events:529:35)
+	at emit (node:internal/process/promises:149:20)
+	at processPromiseRejections (node:internal/process/promises:283:27)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+2024-05-04 01:31:26.325 [error] Error: abort(Error: Channel has been closed). Build with -s ASSERTIONS=1 for more info.
+	at process.te (/home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/out/extension.js:2:1049938)
+	at process.emit (node:events:529:35)
+	at emit (node:internal/process/promises:149:20)
+	at processPromiseRejections (node:internal/process/promises:283:27)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:32)
+2024-05-04 01:31:26.380 [info] Extension host with pid 36672 exiting with code 0

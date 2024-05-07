@@ -1,0 +1,34 @@
+feat: Update Exercise 17~18
+
+- finished exercise 17 and 18
+- unfinished exercise 32
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa0
+# Changes to be committed:
+#	new file:   C-Programming/.vscode/launch.json
+#	new file:   C-Programming/.vscode/tasks.json
+#	modified:   C-Programming/Makefile
+#	new file:   C-Programming/auto_ex17_sub.sh
+#	modified:   C-Programming/db.dat
+#	modified:   C-Programming/ex17.c
+#	new file:   C-Programming/ex17_other.c
+#	new file:   C-Programming/ex17_sub.c
+#	new file:   C-Programming/ex18.c
+#	new file:   C-Programming/ex18_sub.c
+#	new file:   C-Programming/ex32/liblcthw/Makefile
+#	new file:   C-Programming/ex32/liblcthw/build/liblcthw.a
+#	new file:   C-Programming/ex32/liblcthw/src/lcthw/dbg.h
+#	new file:   C-Programming/ex32/liblcthw/src/lcthw/list.c
+#	new file:   C-Programming/ex32/liblcthw/src/lcthw/list.h
+#	new file:   C-Programming/ex32/liblcthw/src/lcthw/list.o
+#	new file:   C-Programming/ex32/liblcthw/src/lcthw/pre_list.c
+#	new file:   C-Programming/ex32/liblcthw/tests/list_tests
+#	new file:   C-Programming/ex32/liblcthw/tests/list_tests.c
+#	new file:   C-Programming/ex32/liblcthw/tests/list_tests.tst
+#	new file:   C-Programming/ex32/liblcthw/tests/minunit.h
+#	new file:   C-Programming/ex32/liblcthw/tests/runtests.sh
+#	new file:   C-Programming/ex32/liblcthw/tests/tests.log
+#	new file:   C-Programming/my_stack.c
+#

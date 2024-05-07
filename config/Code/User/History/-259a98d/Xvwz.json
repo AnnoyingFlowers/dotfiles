@@ -1,0 +1,26 @@
+{
+    "clangd.arguments": [
+        "--compile-commands-dir=${workspaceFolder}/build/"
+    ],
+    "clangd.path": "/usr/bin/clangd",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "explorer.confirmDelete": false,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.lambda": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.namespace": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.type": "sameLine",
+    "C_Cpp.clang_format_fallbackStyle": "Google",
+    "editor.detectIndentation": false,
+    "C_Cpp.clang_format_style": "{BasedOnStyle: Mozilla, IndentWidth: 4, TabWidth: 4}",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "workbench.sideBar.location": "right",
+    "window.customTitleBarVisibility": "auto",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "'JetBrains Mono', 'Droid Sans Mono', 'monospace', monospace",
+    "terminal.explorerKind": "external"
+}

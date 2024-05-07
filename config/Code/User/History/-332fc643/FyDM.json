@@ -1,0 +1,16 @@
+{
+  "css.validate": false,
+  "less.validate": false,
+  "files.autoSave": "off",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+},
+  "i18n-ally.localesPaths": [
+    "packages/renderer/src/i18n"
+  ],
+  "i18n-ally.keystyle": "nested",
+  "[javascript][typescript][vue][css][less]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

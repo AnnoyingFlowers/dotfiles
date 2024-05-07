@@ -1,0 +1,20 @@
+feat: 更新数电exp01
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa0
+# Your branch is up to date with 'backup/pa0'.
+#
+# Changes to be committed:
+#	new file:   dlco-test/exp01/.gitignore
+#	new file:   dlco-test/exp01/Makefile
+#	new file:   dlco-test/exp01/constr/top.nxdc
+#	new file:   dlco-test/exp01/csrc/main.cpp
+#	new file:   dlco-test/exp01/vsrc/MuxKey.v
+#	new file:   dlco-test/exp01/vsrc/MuxKeyInternal.v
+#	new file:   dlco-test/exp01/vsrc/MuxKeyWithDefault.v
+#	new file:   dlco-test/exp01/vsrc/mux21e.v
+#	new file:   dlco-test/exp01/vsrc/mux41_dual.v
+#	new file:   dlco-test/exp01/vsrc/mux41b.v
+#	modified:   npc/Makefile
+#

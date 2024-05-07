@@ -1,0 +1,70 @@
+[Launch - 14:30:46] <vlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 14:30:46] <vlog lsp manager> default build-in linter has been activated
+[Launch - 14:30:46] <vhdl lsp manager> detect linter setting changes, switch from default to default.
+[Info - 14:30:46] <vhdl lsp manager> default build-in linter has been activated
+[Launch - 14:30:46] <svlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 14:30:46] <svlog lsp manager> default build-in linter has been activated
+[Launch - 14:30:46] <vlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 14:30:46] <vlog lsp manager> default build-in linter has been activated
+[Launch - 14:30:46] <vhdl lsp manager> detect linter setting changes, switch from default to default.
+[Info - 14:30:46] <vhdl lsp manager> default build-in linter has been activated
+[Launch - 14:30:46] <svlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 14:30:46] <svlog lsp manager> default build-in linter has been activated
+[Launch - 14:30:46] <vlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 14:30:46] <vlog lsp manager> default build-in linter has been activated
+[Launch - 14:30:46] <vhdl lsp manager> detect linter setting changes, switch from default to default.
+[Info - 14:30:46] <vhdl lsp manager> default build-in linter has been activated
+[Launch - 14:30:46] <svlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 14:30:46] <svlog lsp manager> default build-in linter has been activated
+[Launch - 14:30:47] <vlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 14:30:47] <vlog lsp manager> default build-in linter has been activated
+[Launch - 14:30:47] <vhdl lsp manager> detect linter setting changes, switch from default to default.
+[Info - 14:30:47] <vhdl lsp manager> default build-in linter has been activated
+[Launch - 14:30:47] <svlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 14:30:47] <svlog lsp manager> default build-in linter has been activated
+[Launch - 14:30:47] <vlog lsp manager> finish initialization of vlog linter. Linter name: default
+[Launch - 14:30:47] <vhdl lsp manager> finish initialization of vhdl linter. Linter name: default
+[Launch - 14:30:47] <svlog lsp manager> finish initialization of svlog linter. Linter name: default
+[Info - 14:31:30] <vlog hover> get port info data
+[Info - 14:31:30] <vlog hover> get port info nextdata_n
+[Info - 14:31:31] <vlog hover> get port info clk
+[Info - 14:31:32] <vlog hover> get port info ps2_clk
+[Info - 14:31:41] <vlog hover> get port info nextdata_n
+[Info - 14:31:41] <vlog hover> get port info nextdata_n
+[Info - 14:31:43] <vlog hover> get port info clk
+[Info - 14:31:44] <vlog hover> get port info clk
+[Info - 14:31:44] <vlog hover> get port info clk
+[Info - 14:31:47] <vlog hover> get port info data
+[Info - 14:31:47] <vlog hover> get port info nextdata_n
+[Info - 14:31:47] <vlog hover> get port info nextdata_n
+[Info - 14:31:50] <vlog hover> get port info ready
+[Info - 14:31:50] <vlog hover> get port info data
+[Info - 14:31:57] <vlog hover> get port info nextdata_n
+[Info - 14:31:58] <vlog hover> get port info nextdata_n
+[Info - 14:34:14] <vlog hover> get port info rst
+[Info - 14:34:15] <vlog hover> get port info rst
+[Info - 14:34:15] <vlog hover> get port info clk
+[Info - 14:34:15] <vlog hover> get port info clk
+[Info - 14:34:16] <vlog hover> get port info clk
+[Info - 14:34:16] <vlog hover> get port info clk
+[Info - 14:34:26] <vlog hover> get port info is_press
+[Info - 14:34:27] <vlog hover> get port info ps2_clk
+[Info - 14:34:27] <vlog hover> get port info ps2_clk
+[Info - 14:34:33] <vlog hover> get port info is_press
+[Info - 14:34:33] <vlog hover> get port info is_press
+[Info - 14:34:36] <vlog hover> get port info ps2_data
+[Info - 14:34:36] <vlog hover> get port info ps2_data
+[Info - 14:34:38] <vlog hover> get port info ps2_data
+[Info - 14:34:39] <vlog hover> get port info is_press
+[Info - 14:34:40] <vlog hover> get port info is_press
+[Info - 14:34:41] <vlog hover> get port info count
+[Info - 14:34:41] <vlog hover> get port info count
+[Info - 14:34:42] <vlog hover> get port info count
+[Info - 14:34:42] <vlog hover> get port info key
+[Info - 14:34:43] <vlog hover> get port info key
+[Info - 14:34:45] <vlog hover> get port info key
+[Info - 14:34:56] <vlog hover> get port info key
+[Info - 14:38:30] <vlog hover> get port info overflow
+[Info - 15:34:23] <vlog hover> get port info data
+[Info - 15:34:24] <vlog hover> get port info nextdata_n
+[Info - 15:38:30] <vlog hover> get port info data

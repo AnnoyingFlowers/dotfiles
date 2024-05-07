@@ -1,0 +1,28 @@
+feat: 更新数电exp06
+
+- 实现移位寄存器
+- 实现桶形移位器
+- 实现线性反馈移位寄存器
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa0
+# Your branch is up to date with 'backup/pa0'.
+#
+# Changes to be committed:
+#	modified:   dlco-test/exp-template/Makefile
+#	modified:   dlco-test/exp-template/csrc/main.cpp
+#	new file:   dlco-test/exp06/.gitignore
+#	new file:   dlco-test/exp06/Makefile
+#	new file:   dlco-test/exp06/constr/top.nxdc
+#	new file:   dlco-test/exp06/csrc/main.cpp
+#	new file:   dlco-test/exp06/vsrc/LFSR.v
+#	new file:   dlco-test/exp06/vsrc/MuxKey.v
+#	new file:   dlco-test/exp06/vsrc/MuxKeyInternal.v
+#	new file:   dlco-test/exp06/vsrc/MuxKeyWithDefault.v
+#	new file:   dlco-test/exp06/vsrc/barrel_shifter8.v
+#	new file:   dlco-test/exp06/vsrc/mux21a.v
+#	new file:   dlco-test/exp06/vsrc/mux41ab.v
+#	new file:   dlco-test/exp06/vsrc/shift_register.v
+#	new file:   dlco-test/exp06/vsrc/top.v
+#

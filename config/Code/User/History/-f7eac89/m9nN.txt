@@ -1,0 +1,2 @@
+project (C-programming) #设置工程名 
+add_executable(C-programming ) #生成可执行文件

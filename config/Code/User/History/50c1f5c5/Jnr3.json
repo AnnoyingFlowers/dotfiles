@@ -1,0 +1,35 @@
+[
+    {
+        "arguments": [
+            "/usr/lib/ccache/g++",
+            "-c",
+            "-std=c++17",
+            "-O2",
+            "-fPIC",
+            "-fvisibility=hidden",
+            "-Irepo",
+            "-Irepo/fesvr",
+            "-Irepo/riscv",
+            "-Irepo/disasm",
+            "-Irepo/customext",
+            "-Irepo/fdt",
+            "-Irepo/softfloat",
+            "-Irepo/spike_main",
+            "-Irepo/spike_dasm",
+            "-Irepo/build",
+            "-I/home/louis/gits/ysyx/ysyx-workbench/nemu/include",
+            "repo/build/libspike_main.a",
+            "repo/build/libriscv.a",
+            "repo/build/libdisasm.a",
+            "repo/build/libsoftfloat.a",
+            "repo/build/libfesvr.a",
+            "repo/build/libfdt.a",
+            "-o",
+            "build/riscv32-spike-so",
+            "difftest.cc"
+        ],
+        "directory": "/home/louis/gits/ysyx/ysyx-workbench/nemu/tools/spike-diff",
+        "file": "/home/louis/gits/ysyx/ysyx-workbench/nemu/tools/spike-diff/difftest.cc",
+        "output": "/home/louis/gits/ysyx/ysyx-workbench/nemu/tools/spike-diff/build/riscv32-spike-so"
+    }
+]

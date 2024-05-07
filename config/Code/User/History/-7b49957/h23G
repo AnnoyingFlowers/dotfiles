@@ -1,0 +1,23 @@
+feat: Update 2 Verilator Tests
+
+- add sim_main example 
+- add double control switch example
+- modify .gitignore
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa0
+# Your branch is up to date with 'origin/pa0'.
+#
+# Changes to be committed:
+#	modified:   .gitignore
+#	new file:   verilator-test/.clang-format
+#	new file:   verilator-test/test_dc_switch/compile_commands.json
+#	new file:   verilator-test/test_dc_switch/main.cpp
+#	new file:   verilator-test/test_dc_switch/top.v
+#	new file:   verilator-test/test_dc_switch/wave.vcd
+#	new file:   verilator-test/test_our/compile_commands.json
+#	new file:   verilator-test/test_our/our.v
+#	new file:   verilator-test/test_our/sim_main.cpp
+#	modified:   ysyx-workbench
+#

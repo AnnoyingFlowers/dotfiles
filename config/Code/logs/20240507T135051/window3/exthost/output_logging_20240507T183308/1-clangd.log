@@ -1,0 +1,80 @@
+I[18:33:09.370] Ubuntu clangd version 14.0.0-1ubuntu1.1
+I[18:33:09.370] Features: linux+grpc
+I[18:33:09.370] PID: 34933
+I[18:33:09.370] Working directory: /home/louis/MAA/ysyx-workbench
+I[18:33:09.370] argv[0]: /usr/bin/clangd
+I[18:33:09.370] argv[1]: --compile-commands-dir=/home/louis/MAA/ysyx-workbench/build/
+I[18:33:09.370] argv[2]: --background-index
+I[18:33:09.370] argv[3]: --completion-style=detailed
+I[18:33:09.370] argv[4]: --header-insertion=never
+I[18:33:09.370] argv[5]: -log=info
+E[18:33:09.370] Path specified by --compile-commands-dir does not exist. The argument will be ignored.
+I[18:33:09.370] Starting LSP over stdin/stdout
+I[18:33:09.370] <-- initialize(0)
+I[18:33:09.371] --> reply:initialize(0) 0 ms
+I[18:33:09.372] <-- initialized
+I[18:33:09.377] <-- textDocument/didOpen
+I[18:33:09.378] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[18:33:09.378] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 1 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[18:33:09.379] --> textDocument/clangd.fileStatus
+I[18:33:09.414] --> workspace/semanticTokens/refresh(0)
+I[18:33:09.414] --> textDocument/clangd.fileStatus
+I[18:33:09.415] <-- reply(0)
+I[18:33:09.421] --> textDocument/publishDiagnostics
+I[18:33:09.421] --> textDocument/clangd.fileStatus
+I[18:33:09.587] <-- textDocument/documentLink(1)
+I[18:33:09.587] --> reply:textDocument/documentLink(1) 0 ms
+I[18:33:09.588] --> textDocument/clangd.fileStatus
+I[18:33:09.589] <-- clangd/inlayHints(2)
+I[18:33:09.589] <-- textDocument/semanticTokens/full(3)
+I[18:33:09.589] --> reply:clangd/inlayHints(2) 0 ms
+I[18:33:09.590] --> reply:textDocument/semanticTokens/full(3) 0 ms
+I[18:33:09.590] --> textDocument/clangd.fileStatus
+I[18:33:09.921] <-- textDocument/documentSymbol(4)
+I[18:33:09.922] --> reply:textDocument/documentSymbol(4) 0 ms
+I[18:33:09.922] --> textDocument/clangd.fileStatus
+I[18:33:10.043] <-- textDocument/documentLink(5)
+I[18:33:10.043] --> reply:textDocument/documentLink(5) 0 ms
+I[18:33:10.043] --> textDocument/clangd.fileStatus
+I[18:33:10.122] <-- $/setTrace
+I[18:33:10.122] unhandled notification $/setTrace
+I[18:33:10.233] <-- textDocument/codeAction(6)
+I[18:33:10.233] --> reply:textDocument/codeAction(6) 0 ms
+I[18:33:10.233] --> textDocument/clangd.fileStatus
+I[18:33:10.308] <-- $/setTrace
+I[18:33:10.308] unhandled notification $/setTrace
+I[18:33:10.507] <-- $/setTrace
+I[18:33:10.507] unhandled notification $/setTrace
+I[18:33:10.551] <-- textDocument/codeAction(7)
+I[18:33:10.552] <-- $/cancelRequest
+I[18:33:10.552] <-- textDocument/codeAction(8)
+I[18:33:10.552] --> reply:textDocument/codeAction(7) 0 ms, error: Task was cancelled.
+I[18:33:10.552] --> reply:textDocument/codeAction(8) 0 ms
+I[18:33:10.552] --> textDocument/clangd.fileStatus
+[Error - 6:33:10 PM] Request textDocument/codeAction failed.
+[object Object]
+I[18:33:10.616] <-- textDocument/documentSymbol(9)
+I[18:33:10.616] --> reply:textDocument/documentSymbol(9) 0 ms
+I[18:33:10.616] --> textDocument/clangd.fileStatus
+I[18:33:10.673] <-- $/setTrace
+I[18:33:10.673] unhandled notification $/setTrace
+I[18:33:10.680] <-- clangd/inlayHints(10)
+I[18:33:10.681] --> reply:clangd/inlayHints(10) 0 ms
+I[18:33:10.681] --> textDocument/clangd.fileStatus
+I[18:33:11.083] <-- textDocument/codeAction(11)
+I[18:33:11.083] --> reply:textDocument/codeAction(11) 0 ms
+I[18:33:11.083] --> textDocument/clangd.fileStatus
+I[18:33:12.585] <-- clangd/inlayHints(12)
+I[18:33:12.586] --> reply:clangd/inlayHints(12) 0 ms
+I[18:33:12.586] --> textDocument/clangd.fileStatus
+I[18:33:29.675] <-- clangd/inlayHints(13)
+I[18:33:29.675] --> reply:clangd/inlayHints(13) 0 ms
+I[18:33:29.676] --> textDocument/clangd.fileStatus
+I[18:33:29.717] <-- clangd/inlayHints(14)
+I[18:33:29.718] --> reply:clangd/inlayHints(14) 0 ms
+I[18:33:29.718] --> textDocument/clangd.fileStatus
+I[18:33:29.757] <-- clangd/inlayHints(15)
+I[18:33:29.757] --> reply:clangd/inlayHints(15) 0 ms
+I[18:33:29.757] --> textDocument/clangd.fileStatus

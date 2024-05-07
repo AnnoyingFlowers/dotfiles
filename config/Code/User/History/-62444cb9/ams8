@@ -1,0 +1,19 @@
+feat: 实现解析elf文件
+
++ 通过args给monitor传elf文件名
++ 利用elf.h库解析符号表和字符串表，并存入结构体便于使用
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa2
+# Your branch is ahead of 'backup/pa2' by 3 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   nemu/Kconfig
+#	modified:   nemu/include/utils.h
+#	modified:   nemu/scripts/native.mk
+#	modified:   nemu/src/monitor/monitor.c
+#	deleted:    nemu/src/utils/ringbuf.c
+#	new file:   nemu/src/utils/tracer.c
+#

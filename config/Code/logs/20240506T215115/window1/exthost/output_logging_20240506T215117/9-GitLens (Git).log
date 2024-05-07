@@ -1,0 +1,42 @@
+[2024-05-06 14:43:29.309] [     10ms] [/home/louis/gits/ysyx/ysyx-workbench/.git] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: this operation must be run in a work tree
+
+
+[2024-05-06 14:52:06.941] [     15ms] [/home/louis/gits/ysyx/.git] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: this operation must be run in a work tree
+
+
+[2024-05-06 15:01:15.978] [     13ms] [/usr/include/x86_64-linux-gnu/bits] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2024-05-06 15:01:29.997] [     11ms] [/usr/include/x86_64-linux-gnu/sys] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2024-05-06 15:12:19.490] [     14ms] [/usr/include/x86_64-linux-gnu/bits/types] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2024-05-06 15:12:25.846] [     14ms] [/usr/include/x86_64-linux-gnu/bits] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2024-05-06 15:42:26.104] [      8ms] [/home/louis/gits/ysyx/ysyx-workbench/am-kernels/.git] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: this operation must be run in a work tree
+
+

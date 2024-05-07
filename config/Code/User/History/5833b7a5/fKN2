@@ -1,0 +1,4 @@
+default:
+	verilator --cc --build --exe keyboard_sim.v main.cpp --top-module keyboard_sim --timing --trace-fst -j 0 -I../vsrc
+	./obj_dir/Vkeyboard_sim
+	@rm -rf ./obj_dir

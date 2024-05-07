@@ -1,0 +1,1051 @@
+2024-05-06 21:51:17.119 [info] Extension host with pid 4755 started
+2024-05-06 21:51:17.119 [info] Skipping acquiring lock for /home/louis/.config/Code/User/workspaceStorage/2ac9015a99c4bb5b8d4bde9e16538236.
+2024-05-06 21:51:17.414 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onFileSystem:git', root cause: vscode.git
+2024-05-06 21:51:17.415 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-06 21:51:17.415 [info] ExtensionService#_doActivateExtension llvm-vs-code-extensions.vscode-clangd, startup: false, activationEvent: 'onLanguage:cpp'
+2024-05-06 21:51:17.442 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+2024-05-06 21:51:18.262 [info] ExtensionService#_doActivateExtension sterben.fpga-support, startup: true, activationEvent: 'workspaceContains:.vscode/property.json'
+2024-05-06 21:51:19.379 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2024-05-06 21:51:19.408 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onFileSystem:git'
+2024-05-06 21:51:19.409 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-06 21:51:19.625 [info] Eager extensions activated
+2024-05-06 21:51:19.669 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-06 21:51:19.669 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-06 21:51:19.670 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-05-06 21:51:19.703 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2024-05-06 21:51:19.719 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.300 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 21:51:20.534 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-05-06 22:06:47.800 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.801 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.802 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.803 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.804 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.805 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.806 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.806 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.807 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.808 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.809 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.809 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.810 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.811 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.812 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.813 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.813 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.814 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.815 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.815 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.816 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.817 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.818 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.819 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.820 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.821 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.821 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.822 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.822 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.823 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.824 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.825 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.826 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.826 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.827 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.827 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.828 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.828 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:06:47.829 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:07:01.936 [warning] TextEditor is closed/disposed
+2024-05-06 22:07:17.211 [warning] TextEditor is closed/disposed
+2024-05-06 22:07:22.330 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:16.364 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:17.020 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:18.182 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:18.731 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:20.406 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:21.633 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:22.242 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:23.872 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:24.340 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:26.552 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:27.039 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:28.523 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:29.432 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:30.758 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:32.025 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:33.146 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:33.584 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:37.217 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:37.580 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:38.642 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:53.060 [warning] TextEditor is closed/disposed
+2024-05-06 22:08:53.129 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-06 22:08:53.129 [error] {"a":true,"b":null}
+2024-05-06 22:09:00.828 [warning] TextEditor is closed/disposed
+2024-05-06 22:09:07.991 [warning] TextEditor is closed/disposed
+2024-05-06 22:09:42.457 [warning] TextEditor is closed/disposed
+2024-05-06 22:09:50.011 [warning] TextEditor is closed/disposed
+2024-05-06 22:11:42.386 [warning] TextEditor is closed/disposed
+2024-05-06 22:12:31.586 [warning] TextEditor is closed/disposed
+2024-05-06 22:12:41.149 [warning] TextEditor is closed/disposed
+2024-05-06 22:12:55.935 [warning] TextEditor is closed/disposed
+2024-05-06 22:13:45.236 [warning] TextEditor is closed/disposed
+2024-05-06 22:14:22.023 [warning] TextEditor is closed/disposed
+2024-05-06 22:14:30.129 [warning] TextEditor is closed/disposed
+2024-05-06 22:14:51.624 [warning] TextEditor is closed/disposed
+2024-05-06 22:16:17.630 [warning] TextEditor is closed/disposed
+2024-05-06 22:16:18.118 [warning] TextEditor is closed/disposed
+2024-05-06 22:16:23.680 [warning] TextEditor is closed/disposed
+2024-05-06 22:16:28.285 [warning] TextEditor is closed/disposed
+2024-05-06 22:16:52.934 [warning] TextEditor is closed/disposed
+2024-05-06 22:17:07.970 [warning] TextEditor is closed/disposed
+2024-05-06 22:17:09.716 [warning] TextEditor is closed/disposed
+2024-05-06 22:17:14.410 [warning] TextEditor is closed/disposed
+2024-05-06 22:17:16.311 [warning] TextEditor is closed/disposed
+2024-05-06 22:17:18.170 [warning] TextEditor is closed/disposed
+2024-05-06 22:17:19.618 [warning] TextEditor is closed/disposed
+2024-05-06 22:17:20.849 [warning] TextEditor is closed/disposed
+2024-05-06 22:17:22.434 [warning] TextEditor is closed/disposed
+2024-05-06 22:17:23.588 [warning] TextEditor is closed/disposed
+2024-05-06 22:17:33.062 [warning] TextEditor is closed/disposed
+2024-05-06 22:18:16.256 [warning] TextEditor is closed/disposed
+2024-05-06 22:18:20.955 [warning] TextEditor is closed/disposed
+2024-05-06 22:18:40.944 [warning] TextEditor is closed/disposed
+2024-05-06 22:19:02.791 [warning] TextEditor is closed/disposed
+2024-05-06 22:19:23.589 [warning] TextEditor is closed/disposed
+2024-05-06 22:19:42.849 [warning] TextEditor is closed/disposed
+2024-05-06 22:20:10.586 [warning] TextEditor is closed/disposed
+2024-05-06 22:20:21.160 [warning] TextEditor is closed/disposed
+2024-05-06 22:20:29.748 [warning] TextEditor is closed/disposed
+2024-05-06 22:20:33.185 [warning] TextEditor is closed/disposed
+2024-05-06 22:20:35.219 [warning] TextEditor is closed/disposed
+2024-05-06 22:20:41.994 [warning] TextEditor is closed/disposed
+2024-05-06 22:21:11.932 [warning] TextEditor is closed/disposed
+2024-05-06 22:21:16.220 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-06 22:21:16.220 [error] {"a":true,"b":null}
+2024-05-06 22:21:49.650 [warning] TextEditor is closed/disposed
+2024-05-06 22:23:53.566 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-06 22:23:53.566 [error] {"a":true,"b":null}
+2024-05-06 22:24:27.506 [warning] TextEditor is closed/disposed
+2024-05-06 22:25:12.986 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-06 22:25:12.986 [error] {"a":true,"b":null}
+2024-05-06 22:25:32.729 [warning] TextEditor is closed/disposed
+2024-05-06 22:25:34.593 [warning] TextEditor is closed/disposed
+2024-05-06 22:25:59.025 [warning] TextEditor is closed/disposed
+2024-05-06 22:26:01.091 [warning] TextEditor is closed/disposed
+2024-05-06 22:26:50.350 [warning] TextEditor is closed/disposed
+2024-05-06 22:27:39.773 [warning] TextEditor is closed/disposed
+2024-05-06 22:28:21.865 [warning] TextEditor is closed/disposed
+2024-05-06 22:28:23.594 [warning] TextEditor is closed/disposed
+2024-05-06 22:28:25.881 [warning] TextEditor is closed/disposed
+2024-05-06 22:28:26.372 [warning] TextEditor is closed/disposed
+2024-05-06 22:28:45.343 [warning] TextEditor is closed/disposed
+2024-05-06 22:28:48.464 [warning] TextEditor is closed/disposed
+2024-05-06 22:28:50.269 [warning] TextEditor is closed/disposed
+2024-05-06 22:28:53.202 [warning] TextEditor is closed/disposed
+2024-05-06 22:28:57.689 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:28:57.689 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:28:57.689 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:28:58.690 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:28:58.692 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:28:58.693 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:28:59.161 [warning] TextEditor is closed/disposed
+2024-05-06 22:29:09.332 [warning] TextEditor is closed/disposed
+2024-05-06 22:29:23.617 [warning] TextEditor is closed/disposed
+2024-05-06 22:29:25.199 [warning] TextEditor is closed/disposed
+2024-05-06 22:29:58.544 [warning] TextEditor is closed/disposed
+2024-05-06 22:30:00.452 [warning] TextEditor is closed/disposed
+2024-05-06 22:30:01.563 [warning] TextEditor is closed/disposed
+2024-05-06 22:30:33.197 [warning] TextEditor is closed/disposed
+2024-05-06 22:30:37.795 [warning] TextEditor is closed/disposed
+2024-05-06 22:30:38.833 [warning] TextEditor is closed/disposed
+2024-05-06 22:30:39.943 [warning] TextEditor is closed/disposed
+2024-05-06 22:30:41.185 [warning] TextEditor is closed/disposed
+2024-05-06 22:30:56.418 [warning] TextEditor is closed/disposed
+2024-05-06 22:30:57.368 [warning] TextEditor is closed/disposed
+2024-05-06 22:30:57.979 [warning] TextEditor is closed/disposed
+2024-05-06 22:30:59.215 [warning] TextEditor is closed/disposed
+2024-05-06 22:31:00.204 [warning] TextEditor is closed/disposed
+2024-05-06 22:31:02.017 [warning] TextEditor is closed/disposed
+2024-05-06 22:31:03.784 [warning] TextEditor is closed/disposed
+2024-05-06 22:31:06.362 [warning] TextEditor is closed/disposed
+2024-05-06 22:31:08.324 [warning] TextEditor is closed/disposed
+2024-05-06 22:33:04.630 [warning] TextEditor is closed/disposed
+2024-05-06 22:33:19.410 [warning] TextEditor is closed/disposed
+2024-05-06 22:34:30.526 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-06 22:34:30.526 [error] {"a":true,"b":null}
+2024-05-06 22:35:41.207 [warning] TextEditor is closed/disposed
+2024-05-06 22:36:02.436 [warning] TextEditor is closed/disposed
+2024-05-06 22:36:04.267 [warning] TextEditor is closed/disposed
+2024-05-06 22:36:24.452 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:36:24.452 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:36:25.452 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:36:25.453 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:36:42.740 [warning] TextEditor is closed/disposed
+2024-05-06 22:37:27.264 [warning] TextEditor is closed/disposed
+2024-05-06 22:37:28.470 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-06 22:37:28.470 [error] {"a":true,"b":null}
+2024-05-06 22:37:28.981 [warning] TextEditor is closed/disposed
+2024-05-06 22:38:14.674 [warning] TextEditor is closed/disposed
+2024-05-06 22:38:16.467 [warning] TextEditor is closed/disposed
+2024-05-06 22:42:55.845 [warning] TextEditor is closed/disposed
+2024-05-06 22:42:59.636 [warning] TextEditor is closed/disposed
+2024-05-06 22:43:06.601 [warning] TextEditor is closed/disposed
+2024-05-06 22:43:10.015 [warning] TextEditor is closed/disposed
+2024-05-06 22:43:11.533 [warning] TextEditor is closed/disposed
+2024-05-06 22:43:20.102 [warning] TextEditor is closed/disposed
+2024-05-06 22:43:29.240 [warning] TextEditor is closed/disposed
+2024-05-06 22:43:47.734 [warning] TextEditor is closed/disposed
+2024-05-06 22:44:33.394 [warning] TextEditor is closed/disposed
+2024-05-06 22:44:50.663 [warning] TextEditor is closed/disposed
+2024-05-06 22:45:03.876 [warning] TextEditor is closed/disposed
+2024-05-06 22:45:04.704 [warning] TextEditor is closed/disposed
+2024-05-06 22:45:13.987 [warning] TextEditor is closed/disposed
+2024-05-06 22:45:30.989 [warning] TextEditor is closed/disposed
+2024-05-06 22:45:31.980 [warning] TextEditor is closed/disposed
+2024-05-06 22:45:32.758 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-06 22:45:32.758 [error] {"a":true,"b":null}
+2024-05-06 22:45:32.759 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-06 22:45:32.761 [error] Error: Request cancelled
+	at handleResponse (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:4:229)
+	at processMessageQueue (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:3:7440)
+	at Immediate.<anonymous> (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:3:7260)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-06 22:45:32.917 [warning] TextEditor is closed/disposed
+2024-05-06 22:45:34.778 [warning] TextEditor is closed/disposed
+2024-05-06 22:46:23.273 [warning] TextEditor is closed/disposed
+2024-05-06 22:46:24.306 [warning] TextEditor is closed/disposed
+2024-05-06 22:46:25.441 [warning] TextEditor is closed/disposed
+2024-05-06 22:46:28.367 [warning] TextEditor is closed/disposed
+2024-05-06 22:46:32.147 [warning] TextEditor is closed/disposed
+2024-05-06 22:46:59.748 [warning] TextEditor is closed/disposed
+2024-05-06 22:47:01.309 [warning] TextEditor is closed/disposed
+2024-05-06 22:47:04.226 [warning] TextEditor is closed/disposed
+2024-05-06 22:47:05.063 [warning] TextEditor is closed/disposed
+2024-05-06 22:47:06.096 [warning] TextEditor is closed/disposed
+2024-05-06 22:47:06.575 [warning] TextEditor is closed/disposed
+2024-05-06 22:48:03.583 [warning] TextEditor is closed/disposed
+2024-05-06 22:48:08.681 [warning] TextEditor is closed/disposed
+2024-05-06 22:48:17.064 [warning] TextEditor is closed/disposed
+2024-05-06 22:48:21.491 [warning] TextEditor is closed/disposed
+2024-05-06 22:49:27.872 [warning] TextEditor is closed/disposed
+2024-05-06 22:50:04.124 [warning] TextEditor is closed/disposed
+2024-05-06 22:50:05.827 [warning] TextEditor is closed/disposed
+2024-05-06 22:50:16.411 [warning] TextEditor is closed/disposed
+2024-05-06 22:50:26.482 [warning] TextEditor is closed/disposed
+2024-05-06 22:50:36.225 [warning] TextEditor is closed/disposed
+2024-05-06 22:50:40.404 [warning] TextEditor is closed/disposed
+2024-05-06 22:50:43.404 [warning] TextEditor is closed/disposed
+2024-05-06 22:51:06.602 [warning] TextEditor is closed/disposed
+2024-05-06 22:51:08.394 [warning] TextEditor is closed/disposed
+2024-05-06 22:51:08.924 [warning] TextEditor is closed/disposed
+2024-05-06 22:51:16.786 [warning] TextEditor is closed/disposed
+2024-05-06 22:51:37.467 [warning] TextEditor is closed/disposed
+2024-05-06 22:52:06.862 [warning] TextEditor is closed/disposed
+2024-05-06 22:52:19.570 [warning] TextEditor is closed/disposed
+2024-05-06 22:52:34.730 [warning] TextEditor is closed/disposed
+2024-05-06 22:52:35.584 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-06 22:52:35.584 [error] {"a":true,"b":null}
+2024-05-06 22:52:35.586 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-06 22:52:35.586 [error] Error: Request cancelled
+	at handleResponse (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:4:229)
+	at processMessageQueue (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:3:7440)
+	at Immediate.<anonymous> (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:3:7260)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-06 22:52:35.587 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-06 22:52:35.587 [error] {"a":true,"b":null}
+2024-05-06 22:52:48.968 [warning] TextEditor is closed/disposed
+2024-05-06 22:55:51.355 [warning] TextEditor is closed/disposed
+2024-05-06 22:56:38.070 [warning] TextEditor is closed/disposed
+2024-05-06 22:56:43.318 [warning] TextEditor is closed/disposed
+2024-05-06 22:56:55.123 [warning] TextEditor is closed/disposed
+2024-05-06 22:57:05.408 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-06 22:57:05.408 [error] {"a":true,"b":null}
+2024-05-06 22:57:14.431 [warning] TextEditor is closed/disposed
+2024-05-06 23:00:36.505 [warning] TextEditor is closed/disposed
+2024-05-06 23:00:55.317 [warning] TextEditor is closed/disposed
+2024-05-06 23:01:29.885 [warning] TextEditor is closed/disposed
+2024-05-06 23:02:23.667 [warning] TextEditor is closed/disposed
+2024-05-06 23:02:27.476 [warning] TextEditor is closed/disposed
+2024-05-06 23:03:05.248 [warning] TextEditor is closed/disposed
+2024-05-06 23:03:34.475 [warning] TextEditor is closed/disposed
+2024-05-06 23:03:39.480 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-06 23:03:39.480 [error] {"a":true,"b":null}
+2024-05-06 23:03:39.480 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-06 23:03:39.480 [error] {"a":true,"b":null}
+2024-05-06 23:05:05.869 [warning] TextEditor is closed/disposed
+2024-05-06 23:05:22.105 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-06 23:05:22.105 [error] {"a":true,"b":null}
+2024-05-06 23:05:49.680 [warning] TextEditor is closed/disposed
+2024-05-06 23:06:05.094 [warning] TextEditor is closed/disposed
+2024-05-06 23:06:49.218 [warning] TextEditor is closed/disposed
+2024-05-06 23:15:38.140 [warning] TextEditor is closed/disposed
+2024-05-06 23:16:47.521 [warning] TextEditor is closed/disposed
+2024-05-06 23:16:49.559 [warning] TextEditor is closed/disposed
+2024-05-06 23:16:50.065 [warning] TextEditor is closed/disposed
+2024-05-06 23:16:51.081 [warning] TextEditor is closed/disposed
+2024-05-06 23:16:57.522 [warning] TextEditor is closed/disposed
+2024-05-06 23:17:26.088 [warning] TextEditor is closed/disposed
+2024-05-06 23:17:52.267 [warning] TextEditor is closed/disposed
+2024-05-06 23:20:24.689 [warning] TextEditor is closed/disposed
+2024-05-06 23:21:41.349 [warning] TextEditor is closed/disposed
+2024-05-06 23:21:42.374 [warning] TextEditor is closed/disposed
+2024-05-06 23:22:48.310 [warning] TextEditor is closed/disposed
+2024-05-06 23:23:18.974 [warning] TextEditor is closed/disposed
+2024-05-06 23:23:21.136 [warning] TextEditor is closed/disposed
+2024-05-06 23:23:46.667 [warning] TextEditor is closed/disposed
+2024-05-06 23:23:47.079 [warning] TextEditor is closed/disposed
+2024-05-06 23:24:03.323 [warning] TextEditor is closed/disposed
+2024-05-06 23:24:06.292 [warning] TextEditor is closed/disposed
+2024-05-06 23:24:14.042 [warning] TextEditor is closed/disposed
+2024-05-06 23:24:22.540 [warning] TextEditor is closed/disposed
+2024-05-06 23:25:20.759 [warning] TextEditor is closed/disposed
+2024-05-06 23:25:22.945 [warning] TextEditor is closed/disposed
+2024-05-06 23:25:31.506 [warning] TextEditor is closed/disposed
+2024-05-06 23:25:33.162 [warning] TextEditor is closed/disposed
+2024-05-06 23:26:02.063 [warning] TextEditor is closed/disposed
+2024-05-06 23:26:12.428 [warning] TextEditor is closed/disposed
+2024-05-06 23:26:22.115 [warning] TextEditor is closed/disposed
+2024-05-06 23:26:28.395 [warning] TextEditor is closed/disposed
+2024-05-06 23:26:31.838 [warning] TextEditor is closed/disposed
+2024-05-06 23:28:40.813 [warning] TextEditor is closed/disposed
+2024-05-06 23:28:44.743 [warning] TextEditor is closed/disposed
+2024-05-06 23:28:54.716 [warning] TextEditor is closed/disposed
+2024-05-06 23:29:00.393 [warning] TextEditor is closed/disposed
+2024-05-06 23:30:23.324 [warning] TextEditor is closed/disposed
+2024-05-06 23:30:40.007 [warning] TextEditor is closed/disposed
+2024-05-06 23:31:09.160 [warning] TextEditor is closed/disposed
+2024-05-06 23:31:14.078 [warning] TextEditor is closed/disposed
+2024-05-06 23:32:50.912 [warning] TextEditor is closed/disposed
+2024-05-06 23:32:53.586 [warning] TextEditor is closed/disposed
+2024-05-06 23:35:03.470 [warning] TextEditor is closed/disposed
+2024-05-06 23:35:05.568 [warning] TextEditor is closed/disposed
+2024-05-06 23:35:29.266 [warning] TextEditor is closed/disposed
+2024-05-06 23:41:50.097 [warning] TextEditor is closed/disposed
+2024-05-06 23:42:09.562 [warning] TextEditor is closed/disposed
+2024-05-06 23:42:14.637 [warning] TextEditor is closed/disposed
+2024-05-06 23:42:17.568 [warning] TextEditor is closed/disposed
+2024-05-06 23:42:26.030 [warning] TextEditor is closed/disposed
+2024-05-06 23:43:05.957 [warning] TextEditor is closed/disposed
+2024-05-06 23:44:29.036 [warning] TextEditor is closed/disposed
+2024-05-06 23:44:33.845 [warning] TextEditor is closed/disposed
+2024-05-06 23:44:44.929 [warning] TextEditor is closed/disposed
+2024-05-06 23:44:46.179 [warning] TextEditor is closed/disposed
+2024-05-06 23:44:49.787 [warning] TextEditor is closed/disposed
+2024-05-06 23:44:50.818 [warning] TextEditor is closed/disposed
+2024-05-06 23:44:56.817 [warning] TextEditor is closed/disposed
+2024-05-06 23:44:57.341 [warning] TextEditor is closed/disposed
+2024-05-06 23:44:59.224 [warning] TextEditor is closed/disposed
+2024-05-06 23:45:07.781 [warning] TextEditor is closed/disposed
+2024-05-06 23:45:19.434 [warning] TextEditor is closed/disposed
+2024-05-06 23:45:23.502 [warning] TextEditor is closed/disposed
+2024-05-06 23:45:29.233 [warning] TextEditor is closed/disposed
+2024-05-06 23:45:30.304 [warning] TextEditor is closed/disposed
+2024-05-06 23:46:09.023 [warning] TextEditor is closed/disposed
+2024-05-06 23:46:12.010 [warning] TextEditor is closed/disposed
+2024-05-06 23:46:15.563 [warning] TextEditor is closed/disposed
+2024-05-06 23:46:16.044 [warning] TextEditor is closed/disposed
+2024-05-06 23:46:17.292 [warning] TextEditor is closed/disposed
+2024-05-06 23:46:19.929 [warning] TextEditor is closed/disposed
+2024-05-06 23:46:27.031 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-06 23:46:27.031 [error] {"a":true,"b":null}
+2024-05-06 23:49:11.775 [warning] TextEditor is closed/disposed
+2024-05-06 23:54:22.927 [warning] TextEditor is closed/disposed
+2024-05-06 23:54:25.712 [warning] TextEditor is closed/disposed
+2024-05-06 23:54:29.279 [warning] TextEditor is closed/disposed
+2024-05-06 23:56:30.755 [warning] TextEditor is closed/disposed
+2024-05-06 23:59:55.735 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-06 23:59:55.821 [warning] Canceled
+2024-05-06 23:59:55.822 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at o.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945802)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:729)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:945)
+	at Object.m [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964886)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970920
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970906)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3830)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:948059)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-06 23:59:55.822 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at o.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945802)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:729)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:945)
+	at Object.m [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964886)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970920
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970906)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3830)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:948059)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-06 23:59:55.822 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at o.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945802)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:729)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:945)
+	at Object.m [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964886)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970920
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970906)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3830)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:948059)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-06 23:59:55.823 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at set hasGitHubRepositories [as hasGitHubRepositories] (/usr/share/code/resources/app/extensions/github/dist/extension.js:2:324866)
+	at /usr/share/code/resources/app/extensions/github/dist/extension.js:2:325825
+	at o.value (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1051703)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:729)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:945)
+	at Object.m [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964886)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970920
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970906)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3830)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:948059)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-06 23:59:55.823 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at w (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1081:41198)
+	at h (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1081:46237)
+	at ActionRunners._updateContextKeys (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:18411)
+	at s (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16855)
+	at RegisteredActionRunner.unregister (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16998)
+	at RegisteredActionRunner.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:15651)
+	at ActionRunners.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16438)
+	at /home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1041:19519
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1041:19501)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-06 23:59:55.823 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at w (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1081:41198)
+	at h (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1081:46237)
+	at ActionRunners._updateContextKeys (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:18411)
+	at s (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16855)
+	at RegisteredActionRunner.unregister (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16998)
+	at RegisteredActionRunner.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:15651)
+	at ActionRunners.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16438)
+	at /home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1041:19519
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1041:19501)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-06 23:59:55.823 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at w (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1081:41198)
+	at h (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1081:46237)
+	at ActionRunners._updateContextKeys (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:18411)
+	at s (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16855)
+	at RegisteredActionRunner.unregister (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16998)
+	at RegisteredActionRunner.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:15651)
+	at ActionRunners.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16438)
+	at /home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1041:19519
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1041:19501)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-06 23:59:55.823 [info] Extension host with pid 4755 exiting with code 0

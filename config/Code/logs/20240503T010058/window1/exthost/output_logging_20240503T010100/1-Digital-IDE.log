@@ -1,0 +1,14 @@
+[Info - 01:01:00] tcl lsp is ready
+[Info - 01:01:00] lsp for tcl is ready
+[Info - 01:01:00] finish initialise opeParam
+[Info - 01:01:00] libManage finish process, add 0 files, del 0 files
+[Debug - 01:01:00] <getPrjHardwareFiles> search folders: 
+[Debug - 01:01:00] /home/louis/gits/ysyx
+[Info - 01:01:00] finish collect 45 hdl files
+[Info - 01:01:01] finish analyse 45 hdl files, find 6 unsolved instances
+[Info - 01:01:01] create pl
+[Info - 01:01:01] Following folders are tracked: 
+[Info - 01:01:01] /home/louis/gits/ysyx
+[Info - 01:01:01] /home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/lib/common
+[Launch - 01:01:01] Digital-IDE has launched, Version: 0.3.2
+[Launch - 01:01:01] OS: linux

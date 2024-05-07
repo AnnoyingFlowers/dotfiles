@@ -1,0 +1,2063 @@
+2024-05-04 08:35:54.226 [info] Extension host with pid 6030 started
+2024-05-04 08:35:54.227 [info] Skipping acquiring lock for /home/louis/.config/Code/User/workspaceStorage/2ac9015a99c4bb5b8d4bde9e16538236.
+2024-05-04 08:35:54.659 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-04 08:35:54.660 [info] ExtensionService#_doActivateExtension llvm-vs-code-extensions.vscode-clangd, startup: false, activationEvent: 'onLanguage:c'
+2024-05-04 08:35:54.692 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+2024-05-04 08:35:55.038 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-04 08:35:55.041 [info] ExtensionService#_doActivateExtension sterben.fpga-support, startup: true, activationEvent: 'workspaceContains:.vscode/property.json'
+2024-05-04 08:35:55.865 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 08:35:55.865 [error] {"a":true,"b":null}
+2024-05-04 08:35:55.867 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 08:35:55.867 [error] {"a":true,"b":null}
+2024-05-04 08:35:55.867 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2024-05-04 08:35:55.869 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-04 08:35:55.870 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-04 08:35:56.002 [info] Eager extensions activated
+2024-05-04 08:35:56.075 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-04 08:35:56.075 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-04 08:35:56.076 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-05-04 08:35:56.106 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2024-05-04 08:35:56.121 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-05-04 08:35:56.573 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:57.023 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.024 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.026 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.027 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.028 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.028 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.029 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.030 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.031 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.032 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.032 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.033 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.033 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.034 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.034 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.035 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.035 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.035 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.036 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.036 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.037 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.037 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.038 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.038 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.039 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.040 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.040 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.041 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.041 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.042 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.042 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.043 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.043 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.044 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.044 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.045 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.047 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.047 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:35:58.048 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023469)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 08:39:25.854 [warning] TextEditor is closed/disposed
+2024-05-04 08:39:27.481 [warning] TextEditor is closed/disposed
+2024-05-04 08:42:41.183 [warning] TextEditor is closed/disposed
+2024-05-04 08:42:59.041 [warning] TextEditor is closed/disposed
+2024-05-04 08:43:01.344 [warning] TextEditor is closed/disposed
+2024-05-04 08:43:18.881 [warning] TextEditor is closed/disposed
+2024-05-04 08:43:29.502 [warning] TextEditor is closed/disposed
+2024-05-04 08:43:52.241 [warning] TextEditor is closed/disposed
+2024-05-04 08:45:29.544 [warning] TextEditor is closed/disposed
+2024-05-04 08:45:56.428 [warning] TextEditor is closed/disposed
+2024-05-04 08:46:03.171 [warning] TextEditor is closed/disposed
+2024-05-04 08:46:07.654 [warning] TextEditor is closed/disposed
+2024-05-04 08:46:13.406 [warning] TextEditor is closed/disposed
+2024-05-04 08:46:21.550 [warning] TextEditor is closed/disposed
+2024-05-04 08:46:41.815 [warning] TextEditor is closed/disposed
+2024-05-04 08:46:48.120 [warning] TextEditor is closed/disposed
+2024-05-04 08:46:55.154 [warning] TextEditor is closed/disposed
+2024-05-04 08:46:59.835 [warning] TextEditor is closed/disposed
+2024-05-04 08:47:23.334 [warning] TextEditor is closed/disposed
+2024-05-04 08:47:43.302 [warning] TextEditor is closed/disposed
+2024-05-04 08:47:59.310 [warning] TextEditor is closed/disposed
+2024-05-04 08:48:06.463 [warning] TextEditor is closed/disposed
+2024-05-04 08:48:11.685 [warning] TextEditor is closed/disposed
+2024-05-04 08:48:45.240 [warning] TextEditor is closed/disposed
+2024-05-04 08:48:50.781 [warning] TextEditor is closed/disposed
+2024-05-04 08:48:58.140 [warning] TextEditor is closed/disposed
+2024-05-04 08:49:06.764 [warning] TextEditor is closed/disposed
+2024-05-04 08:49:41.683 [warning] TextEditor is closed/disposed
+2024-05-04 08:49:56.417 [warning] TextEditor is closed/disposed
+2024-05-04 08:50:10.690 [warning] TextEditor is closed/disposed
+2024-05-04 08:50:14.075 [warning] TextEditor is closed/disposed
+2024-05-04 08:50:39.354 [warning] TextEditor is closed/disposed
+2024-05-04 08:50:42.918 [warning] TextEditor is closed/disposed
+2024-05-04 08:51:09.648 [warning] TextEditor is closed/disposed
+2024-05-04 08:51:23.511 [warning] TextEditor is closed/disposed
+2024-05-04 08:51:35.036 [warning] TextEditor is closed/disposed
+2024-05-04 08:51:52.472 [warning] TextEditor is closed/disposed
+2024-05-04 08:52:14.272 [warning] TextEditor is closed/disposed
+2024-05-04 08:52:15.868 [warning] TextEditor is closed/disposed
+2024-05-04 08:52:33.764 [warning] TextEditor is closed/disposed
+2024-05-04 08:52:51.889 [warning] TextEditor is closed/disposed
+2024-05-04 08:52:53.671 [warning] TextEditor is closed/disposed
+2024-05-04 08:52:55.501 [warning] TextEditor is closed/disposed
+2024-05-04 08:53:05.914 [warning] TextEditor is closed/disposed
+2024-05-04 08:53:23.654 [warning] TextEditor is closed/disposed
+2024-05-04 08:53:32.229 [warning] TextEditor is closed/disposed
+2024-05-04 08:53:47.579 [warning] TextEditor is closed/disposed
+2024-05-04 08:54:15.752 [warning] TextEditor is closed/disposed
+2024-05-04 08:54:43.094 [warning] TextEditor is closed/disposed
+2024-05-04 08:54:45.928 [warning] TextEditor is closed/disposed
+2024-05-04 08:54:59.412 [warning] TextEditor is closed/disposed
+2024-05-04 08:55:10.140 [warning] TextEditor is closed/disposed
+2024-05-04 08:55:18.143 [warning] TextEditor is closed/disposed
+2024-05-04 08:56:30.705 [warning] TextEditor is closed/disposed
+2024-05-04 08:56:32.670 [warning] TextEditor is closed/disposed
+2024-05-04 08:58:25.646 [warning] TextEditor is closed/disposed
+2024-05-04 08:58:27.966 [warning] TextEditor is closed/disposed
+2024-05-04 08:58:30.398 [warning] TextEditor is closed/disposed
+2024-05-04 08:58:41.551 [warning] TextEditor is closed/disposed
+2024-05-04 08:58:41.926 [warning] TextEditor is closed/disposed
+2024-05-04 09:02:18.967 [warning] TextEditor is closed/disposed
+2024-05-04 09:02:54.183 [warning] TextEditor is closed/disposed
+2024-05-04 09:04:04.436 [warning] TextEditor is closed/disposed
+2024-05-04 09:04:18.420 [warning] TextEditor is closed/disposed
+2024-05-04 09:04:18.521 [info] ExtensionService#_doActivateExtension mshr-h.veriloghdl, startup: false, activationEvent: 'onLanguage:verilog'
+2024-05-04 09:04:30.721 [warning] TextEditor is closed/disposed
+2024-05-04 09:04:33.667 [warning] TextEditor is closed/disposed
+2024-05-04 09:06:14.025 [warning] TextEditor is closed/disposed
+2024-05-04 09:07:03.635 [warning] TextEditor is closed/disposed
+2024-05-04 09:08:22.872 [warning] TextEditor is closed/disposed
+2024-05-04 09:09:53.056 [warning] TextEditor is closed/disposed
+2024-05-04 09:10:04.435 [warning] TextEditor is closed/disposed
+2024-05-04 09:10:09.533 [warning] TextEditor is closed/disposed
+2024-05-04 09:10:21.046 [warning] TextEditor is closed/disposed
+2024-05-04 09:10:36.060 [warning] TextEditor is closed/disposed
+2024-05-04 09:10:38.680 [warning] TextEditor is closed/disposed
+2024-05-04 09:10:42.808 [warning] TextEditor is closed/disposed
+2024-05-04 09:11:29.888 [warning] TextEditor is closed/disposed
+2024-05-04 09:12:57.350 [warning] TextEditor is closed/disposed
+2024-05-04 09:13:00.033 [warning] TextEditor is closed/disposed
+2024-05-04 09:13:13.964 [warning] TextEditor is closed/disposed
+2024-05-04 09:13:31.982 [warning] TextEditor is closed/disposed
+2024-05-04 09:13:35.767 [warning] TextEditor is closed/disposed
+2024-05-04 09:13:50.204 [warning] TextEditor is closed/disposed
+2024-05-04 09:14:00.481 [warning] TextEditor is closed/disposed
+2024-05-04 09:26:33.690 [warning] TextEditor is closed/disposed
+2024-05-04 09:35:35.051 [warning] TextEditor is closed/disposed
+2024-05-04 09:35:59.377 [warning] TextEditor is closed/disposed
+2024-05-04 09:36:04.892 [warning] TextEditor is closed/disposed
+2024-05-04 09:36:14.771 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:36:14.772 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:36:31.420 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:36:31.420 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:36:33.443 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:36:33.443 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:36:34.262 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:36:34.262 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:36:35.577 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:36:35.577 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:36:38.158 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:36:38.158 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:36:38.472 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:36:38.472 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:36:39.131 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:36:39.131 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:36:40.154 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:36:40.154 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:36:46.133 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:36:46.133 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:37:13.682 [warning] TextEditor is closed/disposed
+2024-05-04 09:37:54.319 [warning] TextEditor is closed/disposed
+2024-05-04 09:38:24.719 [warning] TextEditor is closed/disposed
+2024-05-04 09:38:40.319 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:38:40.319 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:38:44.772 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:38:44.772 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:38:46.408 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:38:46.409 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:38:51.801 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:38:51.801 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:38:53.239 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:38:53.239 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:38:58.613 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:38:58.613 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:38:58.889 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:38:58.889 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:39:24.067 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:39:24.068 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:39:34.055 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:39:34.055 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:39:34.454 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:39:34.454 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:39:34.686 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:39:34.686 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:39:35.772 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:39:35.772 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:39:37.077 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:39:37.078 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:39:39.224 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:39:39.224 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:39:46.017 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:39:46.017 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:39:51.028 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:39:51.028 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:39:51.734 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:39:51.734 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:39:53.774 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:39:53.774 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:39:55.463 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:39:55.463 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:39:56.002 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:39:56.002 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:39:57.770 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:39:57.771 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:40:01.901 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:40:01.901 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:40:03.397 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:40:03.398 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:40:03.703 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:40:03.703 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:40:06.096 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:40:06.096 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:40:14.429 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:40:14.429 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:40:18.095 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:40:18.095 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:40:23.459 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:40:23.459 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:40:23.895 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:40:23.895 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:40:32.348 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:40:32.348 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:40:33.079 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:40:33.079 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:40:33.795 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:40:33.795 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:40:38.265 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:40:38.265 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:40:41.540 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:40:41.540 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:40:42.230 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:40:42.230 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:40:43.007 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:40:43.007 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:40:51.119 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:40:51.119 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:41:07.448 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:41:07.448 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:41:08.263 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:41:08.263 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:41:08.575 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:41:08.575 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:41:11.925 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:41:11.926 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:41:14.226 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:41:14.226 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:41:24.381 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:41:24.381 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:41:26.175 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:41:26.175 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:41:29.760 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:41:29.760 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:43:03.849 [warning] TextEditor is closed/disposed
+2024-05-04 09:43:08.043 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 09:43:08.043 [error] {"a":true,"b":null}
+2024-05-04 09:44:07.126 [warning] TextEditor is closed/disposed
+2024-05-04 09:44:12.184 [warning] TextEditor is closed/disposed
+2024-05-04 09:44:45.203 [warning] TextEditor is closed/disposed
+2024-05-04 09:45:11.442 [warning] TextEditor is closed/disposed
+2024-05-04 09:45:28.527 [warning] TextEditor is closed/disposed
+2024-05-04 09:45:29.598 [warning] TextEditor is closed/disposed
+2024-05-04 09:45:41.313 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 09:45:41.313 [error] {"a":true,"b":null}
+2024-05-04 09:45:41.314 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 09:45:41.314 [error] {"a":true,"b":null}
+2024-05-04 09:47:11.175 [warning] TextEditor is closed/disposed
+2024-05-04 09:50:50.431 [warning] TextEditor is closed/disposed
+2024-05-04 09:52:02.518 [warning] TextEditor is closed/disposed
+2024-05-04 09:53:10.028 [warning] TextEditor is closed/disposed
+2024-05-04 09:53:25.914 [warning] TextEditor is closed/disposed
+2024-05-04 09:53:29.264 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:53:29.264 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:53:51.224 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:53:51.224 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:54:18.752 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:54:18.752 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 09:58:17.777 [warning] TextEditor is closed/disposed
+2024-05-04 09:58:33.231 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 09:58:33.231 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 10:02:27.255 [warning] TextEditor is closed/disposed
+2024-05-04 10:02:29.611 [warning] TextEditor is closed/disposed
+2024-05-04 10:02:41.411 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 10:02:41.411 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 10:02:59.920 [warning] TextEditor is closed/disposed
+2024-05-04 10:03:01.920 [warning] TextEditor is closed/disposed
+2024-05-04 10:03:44.290 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 10:03:44.290 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 10:03:44.596 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 10:03:44.596 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 10:03:45.072 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 10:03:45.072 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 10:05:33.015 [warning] TextEditor is closed/disposed
+2024-05-04 10:06:00.541 [warning] TextEditor is closed/disposed
+2024-05-04 10:08:22.399 [warning] TextEditor is closed/disposed
+2024-05-04 10:09:26.272 [warning] TextEditor is closed/disposed
+2024-05-04 10:09:31.999 [warning] TextEditor is closed/disposed
+2024-05-04 10:10:54.363 [warning] TextEditor is closed/disposed
+2024-05-04 10:10:55.553 [warning] TextEditor is closed/disposed
+2024-05-04 10:11:12.015 [warning] TextEditor is closed/disposed
+2024-05-04 10:11:18.279 [warning] TextEditor is closed/disposed
+2024-05-04 10:11:49.591 [warning] TextEditor is closed/disposed
+2024-05-04 10:11:52.566 [warning] TextEditor is closed/disposed
+2024-05-04 10:12:33.927 [warning] TextEditor is closed/disposed
+2024-05-04 10:12:51.264 [warning] TextEditor is closed/disposed
+2024-05-04 10:15:45.620 [warning] TextEditor is closed/disposed
+2024-05-04 10:16:21.559 [warning] TextEditor is closed/disposed
+2024-05-04 10:16:26.166 [warning] TextEditor is closed/disposed
+2024-05-04 10:16:26.262 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 10:16:26.262 [error] {"a":true,"b":null}
+2024-05-04 10:16:31.100 [warning] TextEditor is closed/disposed
+2024-05-04 10:16:41.376 [warning] TextEditor is closed/disposed
+2024-05-04 10:16:41.480 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 10:16:41.480 [error] {"a":true,"b":null}
+2024-05-04 10:18:08.963 [warning] TextEditor is closed/disposed
+2024-05-04 10:21:08.365 [warning] TextEditor is closed/disposed
+2024-05-04 10:25:03.791 [warning] TextEditor is closed/disposed
+2024-05-04 10:27:44.632 [error] [mshr-h.veriloghdl] provider FAILED
+2024-05-04 10:27:44.632 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-04 10:27:53.023 [warning] TextEditor is closed/disposed
+2024-05-04 10:37:45.642 [warning] TextEditor is closed/disposed
+2024-05-04 10:37:51.107 [warning] TextEditor is closed/disposed
+2024-05-04 10:37:53.244 [warning] TextEditor is closed/disposed
+2024-05-04 10:38:00.251 [warning] TextEditor is closed/disposed
+2024-05-04 10:38:06.061 [warning] TextEditor is closed/disposed
+2024-05-04 10:38:07.107 [warning] TextEditor is closed/disposed
+2024-05-04 10:38:33.864 [warning] TextEditor is closed/disposed
+2024-05-04 10:39:05.027 [warning] TextEditor is closed/disposed
+2024-05-04 10:51:50.439 [warning] TextEditor is closed/disposed
+2024-05-04 10:53:10.428 [warning] TextEditor is closed/disposed
+2024-05-04 10:53:15.149 [warning] TextEditor is closed/disposed
+2024-05-04 10:54:18.172 [warning] TextEditor is closed/disposed
+2024-05-04 10:57:58.933 [warning] TextEditor is closed/disposed
+2024-05-04 10:58:19.480 [warning] TextEditor is closed/disposed
+2024-05-04 10:58:22.047 [warning] TextEditor is closed/disposed
+2024-05-04 10:58:23.301 [warning] TextEditor is closed/disposed
+2024-05-04 10:58:31.414 [warning] TextEditor is closed/disposed
+2024-05-04 10:58:32.624 [warning] TextEditor is closed/disposed
+2024-05-04 10:59:46.907 [warning] TextEditor is closed/disposed
+2024-05-04 11:02:10.494 [warning] TextEditor is closed/disposed
+2024-05-04 11:04:00.279 [warning] TextEditor is closed/disposed
+2024-05-04 11:04:07.675 [warning] TextEditor is closed/disposed
+2024-05-04 11:04:11.397 [warning] TextEditor is closed/disposed
+2024-05-04 11:04:32.650 [warning] TextEditor is closed/disposed
+2024-05-04 11:04:38.529 [warning] TextEditor is closed/disposed
+2024-05-04 11:13:46.313 [warning] TextEditor is closed/disposed
+2024-05-04 11:14:30.579 [warning] TextEditor is closed/disposed
+2024-05-04 11:14:38.477 [warning] TextEditor is closed/disposed
+2024-05-04 11:15:02.835 [warning] TextEditor is closed/disposed
+2024-05-04 11:15:08.505 [warning] TextEditor is closed/disposed
+2024-05-04 11:15:25.514 [warning] TextEditor is closed/disposed
+2024-05-04 11:17:29.847 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 11:17:29.847 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":17619}]}}
+2024-05-04 11:19:58.819 [warning] TextEditor is closed/disposed
+2024-05-04 11:22:07.187 [warning] TextEditor is closed/disposed
+2024-05-04 11:28:42.845 [warning] TextEditor is closed/disposed
+2024-05-04 11:28:52.845 [warning] TextEditor is closed/disposed
+2024-05-04 11:28:54.191 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 11:28:54.191 [error] {"a":true,"b":null}
+2024-05-04 11:29:15.419 [warning] TextEditor is closed/disposed
+2024-05-04 11:30:01.332 [warning] TextEditor is closed/disposed
+2024-05-04 11:30:14.908 [warning] TextEditor is closed/disposed
+2024-05-04 11:30:21.142 [warning] TextEditor is closed/disposed
+2024-05-04 11:31:56.569 [warning] TextEditor is closed/disposed
+2024-05-04 11:32:02.368 [warning] TextEditor is closed/disposed
+2024-05-04 11:32:10.248 [warning] TextEditor is closed/disposed
+2024-05-04 11:32:19.300 [warning] TextEditor is closed/disposed
+2024-05-04 11:32:23.731 [warning] TextEditor is closed/disposed
+2024-05-04 11:32:28.777 [warning] TextEditor is closed/disposed
+2024-05-04 11:32:32.410 [warning] TextEditor is closed/disposed
+2024-05-04 11:33:12.102 [warning] TextEditor is closed/disposed
+2024-05-04 11:42:18.230 [warning] TextEditor is closed/disposed
+2024-05-04 11:43:00.876 [warning] TextEditor is closed/disposed
+2024-05-04 13:06:08.113 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 13:06:08.113 [error] {"a":true,"b":null}
+2024-05-04 13:06:58.155 [warning] TextEditor is closed/disposed
+2024-05-04 13:06:59.792 [warning] TextEditor is closed/disposed
+2024-05-04 13:09:30.457 [warning] TextEditor is closed/disposed
+2024-05-04 13:09:43.064 [warning] TextEditor is closed/disposed
+2024-05-04 13:10:35.468 [warning] TextEditor is closed/disposed
+2024-05-04 13:11:04.158 [warning] TextEditor is closed/disposed
+2024-05-04 13:11:15.739 [warning] TextEditor is closed/disposed
+2024-05-04 13:33:03.195 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 13:33:03.195 [error] {"a":true,"b":null}
+2024-05-04 13:34:49.007 [warning] TextEditor is closed/disposed
+2024-05-04 13:34:49.773 [warning] TextEditor is closed/disposed
+2024-05-04 13:34:54.339 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 13:34:54.339 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":30010}]}}
+2024-05-04 13:35:06.109 [warning] TextEditor is closed/disposed
+2024-05-04 13:35:08.033 [warning] TextEditor is closed/disposed
+2024-05-04 13:38:11.619 [warning] TextEditor is closed/disposed
+2024-05-04 13:38:24.132 [warning] TextEditor is closed/disposed
+2024-05-04 13:38:24.999 [warning] TextEditor is closed/disposed
+2024-05-04 13:46:40.244 [warning] TextEditor is closed/disposed
+2024-05-04 14:11:15.320 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 14:11:15.320 [error] {"a":true,"b":null}
+2024-05-04 14:27:00.094 [warning] TextEditor is closed/disposed
+2024-05-04 14:30:25.703 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 14:30:25.703 [error] {"a":true,"b":null}
+2024-05-04 14:38:41.271 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 14:38:41.271 [error] {"a":true,"b":null}
+2024-05-04 14:49:57.033 [warning] TextEditor is closed/disposed
+2024-05-04 14:50:15.720 [warning] TextEditor is closed/disposed
+2024-05-04 14:50:43.726 [warning] TextEditor is closed/disposed
+2024-05-04 14:52:16.126 [warning] TextEditor is closed/disposed
+2024-05-04 15:27:47.303 [warning] TextEditor is closed/disposed
+2024-05-04 15:28:46.300 [warning] TextEditor is closed/disposed
+2024-05-04 16:05:17.725 [warning] TextEditor is closed/disposed
+2024-05-04 16:10:29.457 [warning] TextEditor is closed/disposed
+2024-05-04 16:11:49.797 [warning] TextEditor is closed/disposed
+2024-05-04 16:13:26.950 [warning] TextEditor is closed/disposed
+2024-05-04 16:13:33.661 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 16:13:33.661 [error] {"a":true,"b":null}
+2024-05-04 16:15:06.874 [warning] TextEditor is closed/disposed
+2024-05-04 16:15:11.909 [warning] TextEditor is closed/disposed
+2024-05-04 16:17:20.525 [warning] TextEditor is closed/disposed
+2024-05-04 16:20:33.065 [warning] TextEditor is closed/disposed
+2024-05-04 16:20:37.508 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 16:20:37.509 [error] {"a":true,"b":null}
+2024-05-04 16:20:43.450 [warning] TextEditor is closed/disposed
+2024-05-04 16:22:55.026 [warning] TextEditor is closed/disposed
+2024-05-04 16:24:15.833 [warning] TextEditor is closed/disposed
+2024-05-04 16:26:43.241 [warning] TextEditor is closed/disposed
+2024-05-04 16:26:52.342 [warning] TextEditor is closed/disposed
+2024-05-04 16:26:56.563 [warning] TextEditor is closed/disposed
+2024-05-04 16:26:58.898 [warning] TextEditor is closed/disposed
+2024-05-04 16:27:11.121 [warning] TextEditor is closed/disposed
+2024-05-04 16:27:20.931 [warning] TextEditor is closed/disposed
+2024-05-04 16:29:42.382 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 16:29:42.382 [error] {"a":true,"b":null}
+2024-05-04 16:29:42.384 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 16:29:42.385 [error] Error: Request cancelled
+	at handleResponse (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:4:229)
+	at processMessageQueue (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:3:7440)
+	at Immediate.<anonymous> (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:3:7260)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-04 16:30:24.845 [warning] TextEditor is closed/disposed
+2024-05-04 16:30:26.725 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 16:30:26.725 [error] {"a":true,"b":null}
+2024-05-04 16:33:04.162 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 16:33:04.162 [error] {"a":true,"b":null}
+2024-05-04 16:33:04.163 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 16:33:04.163 [error] {"a":true,"b":null}
+2024-05-04 16:33:10.064 [warning] TextEditor is closed/disposed
+2024-05-04 16:33:19.338 [warning] TextEditor is closed/disposed
+2024-05-04 16:33:22.065 [warning] TextEditor is closed/disposed
+2024-05-04 16:36:46.147 [warning] TextEditor is closed/disposed
+2024-05-04 16:38:15.060 [warning] TextEditor is closed/disposed
+2024-05-04 16:42:33.933 [warning] TextEditor is closed/disposed
+2024-05-04 16:43:18.615 [warning] TextEditor is closed/disposed
+2024-05-04 16:43:20.652 [warning] TextEditor is closed/disposed
+2024-05-04 16:44:58.110 [warning] TextEditor is closed/disposed
+2024-05-04 16:46:10.032 [warning] TextEditor is closed/disposed
+2024-05-04 16:46:26.096 [warning] TextEditor is closed/disposed
+2024-05-04 16:46:26.383 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 16:46:26.383 [error] {"a":true,"b":null}
+2024-05-04 16:46:32.141 [warning] TextEditor is closed/disposed
+2024-05-04 16:47:05.465 [warning] TextEditor is closed/disposed
+2024-05-04 16:47:09.449 [warning] TextEditor is closed/disposed
+2024-05-04 16:47:10.452 [warning] TextEditor is closed/disposed
+2024-05-04 16:47:12.046 [warning] TextEditor is closed/disposed
+2024-05-04 16:47:16.714 [warning] TextEditor is closed/disposed
+2024-05-04 16:47:26.027 [warning] TextEditor is closed/disposed
+2024-05-04 16:47:45.770 [warning] TextEditor is closed/disposed
+2024-05-04 16:47:53.839 [warning] TextEditor is closed/disposed
+2024-05-04 16:47:54.448 [warning] TextEditor is closed/disposed
+2024-05-04 16:47:58.880 [warning] TextEditor is closed/disposed
+2024-05-04 16:48:13.250 [warning] TextEditor is closed/disposed
+2024-05-04 16:48:16.276 [warning] TextEditor is closed/disposed
+2024-05-04 16:48:20.506 [warning] TextEditor is closed/disposed
+2024-05-04 16:48:26.863 [warning] TextEditor is closed/disposed
+2024-05-04 16:48:28.155 [warning] TextEditor is closed/disposed
+2024-05-04 16:48:29.332 [warning] TextEditor is closed/disposed
+2024-05-04 16:49:23.502 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 16:49:23.502 [error] {"a":true,"b":null}
+2024-05-04 16:49:52.588 [warning] TextEditor is closed/disposed
+2024-05-04 16:49:57.797 [warning] TextEditor is closed/disposed
+2024-05-04 16:50:11.319 [warning] TextEditor is closed/disposed
+2024-05-04 16:50:15.236 [warning] TextEditor is closed/disposed
+2024-05-04 16:51:01.541 [warning] TextEditor is closed/disposed
+2024-05-04 16:51:03.019 [warning] TextEditor is closed/disposed
+2024-05-04 16:52:16.732 [warning] TextEditor is closed/disposed
+2024-05-04 16:52:50.468 [warning] TextEditor is closed/disposed
+2024-05-04 16:53:51.116 [warning] TextEditor is closed/disposed
+2024-05-04 16:55:16.517 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 16:55:16.517 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 16:55:16.517 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 16:55:16.517 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 16:55:17.517 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 16:55:17.518 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 16:55:17.519 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 16:55:17.519 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 16:55:19.941 [warning] TextEditor is closed/disposed
+2024-05-04 16:56:24.017 [warning] TextEditor is closed/disposed
+2024-05-04 16:56:25.109 [warning] TextEditor is closed/disposed
+2024-05-04 16:59:38.685 [warning] TextEditor is closed/disposed
+2024-05-04 17:00:11.878 [warning] TextEditor is closed/disposed
+2024-05-04 17:00:13.386 [warning] TextEditor is closed/disposed
+2024-05-04 17:00:18.557 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 17:00:18.557 [error] {"a":true,"b":null}
+2024-05-04 17:02:46.559 [warning] TextEditor is closed/disposed
+2024-05-04 17:02:50.572 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 17:02:50.572 [error] {"a":true,"b":null}
+2024-05-04 17:02:52.949 [warning] TextEditor is closed/disposed
+2024-05-04 17:02:55.675 [warning] TextEditor is closed/disposed
+2024-05-04 17:02:56.983 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 17:02:56.983 [error] {"a":true,"b":null}
+2024-05-04 17:02:56.983 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 17:02:56.983 [error] {"a":true,"b":null}
+2024-05-04 17:02:58.505 [warning] TextEditor is closed/disposed
+2024-05-04 17:03:27.874 [warning] TextEditor is closed/disposed
+2024-05-04 17:03:39.383 [warning] TextEditor is closed/disposed
+2024-05-04 17:03:58.153 [warning] TextEditor is closed/disposed
+2024-05-04 17:04:14.959 [warning] TextEditor is closed/disposed
+2024-05-04 17:05:34.234 [warning] TextEditor is closed/disposed
+2024-05-04 17:05:39.347 [warning] TextEditor is closed/disposed
+2024-05-04 17:05:59.945 [warning] TextEditor is closed/disposed
+2024-05-04 17:06:04.327 [warning] TextEditor is closed/disposed
+2024-05-04 17:06:05.794 [warning] TextEditor is closed/disposed
+2024-05-04 17:06:45.403 [warning] TextEditor is closed/disposed
+2024-05-04 17:07:29.800 [warning] TextEditor is closed/disposed
+2024-05-04 17:07:32.059 [warning] TextEditor is closed/disposed
+2024-05-04 17:07:33.687 [warning] TextEditor is closed/disposed
+2024-05-04 17:07:35.041 [warning] TextEditor is closed/disposed
+2024-05-04 17:07:36.873 [warning] TextEditor is closed/disposed
+2024-05-04 17:07:38.058 [warning] TextEditor is closed/disposed
+2024-05-04 17:07:41.574 [warning] TextEditor is closed/disposed
+2024-05-04 17:07:42.671 [warning] TextEditor is closed/disposed
+2024-05-04 17:07:43.764 [warning] TextEditor is closed/disposed
+2024-05-04 17:07:44.543 [warning] TextEditor is closed/disposed
+2024-05-04 17:07:45.204 [warning] TextEditor is closed/disposed
+2024-05-04 17:07:46.111 [warning] TextEditor is closed/disposed
+2024-05-04 17:07:47.012 [warning] TextEditor is closed/disposed
+2024-05-04 17:07:48.947 [warning] TextEditor is closed/disposed
+2024-05-04 17:07:50.680 [warning] TextEditor is closed/disposed
+2024-05-04 17:08:30.742 [warning] TextEditor is closed/disposed
+2024-05-04 17:08:39.661 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 17:08:39.661 [error] {"a":true,"b":null}
+2024-05-04 17:08:39.661 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 17:08:39.661 [error] {"a":true,"b":null}
+2024-05-04 17:08:41.350 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 17:08:41.350 [error] {"a":true,"b":null}
+2024-05-04 17:08:41.350 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 17:08:41.350 [error] {"a":true,"b":null}
+2024-05-04 17:08:43.657 [warning] TextEditor is closed/disposed
+2024-05-04 17:08:45.944 [warning] TextEditor is closed/disposed
+2024-05-04 17:10:03.443 [warning] TextEditor is closed/disposed
+2024-05-04 17:10:16.461 [warning] TextEditor is closed/disposed
+2024-05-04 17:10:29.247 [warning] TextEditor is closed/disposed
+2024-05-04 17:10:45.419 [warning] TextEditor is closed/disposed
+2024-05-04 17:10:59.367 [warning] TextEditor is closed/disposed
+2024-05-04 17:11:26.122 [warning] TextEditor is closed/disposed
+2024-05-04 17:11:31.414 [warning] TextEditor is closed/disposed
+2024-05-04 17:11:34.628 [warning] TextEditor is closed/disposed
+2024-05-04 17:11:35.142 [warning] TextEditor is closed/disposed
+2024-05-04 17:11:45.216 [warning] TextEditor is closed/disposed
+2024-05-04 17:12:07.361 [warning] TextEditor is closed/disposed
+2024-05-04 17:12:14.914 [warning] TextEditor is closed/disposed
+2024-05-04 17:13:39.791 [warning] TextEditor is closed/disposed
+2024-05-04 17:13:44.682 [warning] TextEditor is closed/disposed
+2024-05-04 17:15:01.654 [warning] TextEditor is closed/disposed
+2024-05-04 17:15:10.766 [warning] TextEditor is closed/disposed
+2024-05-04 17:15:25.025 [warning] TextEditor is closed/disposed
+2024-05-04 17:16:58.742 [warning] TextEditor is closed/disposed
+2024-05-04 17:24:42.050 [warning] TextEditor is closed/disposed
+2024-05-04 17:29:07.920 [warning] TextEditor is closed/disposed
+2024-05-04 17:33:29.068 [warning] TextEditor is closed/disposed
+2024-05-04 17:37:26.825 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 17:37:26.825 [error] {"a":true,"b":null}
+2024-05-04 17:37:26.825 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 17:37:26.825 [error] {"a":true,"b":null}
+2024-05-04 17:37:26.825 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 17:37:26.825 [error] {"a":true,"b":null}
+2024-05-04 17:37:33.356 [warning] TextEditor is closed/disposed
+2024-05-04 17:41:16.652 [warning] TextEditor is closed/disposed
+2024-05-04 17:42:12.470 [warning] TextEditor is closed/disposed
+2024-05-04 17:42:14.727 [warning] TextEditor is closed/disposed
+2024-05-04 17:42:17.039 [warning] TextEditor is closed/disposed
+2024-05-04 17:42:17.587 [warning] TextEditor is closed/disposed
+2024-05-04 17:42:30.378 [warning] TextEditor is closed/disposed
+2024-05-04 17:42:41.179 [warning] TextEditor is closed/disposed
+2024-05-04 17:43:04.531 [warning] TextEditor is closed/disposed
+2024-05-04 17:43:16.639 [warning] TextEditor is closed/disposed
+2024-05-04 17:43:21.247 [warning] TextEditor is closed/disposed
+2024-05-04 17:44:06.431 [warning] TextEditor is closed/disposed
+2024-05-04 17:44:39.448 [warning] TextEditor is closed/disposed
+2024-05-04 17:44:57.055 [warning] TextEditor is closed/disposed
+2024-05-04 17:45:50.675 [warning] TextEditor is closed/disposed
+2024-05-04 17:46:50.438 [warning] TextEditor is closed/disposed
+2024-05-04 17:49:49.470 [warning] TextEditor is closed/disposed
+2024-05-04 17:50:07.641 [warning] TextEditor is closed/disposed
+2024-05-04 17:51:57.303 [warning] TextEditor is closed/disposed
+2024-05-04 17:52:19.787 [warning] TextEditor is closed/disposed
+2024-05-04 17:52:22.443 [warning] TextEditor is closed/disposed
+2024-05-04 17:52:24.969 [warning] TextEditor is closed/disposed
+2024-05-04 17:52:35.788 [warning] TextEditor is closed/disposed
+2024-05-04 17:52:53.668 [warning] TextEditor is closed/disposed
+2024-05-04 17:53:16.922 [warning] TextEditor is closed/disposed
+2024-05-04 17:53:19.214 [warning] TextEditor is closed/disposed
+2024-05-04 17:53:23.880 [warning] TextEditor is closed/disposed
+2024-05-04 17:53:27.976 [warning] TextEditor is closed/disposed
+2024-05-04 17:53:29.347 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 17:53:29.347 [error] {"a":true,"b":null}
+2024-05-04 17:53:29.347 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 17:53:29.347 [error] {"a":true,"b":null}
+2024-05-04 17:53:38.918 [warning] TextEditor is closed/disposed
+2024-05-04 17:53:40.642 [warning] TextEditor is closed/disposed
+2024-05-04 17:53:58.554 [warning] TextEditor is closed/disposed
+2024-05-04 17:54:04.574 [warning] TextEditor is closed/disposed
+2024-05-04 17:54:21.531 [warning] TextEditor is closed/disposed
+2024-05-04 17:54:52.382 [warning] TextEditor is closed/disposed
+2024-05-04 17:54:54.030 [warning] TextEditor is closed/disposed
+2024-05-04 17:55:53.896 [warning] TextEditor is closed/disposed
+2024-05-04 17:56:10.277 [warning] TextEditor is closed/disposed
+2024-05-04 17:57:09.827 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 17:57:09.827 [error] {"a":true,"b":null}
+2024-05-04 17:57:30.972 [warning] TextEditor is closed/disposed
+2024-05-04 17:57:34.156 [warning] TextEditor is closed/disposed
+2024-05-04 17:58:12.577 [warning] TextEditor is closed/disposed
+2024-05-04 17:58:25.257 [warning] TextEditor is closed/disposed
+2024-05-04 17:59:16.752 [warning] TextEditor is closed/disposed
+2024-05-04 17:59:30.258 [warning] TextEditor is closed/disposed
+2024-05-04 17:59:33.963 [warning] TextEditor is closed/disposed
+2024-05-04 17:59:36.700 [warning] TextEditor is closed/disposed
+2024-05-04 18:00:16.114 [warning] TextEditor is closed/disposed
+2024-05-04 18:00:34.675 [warning] TextEditor is closed/disposed
+2024-05-04 18:01:46.402 [warning] TextEditor is closed/disposed
+2024-05-04 18:02:03.053 [warning] TextEditor is closed/disposed
+2024-05-04 18:02:31.277 [warning] TextEditor is closed/disposed
+2024-05-04 18:02:35.648 [warning] TextEditor is closed/disposed
+2024-05-04 18:03:09.803 [warning] TextEditor is closed/disposed
+2024-05-04 18:03:15.784 [warning] TextEditor is closed/disposed
+2024-05-04 18:03:43.344 [warning] TextEditor is closed/disposed
+2024-05-04 18:04:10.048 [warning] TextEditor is closed/disposed
+2024-05-04 18:04:21.847 [warning] TextEditor is closed/disposed
+2024-05-04 18:04:28.612 [warning] TextEditor is closed/disposed
+2024-05-04 18:04:29.943 [warning] TextEditor is closed/disposed
+2024-05-04 18:04:35.872 [warning] TextEditor is closed/disposed
+2024-05-04 18:04:47.924 [warning] TextEditor is closed/disposed
+2024-05-04 18:04:54.864 [warning] TextEditor is closed/disposed
+2024-05-04 18:04:58.939 [warning] TextEditor is closed/disposed
+2024-05-04 18:05:08.594 [warning] TextEditor is closed/disposed
+2024-05-04 18:05:22.091 [warning] TextEditor is closed/disposed
+2024-05-04 18:05:41.176 [warning] TextEditor is closed/disposed
+2024-05-04 18:05:55.084 [warning] TextEditor is closed/disposed
+2024-05-04 18:06:35.410 [warning] TextEditor is closed/disposed
+2024-05-04 18:07:08.936 [warning] TextEditor is closed/disposed
+2024-05-04 18:07:24.826 [warning] TextEditor is closed/disposed
+2024-05-04 18:07:33.317 [warning] TextEditor is closed/disposed
+2024-05-04 18:07:34.425 [warning] TextEditor is closed/disposed
+2024-05-04 18:07:40.746 [warning] TextEditor is closed/disposed
+2024-05-04 18:07:42.907 [warning] TextEditor is closed/disposed
+2024-05-04 18:07:43.349 [warning] TextEditor is closed/disposed
+2024-05-04 18:08:14.910 [warning] TextEditor is closed/disposed
+2024-05-04 18:08:55.871 [warning] TextEditor is closed/disposed
+2024-05-04 18:11:00.840 [warning] TextEditor is closed/disposed
+2024-05-04 18:11:02.932 [warning] TextEditor is closed/disposed
+2024-05-04 18:11:11.124 [warning] TextEditor is closed/disposed
+2024-05-04 18:11:12.652 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 18:11:12.652 [error] {"a":true,"b":null}
+2024-05-04 18:11:12.655 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 18:11:12.655 [error] Error: Request cancelled
+	at handleResponse (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:4:229)
+	at processMessageQueue (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:3:7440)
+	at Immediate.<anonymous> (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:3:7260)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-04 18:11:12.657 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 18:11:12.657 [error] Error: Request cancelled
+	at handleResponse (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:4:229)
+	at processMessageQueue (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:3:7440)
+	at Immediate.<anonymous> (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:3:7260)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-05-04 18:11:14.506 [warning] TextEditor is closed/disposed
+2024-05-04 18:11:31.688 [warning] TextEditor is closed/disposed
+2024-05-04 18:11:36.406 [warning] TextEditor is closed/disposed
+2024-05-04 18:11:40.446 [warning] TextEditor is closed/disposed
+2024-05-04 18:11:41.309 [warning] TextEditor is closed/disposed
+2024-05-04 18:27:06.246 [warning] TextEditor is closed/disposed
+2024-05-04 18:27:16.620 [warning] TextEditor is closed/disposed
+2024-05-04 18:27:17.925 [warning] TextEditor is closed/disposed
+2024-05-04 18:27:30.609 [warning] TextEditor is closed/disposed
+2024-05-04 18:27:30.773 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 18:27:30.773 [error] {"a":true,"b":null}
+2024-05-04 18:27:42.378 [warning] TextEditor is closed/disposed
+2024-05-04 18:27:43.335 [warning] TextEditor is closed/disposed
+2024-05-04 18:27:44.146 [warning] TextEditor is closed/disposed
+2024-05-04 18:28:18.150 [warning] TextEditor is closed/disposed
+2024-05-04 18:28:30.000 [warning] TextEditor is closed/disposed
+2024-05-04 18:28:32.427 [warning] TextEditor is closed/disposed
+2024-05-04 18:30:54.731 [warning] TextEditor is closed/disposed
+2024-05-04 18:35:12.071 [warning] TextEditor is closed/disposed
+2024-05-04 18:37:14.308 [warning] TextEditor is closed/disposed
+2024-05-04 18:37:34.259 [warning] TextEditor is closed/disposed
+2024-05-04 18:37:45.220 [warning] TextEditor is closed/disposed
+2024-05-04 18:38:07.443 [warning] TextEditor is closed/disposed
+2024-05-04 18:39:14.889 [warning] TextEditor is closed/disposed
+2024-05-04 18:39:21.459 [warning] TextEditor is closed/disposed
+2024-05-04 18:39:22.592 [warning] TextEditor is closed/disposed
+2024-05-04 18:39:23.793 [warning] TextEditor is closed/disposed
+2024-05-04 18:39:31.395 [warning] TextEditor is closed/disposed
+2024-05-04 18:39:40.133 [warning] TextEditor is closed/disposed
+2024-05-04 18:40:50.746 [warning] TextEditor is closed/disposed
+2024-05-04 18:40:55.540 [warning] TextEditor is closed/disposed
+2024-05-04 18:40:59.314 [warning] TextEditor is closed/disposed
+2024-05-04 18:41:17.510 [warning] TextEditor is closed/disposed
+2024-05-04 18:43:31.112 [warning] TextEditor is closed/disposed
+2024-05-04 18:43:33.015 [warning] TextEditor is closed/disposed
+2024-05-04 18:43:35.714 [warning] TextEditor is closed/disposed
+2024-05-04 18:43:38.251 [warning] TextEditor is closed/disposed
+2024-05-04 18:43:42.327 [warning] TextEditor is closed/disposed
+2024-05-04 18:46:11.530 [warning] TextEditor is closed/disposed
+2024-05-04 18:47:45.708 [warning] TextEditor is closed/disposed
+2024-05-04 19:08:49.108 [warning] TextEditor is closed/disposed
+2024-05-04 19:13:21.800 [warning] TextEditor is closed/disposed
+2024-05-04 19:13:28.173 [warning] TextEditor is closed/disposed
+2024-05-04 19:13:31.951 [warning] TextEditor is closed/disposed
+2024-05-04 19:14:08.857 [warning] TextEditor is closed/disposed
+2024-05-04 19:14:09.808 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 19:14:09.808 [error] {"a":true,"b":null}
+2024-05-04 19:14:22.393 [warning] TextEditor is closed/disposed
+2024-05-04 19:14:22.920 [warning] TextEditor is closed/disposed
+2024-05-04 19:14:24.017 [warning] TextEditor is closed/disposed
+2024-05-04 19:14:25.851 [warning] TextEditor is closed/disposed
+2024-05-04 19:14:28.178 [warning] TextEditor is closed/disposed
+2024-05-04 19:16:03.936 [warning] TextEditor is closed/disposed
+2024-05-04 19:16:45.634 [warning] TextEditor is closed/disposed
+2024-05-04 19:17:37.609 [warning] TextEditor is closed/disposed
+2024-05-04 19:18:08.445 [warning] TextEditor is closed/disposed
+2024-05-04 19:19:59.612 [warning] TextEditor is closed/disposed
+2024-05-04 19:20:34.661 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 19:20:34.661 [error] {"a":true,"b":null}
+2024-05-04 19:20:35.940 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 19:20:35.940 [error] {"a":true,"b":null}
+2024-05-04 19:20:46.571 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 19:20:46.571 [error] {"a":true,"b":null}
+2024-05-04 19:21:36.257 [warning] TextEditor is closed/disposed
+2024-05-04 19:22:03.207 [warning] TextEditor is closed/disposed
+2024-05-04 19:22:08.154 [warning] TextEditor is closed/disposed
+2024-05-04 19:22:10.281 [warning] TextEditor is closed/disposed
+2024-05-04 19:22:49.451 [warning] TextEditor is closed/disposed
+2024-05-04 19:22:50.267 [warning] TextEditor is closed/disposed
+2024-05-04 19:22:57.291 [warning] TextEditor is closed/disposed
+2024-05-04 19:22:57.391 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 19:22:57.391 [error] {"a":true,"b":null}
+2024-05-04 19:23:22.733 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 19:23:22.733 [error] {"a":true,"b":null}
+2024-05-04 19:24:37.320 [warning] TextEditor is closed/disposed
+2024-05-04 19:27:33.742 [warning] TextEditor is closed/disposed
+2024-05-04 19:31:15.261 [warning] TextEditor is closed/disposed
+2024-05-04 19:38:04.278 [warning] TextEditor is closed/disposed
+2024-05-04 19:38:27.913 [warning] TextEditor is closed/disposed
+2024-05-04 19:39:31.030 [warning] TextEditor is closed/disposed
+2024-05-04 19:39:46.564 [warning] TextEditor is closed/disposed
+2024-05-04 19:39:49.649 [warning] TextEditor is closed/disposed
+2024-05-04 19:40:17.951 [warning] TextEditor is closed/disposed
+2024-05-04 19:43:40.675 [warning] TextEditor is closed/disposed
+2024-05-04 19:44:55.394 [warning] TextEditor is closed/disposed
+2024-05-04 19:45:42.048 [warning] TextEditor is closed/disposed
+2024-05-04 19:45:53.257 [warning] TextEditor is closed/disposed
+2024-05-04 19:48:41.416 [warning] TextEditor is closed/disposed
+2024-05-04 19:50:30.943 [warning] TextEditor is closed/disposed
+2024-05-04 19:51:14.596 [warning] TextEditor is closed/disposed
+2024-05-04 19:51:16.158 [warning] TextEditor is closed/disposed
+2024-05-04 19:51:20.935 [warning] TextEditor is closed/disposed
+2024-05-04 19:51:43.985 [warning] TextEditor is closed/disposed
+2024-05-04 19:51:48.978 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 19:51:48.978 [error] {"a":true,"b":null}
+2024-05-04 19:51:50.753 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 19:51:50.754 [error] {"a":true,"b":null}
+2024-05-04 19:52:40.747 [warning] TextEditor is closed/disposed
+2024-05-04 19:53:04.697 [warning] TextEditor is closed/disposed
+2024-05-04 19:53:09.562 [warning] TextEditor is closed/disposed
+2024-05-04 19:54:13.019 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 19:54:13.019 [error] {"a":true,"b":null}
+2024-05-04 19:54:38.156 [warning] TextEditor is closed/disposed
+2024-05-04 19:58:12.506 [warning] TextEditor is closed/disposed
+2024-05-04 19:59:44.185 [warning] TextEditor is closed/disposed
+2024-05-04 19:59:45.865 [warning] TextEditor is closed/disposed
+2024-05-04 19:59:49.757 [warning] TextEditor is closed/disposed
+2024-05-04 20:00:10.924 [warning] TextEditor is closed/disposed
+2024-05-04 20:00:32.295 [warning] TextEditor is closed/disposed
+2024-05-04 20:00:40.016 [warning] TextEditor is closed/disposed
+2024-05-04 20:01:06.912 [warning] TextEditor is closed/disposed
+2024-05-04 20:05:43.769 [warning] TextEditor is closed/disposed
+2024-05-04 20:05:45.270 [warning] TextEditor is closed/disposed
+2024-05-04 20:06:30.055 [warning] TextEditor is closed/disposed
+2024-05-04 20:06:36.463 [warning] TextEditor is closed/disposed
+2024-05-04 20:08:17.899 [warning] TextEditor is closed/disposed
+2024-05-04 20:09:33.779 [warning] TextEditor is closed/disposed
+2024-05-04 20:09:48.798 [warning] TextEditor is closed/disposed
+2024-05-04 20:10:56.661 [warning] TextEditor is closed/disposed
+2024-05-04 20:11:42.175 [warning] TextEditor is closed/disposed
+2024-05-04 20:11:54.401 [warning] TextEditor is closed/disposed
+2024-05-04 20:12:14.333 [warning] TextEditor is closed/disposed
+2024-05-04 20:12:30.000 [warning] TextEditor is closed/disposed
+2024-05-04 20:12:34.148 [warning] TextEditor is closed/disposed
+2024-05-04 20:13:33.728 [warning] TextEditor is closed/disposed
+2024-05-04 20:13:57.101 [warning] TextEditor is closed/disposed
+2024-05-04 20:13:58.528 [warning] TextEditor is closed/disposed
+2024-05-04 20:13:59.786 [warning] TextEditor is closed/disposed
+2024-05-04 20:14:19.456 [warning] TextEditor is closed/disposed
+2024-05-04 20:14:24.225 [warning] TextEditor is closed/disposed
+2024-05-04 20:16:07.849 [warning] TextEditor is closed/disposed
+2024-05-04 20:16:54.619 [warning] TextEditor is closed/disposed
+2024-05-04 20:21:06.769 [warning] TextEditor is closed/disposed
+2024-05-04 20:21:41.539 [warning] TextEditor is closed/disposed
+2024-05-04 20:21:59.676 [warning] TextEditor is closed/disposed
+2024-05-04 20:22:18.443 [warning] TextEditor is closed/disposed
+2024-05-04 20:23:08.497 [warning] TextEditor is closed/disposed
+2024-05-04 20:23:35.614 [warning] TextEditor is closed/disposed
+2024-05-04 20:23:38.486 [warning] TextEditor is closed/disposed
+2024-05-04 20:24:56.960 [warning] TextEditor is closed/disposed
+2024-05-04 20:25:17.040 [warning] TextEditor is closed/disposed
+2024-05-04 20:25:25.596 [warning] TextEditor is closed/disposed
+2024-05-04 20:25:30.249 [warning] TextEditor is closed/disposed
+2024-05-04 20:25:31.678 [warning] TextEditor is closed/disposed
+2024-05-04 20:25:35.408 [warning] TextEditor is closed/disposed
+2024-05-04 20:25:44.993 [warning] TextEditor is closed/disposed
+2024-05-04 20:26:14.038 [warning] TextEditor is closed/disposed
+2024-05-04 20:26:35.359 [warning] TextEditor is closed/disposed
+2024-05-04 20:27:04.273 [warning] TextEditor is closed/disposed
+2024-05-04 20:27:16.531 [warning] TextEditor is closed/disposed
+2024-05-04 20:27:30.512 [warning] TextEditor is closed/disposed
+2024-05-04 20:27:46.192 [warning] TextEditor is closed/disposed
+2024-05-04 20:29:50.064 [warning] TextEditor is closed/disposed
+2024-05-04 20:30:17.626 [warning] TextEditor is closed/disposed
+2024-05-04 20:30:26.281 [warning] TextEditor is closed/disposed
+2024-05-04 20:30:29.124 [warning] TextEditor is closed/disposed
+2024-05-04 20:30:34.822 [warning] TextEditor is closed/disposed
+2024-05-04 20:30:37.474 [warning] TextEditor is closed/disposed
+2024-05-04 20:30:38.463 [warning] TextEditor is closed/disposed
+2024-05-04 20:30:40.501 [warning] TextEditor is closed/disposed
+2024-05-04 20:30:48.986 [warning] TextEditor is closed/disposed
+2024-05-04 20:30:51.367 [warning] TextEditor is closed/disposed
+2024-05-04 20:30:56.189 [warning] TextEditor is closed/disposed
+2024-05-04 20:31:43.208 [warning] TextEditor is closed/disposed
+2024-05-04 20:31:59.347 [warning] TextEditor is closed/disposed
+2024-05-04 20:33:35.501 [warning] TextEditor is closed/disposed
+2024-05-04 20:34:19.119 [warning] TextEditor is closed/disposed
+2024-05-04 20:34:25.588 [warning] TextEditor is closed/disposed
+2024-05-04 20:34:26.690 [warning] TextEditor is closed/disposed
+2024-05-04 20:34:42.528 [warning] TextEditor is closed/disposed
+2024-05-04 20:36:08.419 [warning] TextEditor is closed/disposed
+2024-05-04 20:36:55.482 [warning] TextEditor is closed/disposed
+2024-05-04 20:37:01.414 [warning] TextEditor is closed/disposed
+2024-05-04 20:38:46.678 [warning] TextEditor is closed/disposed
+2024-05-04 20:40:30.751 [warning] TextEditor is closed/disposed
+2024-05-04 20:40:35.950 [warning] TextEditor is closed/disposed
+2024-05-04 20:40:58.007 [warning] TextEditor is closed/disposed
+2024-05-04 20:41:07.620 [warning] TextEditor is closed/disposed
+2024-05-04 20:41:07.696 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-05-04 20:41:07.696 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-05-04 20:41:07.696 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-05-04 20:42:25.698 [warning] TextEditor is closed/disposed
+2024-05-04 20:42:58.561 [warning] TextEditor is closed/disposed
+2024-05-04 20:43:09.582 [warning] TextEditor is closed/disposed
+2024-05-04 20:43:22.267 [warning] TextEditor is closed/disposed
+2024-05-04 20:45:31.313 [warning] TextEditor is closed/disposed
+2024-05-04 20:47:26.341 [warning] TextEditor is closed/disposed
+2024-05-04 20:48:08.669 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 20:48:08.669 [error] {"a":true,"b":null}
+2024-05-04 20:48:15.186 [warning] TextEditor is closed/disposed
+2024-05-04 20:49:24.648 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 20:49:24.648 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 20:49:24.648 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 20:49:24.648 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 20:49:25.648 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 20:49:25.649 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 20:49:25.649 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 20:49:25.650 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-04 20:49:26.419 [warning] TextEditor is closed/disposed
+2024-05-04 20:49:42.789 [warning] TextEditor is closed/disposed
+2024-05-04 20:50:39.568 [warning] TextEditor is closed/disposed
+2024-05-04 20:51:14.710 [warning] TextEditor is closed/disposed
+2024-05-04 20:53:07.621 [warning] TextEditor is closed/disposed
+2024-05-04 21:02:52.509 [warning] TextEditor is closed/disposed
+2024-05-04 21:09:40.505 [warning] TextEditor is closed/disposed
+2024-05-04 21:10:58.192 [warning] TextEditor is closed/disposed
+2024-05-04 21:12:18.569 [error] CodeExpectedError: cannot open file:///home/louis/gits/ysyx/ysyx-workbench/am-kernels/tests/cpu-tests/build/a.out. Detail: 文件似乎是二进制文件，不能作为文本打开
+    at r.$tryOpenDocument (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2364:62563)
+2024-05-04 21:13:41.012 [warning] TextEditor is closed/disposed
+2024-05-04 21:14:01.567 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 21:14:01.567 [error] {"a":true,"b":null}
+2024-05-04 21:29:07.529 [error] CodeExpectedError: cannot open file:///home/louis/gits/ysyx/ysyx-workbench/am-kernels/tests/cpu-tests/build/hello.o. Detail: 文件似乎是二进制文件，不能作为文本打开
+    at r.$tryOpenDocument (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2364:62563)
+2024-05-04 21:29:34.158 [warning] TextEditor is closed/disposed
+2024-05-04 21:34:03.855 [warning] TextEditor is closed/disposed
+2024-05-04 21:34:06.874 [warning] TextEditor is closed/disposed
+2024-05-04 21:34:37.809 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 21:34:37.809 [error] {"a":true,"b":null}
+2024-05-04 21:34:38.123 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 21:34:38.123 [error] {"a":true,"b":null}
+2024-05-04 21:37:09.467 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 21:37:09.467 [error] {"a":true,"b":null}
+2024-05-04 21:40:50.476 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 21:40:50.476 [error] {"a":true,"b":null}
+2024-05-04 21:42:56.131 [warning] TextEditor is closed/disposed
+2024-05-04 21:43:41.624 [warning] TextEditor is closed/disposed
+2024-05-04 21:43:56.121 [warning] TextEditor is closed/disposed
+2024-05-04 21:43:58.703 [warning] TextEditor is closed/disposed
+2024-05-04 21:46:00.456 [warning] TextEditor is closed/disposed
+2024-05-04 21:46:25.499 [warning] TextEditor is closed/disposed
+2024-05-04 21:48:34.140 [warning] TextEditor is closed/disposed
+2024-05-04 21:49:02.174 [warning] TextEditor is closed/disposed
+2024-05-04 21:56:30.959 [warning] TextEditor is closed/disposed
+2024-05-04 21:56:52.006 [warning] TextEditor is closed/disposed
+2024-05-04 21:56:56.581 [warning] TextEditor is closed/disposed
+2024-05-04 21:57:42.477 [warning] TextEditor is closed/disposed
+2024-05-04 21:57:52.044 [warning] TextEditor is closed/disposed
+2024-05-04 21:58:48.662 [warning] TextEditor is closed/disposed
+2024-05-04 21:59:23.655 [warning] TextEditor is closed/disposed
+2024-05-04 21:59:28.533 [warning] TextEditor is closed/disposed
+2024-05-04 22:00:48.625 [warning] TextEditor is closed/disposed
+2024-05-04 22:01:05.924 [warning] TextEditor is closed/disposed
+2024-05-04 22:01:40.596 [warning] TextEditor is closed/disposed
+2024-05-04 22:02:05.867 [warning] TextEditor is closed/disposed
+2024-05-04 22:02:39.551 [warning] TextEditor is closed/disposed
+2024-05-04 22:03:17.555 [warning] TextEditor is closed/disposed
+2024-05-04 22:03:22.716 [warning] TextEditor is closed/disposed
+2024-05-04 22:03:26.769 [warning] TextEditor is closed/disposed
+2024-05-04 22:03:54.783 [warning] TextEditor is closed/disposed
+2024-05-04 22:06:07.244 [warning] TextEditor is closed/disposed
+2024-05-04 22:06:24.489 [warning] TextEditor is closed/disposed
+2024-05-04 22:07:11.911 [warning] TextEditor is closed/disposed
+2024-05-04 22:07:26.676 [warning] TextEditor is closed/disposed
+2024-05-04 22:09:13.706 [warning] TextEditor is closed/disposed
+2024-05-04 22:10:38.387 [warning] TextEditor is closed/disposed
+2024-05-04 22:11:01.245 [warning] TextEditor is closed/disposed
+2024-05-04 22:11:15.191 [warning] TextEditor is closed/disposed
+2024-05-04 22:11:18.985 [warning] TextEditor is closed/disposed
+2024-05-04 22:11:35.651 [warning] TextEditor is closed/disposed
+2024-05-04 22:11:59.442 [warning] TextEditor is closed/disposed
+2024-05-04 22:13:57.878 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 22:13:57.878 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":99835}]}}
+2024-05-04 22:14:56.965 [warning] TextEditor is closed/disposed
+2024-05-04 22:15:05.275 [warning] TextEditor is closed/disposed
+2024-05-04 22:15:19.025 [warning] TextEditor is closed/disposed
+2024-05-04 22:42:59.128 [info] ExtensionService#_doActivateExtension vscode.references-view, startup: false, activationEvent: 'onCommand:references-view.findReferences'
+2024-05-04 23:05:11.529 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 23:05:11.529 [error] {"a":true,"b":null}
+2024-05-04 23:05:11.809 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 23:05:11.809 [error] {"a":true,"b":null}
+2024-05-04 23:09:19.387 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 23:09:19.387 [error] {"a":true,"b":null}
+2024-05-04 23:28:15.128 [warning] TextEditor is closed/disposed
+2024-05-04 23:28:26.055 [warning] TextEditor is closed/disposed
+2024-05-04 23:28:29.025 [warning] TextEditor is closed/disposed
+2024-05-04 23:28:32.610 [warning] TextEditor is closed/disposed
+2024-05-04 23:28:38.014 [warning] TextEditor is closed/disposed
+2024-05-04 23:29:19.827 [warning] TextEditor is closed/disposed
+2024-05-04 23:29:26.331 [warning] TextEditor is closed/disposed
+2024-05-04 23:29:27.496 [warning] TextEditor is closed/disposed
+2024-05-04 23:29:31.614 [warning] TextEditor is closed/disposed
+2024-05-04 23:30:14.207 [warning] TextEditor is closed/disposed
+2024-05-04 23:31:23.339 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 23:31:23.339 [error] {"a":true,"b":null}
+2024-05-04 23:41:20.335 [warning] TextEditor is closed/disposed
+2024-05-04 23:41:40.725 [warning] TextEditor is closed/disposed
+2024-05-04 23:44:04.096 [warning] TextEditor is closed/disposed
+2024-05-04 23:44:07.381 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 23:44:07.381 [error] {"a":true,"b":null}
+2024-05-04 23:46:20.725 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 23:46:20.725 [error] {"a":true,"b":null}
+2024-05-04 23:46:32.422 [warning] TextEditor is closed/disposed
+2024-05-04 23:47:10.810 [warning] TextEditor is closed/disposed
+2024-05-04 23:47:51.808 [warning] TextEditor is closed/disposed
+2024-05-04 23:48:47.696 [warning] TextEditor is closed/disposed
+2024-05-04 23:48:54.477 [warning] TextEditor is closed/disposed
+2024-05-04 23:50:17.908 [warning] TextEditor is closed/disposed
+2024-05-04 23:51:45.187 [warning] TextEditor is closed/disposed
+2024-05-04 23:52:05.565 [warning] TextEditor is closed/disposed
+2024-05-04 23:53:05.095 [warning] TextEditor is closed/disposed
+2024-05-04 23:53:20.480 [warning] TextEditor is closed/disposed
+2024-05-04 23:53:33.821 [warning] TextEditor is closed/disposed
+2024-05-04 23:53:38.305 [warning] TextEditor is closed/disposed
+2024-05-04 23:53:53.135 [warning] TextEditor is closed/disposed
+2024-05-04 23:53:56.120 [warning] TextEditor is closed/disposed
+2024-05-04 23:54:56.036 [warning] TextEditor is closed/disposed
+2024-05-04 23:55:46.785 [warning] TextEditor is closed/disposed
+2024-05-04 23:56:38.047 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-04 23:56:38.047 [error] {"a":true,"b":null}
+2024-05-05 00:12:50.634 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-05 00:12:50.634 [error] {"a":true,"b":null}
+2024-05-05 00:17:51.323 [warning] TextEditor is closed/disposed
+2024-05-05 00:20:22.302 [warning] TextEditor is closed/disposed
+2024-05-05 09:05:56.708 [warning] TextEditor is closed/disposed
+2024-05-05 09:06:14.007 [warning] TextEditor is closed/disposed
+2024-05-05 09:06:19.696 [warning] TextEditor is closed/disposed
+2024-05-05 09:06:22.617 [warning] TextEditor is closed/disposed
+2024-05-05 09:06:23.214 [warning] TextEditor is closed/disposed
+2024-05-05 09:06:51.935 [warning] TextEditor is closed/disposed
+2024-05-05 09:07:06.417 [warning] TextEditor is closed/disposed
+2024-05-05 09:07:11.652 [warning] TextEditor is closed/disposed
+2024-05-05 09:10:01.776 [warning] TextEditor is closed/disposed
+2024-05-05 09:23:23.789 [warning] TextEditor is closed/disposed
+2024-05-05 09:27:39.892 [warning] TextEditor is closed/disposed
+2024-05-05 09:31:24.197 [warning] TextEditor is closed/disposed
+2024-05-05 09:31:27.773 [warning] TextEditor is closed/disposed
+2024-05-05 09:33:25.580 [warning] TextEditor is closed/disposed
+2024-05-05 09:34:01.879 [warning] TextEditor is closed/disposed
+2024-05-05 09:34:31.609 [warning] TextEditor is closed/disposed
+2024-05-05 09:34:40.661 [warning] TextEditor is closed/disposed
+2024-05-05 09:36:30.112 [warning] TextEditor is closed/disposed
+2024-05-05 09:36:35.100 [warning] TextEditor is closed/disposed
+2024-05-05 09:42:46.195 [warning] TextEditor is closed/disposed
+2024-05-05 09:44:08.071 [warning] TextEditor is closed/disposed
+2024-05-05 09:44:24.062 [warning] TextEditor is closed/disposed
+2024-05-05 09:44:32.136 [warning] TextEditor is closed/disposed
+2024-05-05 09:44:53.741 [warning] TextEditor is closed/disposed
+2024-05-05 09:44:58.227 [warning] TextEditor is closed/disposed
+2024-05-05 09:45:09.027 [warning] TextEditor is closed/disposed
+2024-05-05 09:45:12.447 [warning] TextEditor is closed/disposed
+2024-05-05 09:45:41.698 [warning] TextEditor is closed/disposed
+2024-05-05 09:45:53.384 [warning] TextEditor is closed/disposed
+2024-05-05 09:46:01.013 [warning] TextEditor is closed/disposed
+2024-05-05 09:48:07.100 [warning] TextEditor is closed/disposed
+2024-05-05 09:48:13.029 [warning] TextEditor is closed/disposed
+2024-05-05 09:54:36.751 [warning] TextEditor is closed/disposed
+2024-05-05 09:54:38.958 [warning] TextEditor is closed/disposed
+2024-05-05 09:54:41.711 [warning] TextEditor is closed/disposed
+2024-05-05 09:55:56.783 [warning] TextEditor is closed/disposed
+2024-05-05 09:56:16.259 [warning] TextEditor is closed/disposed
+2024-05-05 09:56:52.638 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-05 09:56:52.638 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":129367}]}}
+2024-05-05 09:57:43.602 [warning] TextEditor is closed/disposed
+2024-05-05 09:58:08.713 [warning] TextEditor is closed/disposed
+2024-05-05 09:58:54.810 [warning] TextEditor is closed/disposed
+2024-05-05 09:59:05.040 [warning] TextEditor is closed/disposed
+2024-05-05 09:59:12.390 [warning] TextEditor is closed/disposed
+2024-05-05 10:09:57.629 [warning] TextEditor is closed/disposed
+2024-05-05 10:11:27.877 [warning] TextEditor is closed/disposed
+2024-05-05 10:14:40.295 [warning] TextEditor is closed/disposed
+2024-05-05 10:15:48.464 [warning] TextEditor is closed/disposed
+2024-05-05 10:16:34.374 [warning] TextEditor is closed/disposed
+2024-05-05 10:18:32.203 [warning] TextEditor is closed/disposed
+2024-05-05 10:23:37.857 [warning] TextEditor is closed/disposed
+2024-05-05 10:28:09.843 [warning] TextEditor is closed/disposed
+2024-05-05 10:29:30.920 [warning] TextEditor is closed/disposed
+2024-05-05 10:29:44.682 [warning] TextEditor is closed/disposed
+2024-05-05 10:29:58.310 [warning] TextEditor is closed/disposed
+2024-05-05 10:30:23.189 [warning] TextEditor is closed/disposed
+2024-05-05 10:30:29.975 [warning] TextEditor is closed/disposed
+2024-05-05 10:30:34.800 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-05 10:30:34.800 [error] {"a":true,"b":null}
+2024-05-05 10:31:43.704 [warning] TextEditor is closed/disposed
+2024-05-05 10:32:06.884 [warning] TextEditor is closed/disposed
+2024-05-05 10:32:35.322 [warning] TextEditor is closed/disposed
+2024-05-05 10:32:36.591 [warning] TextEditor is closed/disposed
+2024-05-05 10:32:38.360 [warning] TextEditor is closed/disposed
+2024-05-05 10:32:41.050 [warning] TextEditor is closed/disposed
+2024-05-05 10:34:19.500 [warning] TextEditor is closed/disposed
+2024-05-05 10:35:38.683 [warning] TextEditor is closed/disposed
+2024-05-05 10:38:31.677 [warning] TextEditor is closed/disposed
+2024-05-05 10:38:45.020 [warning] TextEditor is closed/disposed
+2024-05-05 10:45:41.191 [warning] TextEditor is closed/disposed
+2024-05-05 10:48:29.631 [warning] TextEditor is closed/disposed
+2024-05-05 10:48:29.852 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-05 10:48:29.852 [error] {"a":true,"b":null}
+2024-05-05 10:48:29.852 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-05 10:48:29.852 [error] {"a":true,"b":null}
+2024-05-05 10:48:33.409 [warning] TextEditor is closed/disposed
+2024-05-05 10:48:34.975 [warning] TextEditor is closed/disposed
+2024-05-05 10:48:42.406 [warning] TextEditor is closed/disposed
+2024-05-05 10:48:58.844 [warning] TextEditor is closed/disposed
+2024-05-05 10:49:03.006 [warning] TextEditor is closed/disposed
+2024-05-05 10:49:04.074 [warning] TextEditor is closed/disposed
+2024-05-05 10:49:07.666 [warning] TextEditor is closed/disposed
+2024-05-05 10:49:32.931 [warning] TextEditor is closed/disposed
+2024-05-05 10:49:56.735 [warning] TextEditor is closed/disposed
+2024-05-05 10:59:57.176 [warning] TextEditor is closed/disposed
+2024-05-05 11:20:22.503 [warning] TextEditor is closed/disposed
+2024-05-05 11:20:28.660 [warning] TextEditor is closed/disposed
+2024-05-05 11:23:21.221 [warning] TextEditor is closed/disposed
+2024-05-05 11:23:27.628 [warning] TextEditor is closed/disposed
+2024-05-05 11:26:29.099 [warning] TextEditor is closed/disposed
+2024-05-05 11:30:07.062 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-05 11:30:07.062 [error] {"a":true,"b":null}
+2024-05-05 11:33:11.340 [warning] TextEditor is closed/disposed
+2024-05-05 11:34:17.565 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-05 11:34:17.565 [error] {"a":true,"b":null}
+2024-05-05 12:11:00.006 [warning] TextEditor is closed/disposed
+2024-05-05 12:11:14.825 [warning] TextEditor is closed/disposed
+2024-05-05 12:11:34.875 [warning] TextEditor is closed/disposed
+2024-05-05 12:11:45.849 [warning] TextEditor is closed/disposed
+2024-05-05 12:11:45.972 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-05-05 12:11:46.511 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2024-05-05 12:11:53.451 [warning] TextEditor is closed/disposed
+2024-05-05 12:12:38.081 [warning] TextEditor is closed/disposed
+2024-05-05 12:14:33.998 [warning] TextEditor is closed/disposed
+2024-05-05 12:15:00.854 [warning] TextEditor is closed/disposed
+2024-05-05 12:18:03.503 [warning] TextEditor is closed/disposed
+2024-05-05 12:18:19.809 [warning] TextEditor is closed/disposed
+2024-05-05 12:18:27.766 [warning] TextEditor is closed/disposed
+2024-05-05 12:18:31.313 [warning] TextEditor is closed/disposed
+2024-05-05 12:18:33.880 [warning] TextEditor is closed/disposed
+2024-05-05 12:18:34.757 [warning] TextEditor is closed/disposed
+2024-05-05 12:20:10.085 [warning] TextEditor is closed/disposed
+2024-05-05 12:20:32.673 [warning] TextEditor is closed/disposed
+2024-05-05 12:27:19.471 [warning] TextEditor is closed/disposed
+2024-05-05 12:31:17.293 [warning] TextEditor is closed/disposed
+2024-05-05 12:31:29.824 [warning] TextEditor is closed/disposed
+2024-05-05 12:34:01.805 [warning] TextEditor is closed/disposed
+2024-05-05 12:34:07.208 [warning] TextEditor is closed/disposed
+2024-05-05 12:37:18.178 [warning] TextEditor is closed/disposed
+2024-05-05 12:39:26.614 [warning] TextEditor is closed/disposed
+2024-05-05 12:39:52.072 [warning] TextEditor is closed/disposed
+2024-05-05 12:40:04.605 [warning] TextEditor is closed/disposed
+2024-05-05 12:42:29.842 [warning] TextEditor is closed/disposed
+2024-05-05 12:43:08.186 [warning] TextEditor is closed/disposed
+2024-05-05 12:43:37.582 [warning] TextEditor is closed/disposed
+2024-05-05 12:44:29.585 [warning] TextEditor is closed/disposed
+2024-05-05 12:44:44.252 [warning] TextEditor is closed/disposed
+2024-05-05 13:35:56.642 [warning] TextEditor is closed/disposed
+2024-05-05 13:39:23.485 [warning] TextEditor is closed/disposed
+2024-05-05 13:40:23.057 [warning] TextEditor is closed/disposed
+2024-05-05 13:40:30.531 [warning] TextEditor is closed/disposed
+2024-05-05 13:40:48.749 [warning] TextEditor is closed/disposed
+2024-05-05 13:41:31.204 [warning] TextEditor is closed/disposed
+2024-05-05 13:41:55.513 [warning] TextEditor is closed/disposed
+2024-05-05 13:43:12.539 [warning] TextEditor is closed/disposed
+2024-05-05 13:43:53.204 [warning] TextEditor is closed/disposed
+2024-05-05 13:44:07.773 [warning] TextEditor is closed/disposed
+2024-05-05 13:44:15.260 [warning] TextEditor is closed/disposed
+2024-05-05 13:44:31.963 [warning] TextEditor is closed/disposed
+2024-05-05 13:44:41.771 [warning] TextEditor is closed/disposed
+2024-05-05 13:46:38.477 [warning] TextEditor is closed/disposed
+2024-05-05 13:46:39.552 [warning] TextEditor is closed/disposed
+2024-05-05 13:47:07.822 [warning] TextEditor is closed/disposed
+2024-05-05 13:47:12.110 [warning] TextEditor is closed/disposed
+2024-05-05 13:47:20.959 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-05 13:47:20.959 [error] {"a":true,"b":null}
+2024-05-05 13:47:20.959 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-05 13:47:20.959 [error] {"a":true,"b":null}
+2024-05-05 13:47:34.166 [warning] TextEditor is closed/disposed
+2024-05-05 13:47:42.466 [warning] TextEditor is closed/disposed
+2024-05-05 13:47:53.822 [warning] TextEditor is closed/disposed
+2024-05-05 13:48:12.423 [warning] TextEditor is closed/disposed
+2024-05-05 13:48:46.047 [warning] TextEditor is closed/disposed
+2024-05-05 13:49:54.127 [warning] TextEditor is closed/disposed
+2024-05-05 13:50:11.817 [warning] TextEditor is closed/disposed
+2024-05-05 13:50:19.207 [warning] TextEditor is closed/disposed
+2024-05-05 13:50:36.323 [warning] TextEditor is closed/disposed
+2024-05-05 13:52:17.484 [warning] TextEditor is closed/disposed
+2024-05-05 13:53:23.389 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-05 13:53:23.389 [error] {"a":true,"b":null}
+2024-05-05 13:54:35.339 [warning] TextEditor is closed/disposed
+2024-05-05 13:54:41.738 [warning] TextEditor is closed/disposed
+2024-05-05 13:59:06.634 [warning] TextEditor is closed/disposed
+2024-05-05 13:59:20.984 [warning] TextEditor is closed/disposed
+2024-05-05 13:59:30.038 [warning] TextEditor is closed/disposed
+2024-05-05 14:02:06.522 [warning] TextEditor is closed/disposed
+2024-05-05 14:02:33.374 [warning] TextEditor is closed/disposed
+2024-05-05 14:02:35.045 [warning] TextEditor is closed/disposed
+2024-05-05 14:03:01.462 [warning] TextEditor is closed/disposed
+2024-05-05 14:03:17.680 [warning] TextEditor is closed/disposed
+2024-05-05 14:04:21.481 [warning] TextEditor is closed/disposed
+2024-05-05 14:04:54.932 [warning] TextEditor is closed/disposed
+2024-05-05 14:17:21.978 [warning] TextEditor is closed/disposed
+2024-05-05 14:17:30.359 [warning] TextEditor is closed/disposed
+2024-05-05 14:17:58.591 [warning] TextEditor is closed/disposed
+2024-05-05 14:18:37.051 [warning] TextEditor is closed/disposed
+2024-05-05 14:19:14.861 [warning] TextEditor is closed/disposed
+2024-05-05 14:19:21.887 [warning] TextEditor is closed/disposed
+2024-05-05 14:20:19.094 [warning] TextEditor is closed/disposed
+2024-05-05 14:20:19.909 [warning] TextEditor is closed/disposed
+2024-05-05 14:22:47.940 [warning] TextEditor is closed/disposed
+2024-05-05 14:23:02.286 [warning] TextEditor is closed/disposed
+2024-05-05 14:24:06.672 [warning] TextEditor is closed/disposed
+2024-05-05 14:33:15.053 [warning] TextEditor is closed/disposed
+2024-05-05 14:41:06.386 [warning] TextEditor is closed/disposed
+2024-05-05 14:48:46.440 [warning] TextEditor is closed/disposed
+2024-05-05 14:48:50.162 [warning] TextEditor is closed/disposed
+2024-05-05 15:00:02.569 [warning] TextEditor is closed/disposed
+2024-05-05 15:02:10.179 [warning] TextEditor is closed/disposed
+2024-05-05 15:02:13.635 [warning] TextEditor is closed/disposed
+2024-05-05 15:10:18.291 [warning] TextEditor is closed/disposed
+2024-05-05 15:10:22.835 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-05 15:10:51.453 [warning] TextEditor is closed/disposed
+2024-05-05 15:10:52.298 [warning] TextEditor is closed/disposed
+2024-05-05 15:11:23.322 [warning] TextEditor is closed/disposed
+2024-05-05 15:13:01.424 [warning] TextEditor is closed/disposed
+2024-05-05 15:13:06.800 [warning] TextEditor is closed/disposed
+2024-05-05 15:13:10.763 [warning] TextEditor is closed/disposed
+2024-05-05 15:13:19.721 [warning] TextEditor is closed/disposed
+2024-05-05 15:13:23.867 [warning] TextEditor is closed/disposed
+2024-05-05 15:16:49.875 [warning] TextEditor is closed/disposed
+2024-05-05 15:16:52.403 [warning] TextEditor is closed/disposed
+2024-05-05 15:16:57.948 [warning] TextEditor is closed/disposed
+2024-05-05 15:18:15.286 [warning] TextEditor is closed/disposed
+2024-05-05 15:18:18.314 [warning] TextEditor is closed/disposed
+2024-05-05 15:18:32.692 [warning] TextEditor is closed/disposed
+2024-05-05 15:19:28.660 [warning] TextEditor is closed/disposed
+2024-05-05 15:20:31.950 [warning] TextEditor is closed/disposed
+2024-05-05 15:23:14.872 [warning] TextEditor is closed/disposed
+2024-05-05 15:23:44.883 [error] Error: Client network socket disconnected before secure TLS connection was established
+	at connResetException (node:internal/errors:720:14)
+	at TLSSocket.onConnectEnd (node:_tls_wrap:1658:19)
+	at TLSSocket.emit (node:events:529:35)
+	at endReadableNT (node:internal/streams/readable:1368:12)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-05-05 15:25:01.729 [warning] TextEditor is closed/disposed
+2024-05-05 15:25:05.827 [warning] TextEditor is closed/disposed
+2024-05-05 15:27:29.777 [warning] TextEditor is closed/disposed
+2024-05-05 15:28:09.472 [warning] TextEditor is closed/disposed
+2024-05-05 15:28:41.628 [error] CodeExpectedError: cannot open file:///home/louis/gits/ysyx/ysyx-workbench/am-kernels/tests/klib-tests. Detail: 无法读取文件'/home/louis/gits/ysyx/ysyx-workbench/am-kernels/tests/klib-tests' (Error: 无法读取实际上是一个目录的文件"/home/louis/gits/ysyx/ysyx-workbench/am-kernels/tests/klib-tests")
+    at r.$tryOpenDocument (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2364:62563)
+2024-05-05 15:29:11.435 [warning] TextEditor is closed/disposed
+2024-05-05 15:29:16.359 [warning] TextEditor is closed/disposed
+2024-05-05 15:29:36.441 [warning] TextEditor is closed/disposed
+2024-05-05 15:29:47.632 [warning] TextEditor is closed/disposed
+2024-05-05 15:30:10.951 [warning] TextEditor is closed/disposed
+2024-05-05 15:30:16.471 [warning] TextEditor is closed/disposed
+2024-05-05 15:30:21.166 [warning] TextEditor is closed/disposed
+2024-05-05 15:30:49.023 [warning] TextEditor is closed/disposed
+2024-05-05 15:32:04.531 [warning] TextEditor is closed/disposed
+2024-05-05 15:32:22.249 [warning] TextEditor is closed/disposed
+2024-05-05 15:34:59.767 [warning] TextEditor is closed/disposed
+2024-05-05 15:35:10.791 [warning] TextEditor is closed/disposed
+2024-05-05 15:36:07.528 [error] CodeExpectedError: cannot open file:///home/louis/gits/ysyx/ysyx-workbench/am-kernels/tests/klib-tests/src. Detail: 无法读取文件'/home/louis/gits/ysyx/ysyx-workbench/am-kernels/tests/klib-tests/src' (Error: 无法读取实际上是一个目录的文件"/home/louis/gits/ysyx/ysyx-workbench/am-kernels/tests/klib-tests/src")
+    at r.$tryOpenDocument (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2364:62563)
+2024-05-05 15:36:15.435 [warning] TextEditor is closed/disposed
+2024-05-05 15:36:35.542 [warning] TextEditor is closed/disposed
+2024-05-05 15:36:39.168 [warning] TextEditor is closed/disposed
+2024-05-05 15:36:43.982 [warning] TextEditor is closed/disposed
+2024-05-05 15:37:15.026 [warning] TextEditor is closed/disposed
+2024-05-05 15:37:49.588 [error] CodeExpectedError: cannot open file:///home/louis/gits/ysyx/ysyx-workbench/am-kernels/tests/klib-tests/src/tests. Detail: 无法读取文件'/home/louis/gits/ysyx/ysyx-workbench/am-kernels/tests/klib-tests/src/tests' (Error: 无法读取实际上是一个目录的文件"/home/louis/gits/ysyx/ysyx-workbench/am-kernels/tests/klib-tests/src/tests")
+    at r.$tryOpenDocument (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2364:62563)
+2024-05-05 15:39:20.302 [warning] TextEditor is closed/disposed
+2024-05-05 15:39:37.491 [warning] TextEditor is closed/disposed
+2024-05-05 15:40:10.774 [warning] TextEditor is closed/disposed
+2024-05-05 15:40:33.903 [warning] TextEditor is closed/disposed
+2024-05-05 15:40:47.403 [warning] TextEditor is closed/disposed
+2024-05-05 15:42:33.044 [error] CodeExpectedError: cannot open file:///home/louis/gits/ysyx/ysyx-workbench/am-kernels/tests/klib-tests/include. Detail: 无法读取文件'/home/louis/gits/ysyx/ysyx-workbench/am-kernels/tests/klib-tests/include' (Error: 无法读取实际上是一个目录的文件"/home/louis/gits/ysyx/ysyx-workbench/am-kernels/tests/klib-tests/include")
+    at r.$tryOpenDocument (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2364:62563)
+2024-05-05 15:42:44.563 [warning] TextEditor is closed/disposed
+2024-05-05 15:43:18.391 [warning] TextEditor is closed/disposed
+2024-05-05 15:43:24.737 [warning] TextEditor is closed/disposed
+2024-05-05 15:46:55.860 [warning] TextEditor is closed/disposed
+2024-05-05 15:47:03.870 [warning] TextEditor is closed/disposed
+2024-05-05 15:47:18.957 [warning] TextEditor is closed/disposed
+2024-05-05 15:47:39.981 [warning] TextEditor is closed/disposed
+2024-05-05 15:47:49.631 [warning] TextEditor is closed/disposed
+2024-05-05 15:48:07.282 [warning] TextEditor is closed/disposed
+2024-05-05 15:48:56.311 [warning] TextEditor is closed/disposed
+2024-05-05 15:49:00.883 [warning] TextEditor is closed/disposed
+2024-05-05 15:49:51.951 [warning] TextEditor is closed/disposed
+2024-05-05 15:49:59.864 [warning] TextEditor is closed/disposed
+2024-05-05 15:50:02.505 [warning] TextEditor is closed/disposed
+2024-05-05 15:50:46.015 [warning] TextEditor is closed/disposed
+2024-05-05 15:51:01.346 [warning] TextEditor is closed/disposed
+2024-05-05 15:51:20.669 [warning] TextEditor is closed/disposed
+2024-05-05 15:51:23.199 [warning] TextEditor is closed/disposed
+2024-05-05 15:52:34.371 [warning] TextEditor is closed/disposed
+2024-05-05 15:55:04.830 [warning] TextEditor is closed/disposed
+2024-05-05 15:55:11.849 [warning] TextEditor is closed/disposed
+2024-05-05 15:56:05.066 [warning] TextEditor is closed/disposed
+2024-05-05 15:56:05.985 [warning] TextEditor is closed/disposed
+2024-05-05 15:56:10.852 [warning] TextEditor is closed/disposed
+2024-05-05 15:56:13.957 [warning] TextEditor is closed/disposed
+2024-05-05 15:56:15.048 [warning] TextEditor is closed/disposed
+2024-05-05 15:56:26.668 [warning] TextEditor is closed/disposed
+2024-05-05 15:56:31.041 [warning] TextEditor is closed/disposed
+2024-05-05 15:58:01.232 [warning] TextEditor is closed/disposed
+2024-05-05 15:58:15.917 [warning] TextEditor is closed/disposed
+2024-05-05 15:58:16.538 [warning] TextEditor is closed/disposed
+2024-05-05 15:58:24.081 [warning] TextEditor is closed/disposed
+2024-05-05 16:00:46.664 [warning] TextEditor is closed/disposed
+2024-05-05 16:01:00.753 [warning] TextEditor is closed/disposed
+2024-05-05 16:01:11.941 [warning] TextEditor is closed/disposed
+2024-05-05 16:01:15.871 [warning] TextEditor is closed/disposed
+2024-05-05 16:01:22.913 [warning] TextEditor is closed/disposed
+2024-05-05 16:02:52.249 [warning] TextEditor is closed/disposed
+2024-05-05 16:03:10.029 [warning] TextEditor is closed/disposed
+2024-05-05 16:03:16.060 [warning] TextEditor is closed/disposed
+2024-05-05 16:03:26.280 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-05 16:03:26.280 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":165425}]}}
+2024-05-05 16:03:40.079 [warning] TextEditor is closed/disposed
+2024-05-05 16:03:55.619 [warning] TextEditor is closed/disposed
+2024-05-05 16:04:08.137 [warning] TextEditor is closed/disposed
+2024-05-05 16:04:10.279 [warning] TextEditor is closed/disposed
+2024-05-05 16:04:18.011 [warning] TextEditor is closed/disposed
+2024-05-05 16:04:29.135 [warning] TextEditor is closed/disposed
+2024-05-05 16:04:50.113 [warning] TextEditor is closed/disposed
+2024-05-05 16:04:52.943 [warning] TextEditor is closed/disposed
+2024-05-05 16:04:54.146 [warning] TextEditor is closed/disposed
+2024-05-05 16:05:13.937 [warning] TextEditor is closed/disposed
+2024-05-05 16:05:15.250 [warning] TextEditor is closed/disposed
+2024-05-05 16:05:16.664 [warning] TextEditor is closed/disposed
+2024-05-05 16:10:28.962 [warning] TextEditor is closed/disposed
+2024-05-05 16:11:50.332 [warning] TextEditor is closed/disposed
+2024-05-05 16:11:59.641 [warning] TextEditor is closed/disposed
+2024-05-05 16:14:07.588 [warning] TextEditor is closed/disposed
+2024-05-05 16:15:11.260 [warning] TextEditor is closed/disposed
+2024-05-05 16:17:41.019 [warning] TextEditor is closed/disposed
+2024-05-05 16:36:48.705 [warning] TextEditor is closed/disposed
+2024-05-05 16:47:09.957 [warning] TextEditor is closed/disposed
+2024-05-05 16:47:11.461 [warning] TextEditor is closed/disposed
+2024-05-05 16:59:00.394 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-05 16:59:00.394 [error] {"a":false,"b":{"w":1,"u":{"i":-1,"end":0},"t":[{"id":173069}]}}
+2024-05-05 16:59:00.395 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2024-05-05 16:59:00.395 [error] {"a":true,"b":null}
+2024-05-05 17:00:19.807 [warning] TextEditor is closed/disposed
+2024-05-05 17:00:24.667 [warning] TextEditor is closed/disposed
+2024-05-05 17:00:26.463 [warning] TextEditor is closed/disposed
+2024-05-05 18:36:02.713 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-05 18:36:02.798 [warning] Canceled
+2024-05-05 18:36:02.802 [error] Canceled: Canceled
+	at Object.D [as $6] (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2335
+	at Array.forEach (<anonymous>)
+	at u.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2273)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8053)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-05 18:36:02.802 [error] Canceled: Canceled
+	at Object.D [as $6] (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2335
+	at Array.forEach (<anonymous>)
+	at u.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2273)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8053)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-05 18:36:02.803 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at o.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945802)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:729)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:945)
+	at Object.m [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964886)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970920
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970906)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3830)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:948059)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-05 18:36:02.803 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at o.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945802)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:729)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:945)
+	at Object.m [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964886)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970920
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970906)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3830)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:948059)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-05 18:36:02.803 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at o.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945802)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:729)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:945)
+	at Object.m [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964886)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970920
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970906)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3830)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:948059)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-05 18:36:02.803 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at o.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945802)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:729)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:945)
+	at Object.m [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964886)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970920
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970906)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3830)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:948059)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-05 18:36:02.806 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at set hasGitHubRepositories [as hasGitHubRepositories] (/usr/share/code/resources/app/extensions/github/dist/extension.js:2:324866)
+	at /usr/share/code/resources/app/extensions/github/dist/extension.js:2:325825
+	at o.value (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1051703)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:729)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:945)
+	at Object.m [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964886)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970920
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970906)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3830)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:948059)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-05 18:36:02.807 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at w (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1081:41198)
+	at h (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1081:46237)
+	at ActionRunners._updateContextKeys (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:18411)
+	at s (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16855)
+	at RegisteredActionRunner.unregister (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16998)
+	at RegisteredActionRunner.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:15651)
+	at ActionRunners.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16438)
+	at /home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1041:19519
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1041:19501)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-05 18:36:02.807 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at w (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1081:41198)
+	at h (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1081:46237)
+	at ActionRunners._updateContextKeys (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:18411)
+	at s (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16855)
+	at RegisteredActionRunner.unregister (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16998)
+	at RegisteredActionRunner.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:15651)
+	at ActionRunners.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16438)
+	at /home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1041:19519
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1041:19501)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-05 18:36:02.807 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22785)
+	at w (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1081:41198)
+	at h (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1081:46237)
+	at ActionRunners._updateContextKeys (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:18411)
+	at s (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16855)
+	at RegisteredActionRunner.unregister (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16998)
+	at RegisteredActionRunner.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:15651)
+	at ActionRunners.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:663:16438)
+	at /home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1041:19519
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/louis/.vscode/extensions/eamodio.gitlens-14.9.1/dist/gitlens.js:1041:19501)
+	at o (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-05 18:36:02.813 [info] Extension host with pid 6030 exiting with code 0

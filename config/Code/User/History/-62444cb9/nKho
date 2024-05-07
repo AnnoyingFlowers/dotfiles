@@ -1,0 +1,35 @@
+feat: 更新数电exp02
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa0
+# Your branch is up to date with 'backup/pa0'.
+#
+# Changes to be committed:
+#	modified:   .gitignore
+#	new file:   dlco-test/exp02/.gitignore
+#	new file:   dlco-test/exp02/obj_dir/Vpri_encode42.cpp
+#	new file:   dlco-test/exp02/obj_dir/Vpri_encode42.h
+#	new file:   dlco-test/exp02/obj_dir/Vpri_encode42.mk
+#	new file:   dlco-test/exp02/obj_dir/Vpri_encode42__ALL.cpp
+#	new file:   dlco-test/exp02/obj_dir/Vpri_encode42__ConstPool_0.cpp
+#	new file:   dlco-test/exp02/obj_dir/Vpri_encode42__Syms.cpp
+#	new file:   dlco-test/exp02/obj_dir/Vpri_encode42__Syms.h
+#	new file:   dlco-test/exp02/obj_dir/Vpri_encode42__Trace__0.cpp
+#	new file:   dlco-test/exp02/obj_dir/Vpri_encode42__Trace__0__Slow.cpp
+#	new file:   dlco-test/exp02/obj_dir/Vpri_encode42___024root.h
+#	new file:   dlco-test/exp02/obj_dir/Vpri_encode42___024root__DepSet_h0202c4f8__0.cpp
+#	new file:   dlco-test/exp02/obj_dir/Vpri_encode42___024root__DepSet_h0202c4f8__0__Slow.cpp
+#	new file:   dlco-test/exp02/obj_dir/Vpri_encode42___024root__DepSet_hd99e8a27__0.cpp
+#	new file:   dlco-test/exp02/obj_dir/Vpri_encode42___024root__DepSet_hd99e8a27__0__Slow.cpp
+#	new file:   dlco-test/exp02/obj_dir/Vpri_encode42___024root__Slow.cpp
+#	new file:   dlco-test/exp02/obj_dir/Vpri_encode42_classes.mk
+#	new file:   dlco-test/exp02/vsrc/bcd7seg.v
+#	new file:   dlco-test/exp02/vsrc/decode24.v
+#	new file:   dlco-test/exp02/vsrc/decode38.v
+#	new file:   dlco-test/exp02/vsrc/pri_encode42.v
+#
+# Untracked files:
+#	dlco-test/test_dc_switch/
+#	dlco-test/test_our/
+#

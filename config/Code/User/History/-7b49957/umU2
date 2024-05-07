@@ -1,0 +1,30 @@
+feat: Update ex32 and Initialize ex33
+
+- finish ex32
+- initialize ex33
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa0
+# Changes to be committed:
+#	modified:   C-Programming/ex32/liblcthw/build/liblcthw.a
+#	modified:   C-Programming/ex32/liblcthw/src/lcthw/list.c
+#	modified:   C-Programming/ex32/liblcthw/src/lcthw/list.h
+#	modified:   C-Programming/ex32/liblcthw/src/lcthw/list.o
+#	renamed:    C-Programming/ex32/liblcthw/src/lcthw/pre_list.c -> C-Programming/ex32/liblcthw/src/lcthw/pre_list.txt
+#	modified:   C-Programming/ex32/liblcthw/tests/list_tests
+#	modified:   C-Programming/ex32/liblcthw/tests/list_tests.c
+#	modified:   C-Programming/ex32/liblcthw/tests/minunit.h
+#	modified:   C-Programming/ex32/liblcthw/tests/tests.log
+#	new file:   C-Programming/ex33/liblcthw/Makefile
+#	new file:   C-Programming/ex33/liblcthw/src/lcthw/dbg.h
+#	new file:   C-Programming/ex33/liblcthw/src/lcthw/list.c
+#	new file:   C-Programming/ex33/liblcthw/src/lcthw/list.h
+#	new file:   C-Programming/ex33/liblcthw/src/lcthw/list_algos.c
+#	new file:   C-Programming/ex33/liblcthw/src/lcthw/list_algos.h
+#	new file:   C-Programming/ex33/liblcthw/tests/list_algos_tests.c
+#	new file:   C-Programming/ex33/liblcthw/tests/list_tests.c
+#	new file:   C-Programming/ex33/liblcthw/tests/list_tests.tst
+#	new file:   C-Programming/ex33/liblcthw/tests/minunit.h
+#	new file:   C-Programming/ex33/liblcthw/tests/runtests.sh
+#

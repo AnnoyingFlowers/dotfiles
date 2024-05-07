@@ -1,0 +1,1022 @@
+2024-05-06 14:31:20.405 [info] mshr-h.veriloghdl is now active.
+2024-05-06 14:31:20.405 [info] [ExtensionManager] previousVersion: "1.14.1", currentVersion: "1.14.1"
+2024-05-06 14:31:20.405 [info] ctags manager configure
+2024-05-06 14:31:20.405 [info] [LintManager] Using linter: verilator
+2024-05-06 14:31:20.405 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 14:31:20.405 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:20.405 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc
+2024-05-06 14:31:20.405 [info] mshr-h.veriloghdl activation finished.
+2024-05-06 14:31:20.405 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v
+2024-05-06 14:31:20.405 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:20.405 [info] executing ctags
+2024-05-06 14:31:20.405 [info] building symbols
+2024-05-06 14:31:20.405 [error] No output from ctags
+2024-05-06 14:31:20.405 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:31:20.405 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v
+2024-05-06 14:31:20.405 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:20.405 [info] executing ctags
+2024-05-06 14:31:20.405 [info] building symbols
+2024-05-06 14:31:20.405 [error] No output from ctags
+2024-05-06 14:31:20.405 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:31:20.405 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v
+2024-05-06 14:31:20.405 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:20.405 [info] executing ctags
+2024-05-06 14:31:20.405 [info] building symbols
+2024-05-06 14:31:20.405 [error] No output from ctags
+2024-05-06 14:31:20.405 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:31:20.483 [info] [LintManager] [VerilatorLinter] [verilator] 0 errors/warnings returned
+2024-05-06 14:31:20.676 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v
+2024-05-06 14:31:20.677 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:20.677 [info] executing ctags
+2024-05-06 14:31:20.677 [info] building symbols
+2024-05-06 14:31:20.677 [error] No output from ctags
+2024-05-06 14:31:20.677 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:31:28.009 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:28.009 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:28.009 [info] executing ctags
+2024-05-06 14:31:28.009 [info] building symbols
+2024-05-06 14:31:28.009 [error] No output from ctags
+2024-05-06 14:31:28.026 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:30.054 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:30.377 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:30.377 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:30.377 [info] executing ctags
+2024-05-06 14:31:30.377 [info] building symbols
+2024-05-06 14:31:30.377 [error] No output from ctags
+2024-05-06 14:31:30.396 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:30.620 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:30.620 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:30.620 [info] executing ctags
+2024-05-06 14:31:30.620 [info] building symbols
+2024-05-06 14:31:30.620 [error] No output from ctags
+2024-05-06 14:31:30.638 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:31.181 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:31.181 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:31.181 [info] executing ctags
+2024-05-06 14:31:31.181 [info] building symbols
+2024-05-06 14:31:31.181 [error] No output from ctags
+2024-05-06 14:31:31.197 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:31.956 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:31.957 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:31.957 [info] executing ctags
+2024-05-06 14:31:31.957 [info] building symbols
+2024-05-06 14:31:31.957 [error] No output from ctags
+2024-05-06 14:31:31.971 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:32.640 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:32.640 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:32.640 [info] executing ctags
+2024-05-06 14:31:32.640 [info] building symbols
+2024-05-06 14:31:32.640 [error] No output from ctags
+2024-05-06 14:31:32.656 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:33.054 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:33.258 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:36.872 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:37.179 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:37.179 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:37.179 [info] executing ctags
+2024-05-06 14:31:37.179 [info] building symbols
+2024-05-06 14:31:37.180 [error] No output from ctags
+2024-05-06 14:31:37.201 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:39.102 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:39.387 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:40.382 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:41.113 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:41.113 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:41.113 [info] executing ctags
+2024-05-06 14:31:41.113 [info] building symbols
+2024-05-06 14:31:41.113 [error] No output from ctags
+2024-05-06 14:31:41.129 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:41.396 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:41.396 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:41.396 [info] executing ctags
+2024-05-06 14:31:41.396 [info] building symbols
+2024-05-06 14:31:41.396 [error] No output from ctags
+2024-05-06 14:31:41.410 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:42.418 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:42.824 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:43.931 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:43.931 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:43.931 [info] executing ctags
+2024-05-06 14:31:43.931 [info] building symbols
+2024-05-06 14:31:43.931 [error] No output from ctags
+2024-05-06 14:31:43.945 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:44.142 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:44.142 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:44.142 [info] executing ctags
+2024-05-06 14:31:44.142 [info] building symbols
+2024-05-06 14:31:44.142 [error] No output from ctags
+2024-05-06 14:31:44.158 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:44.377 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:44.377 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:44.377 [info] executing ctags
+2024-05-06 14:31:44.377 [info] building symbols
+2024-05-06 14:31:44.377 [error] No output from ctags
+2024-05-06 14:31:44.394 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:45.016 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:45.016 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:45.016 [info] executing ctags
+2024-05-06 14:31:45.016 [info] building symbols
+2024-05-06 14:31:45.016 [error] No output from ctags
+2024-05-06 14:31:45.031 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:45.472 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:47.118 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:47.361 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:47.361 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:47.361 [info] executing ctags
+2024-05-06 14:31:47.361 [info] building symbols
+2024-05-06 14:31:47.361 [error] No output from ctags
+2024-05-06 14:31:47.375 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:47.624 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:47.624 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:47.624 [info] executing ctags
+2024-05-06 14:31:47.624 [info] building symbols
+2024-05-06 14:31:47.624 [error] No output from ctags
+2024-05-06 14:31:47.638 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:47.891 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:47.891 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:47.891 [info] executing ctags
+2024-05-06 14:31:47.891 [info] building symbols
+2024-05-06 14:31:47.891 [error] No output from ctags
+2024-05-06 14:31:47.907 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:49.051 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:49.051 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:49.051 [info] executing ctags
+2024-05-06 14:31:49.051 [info] building symbols
+2024-05-06 14:31:49.051 [error] No output from ctags
+2024-05-06 14:31:49.064 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:49.368 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:49.368 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:49.368 [info] executing ctags
+2024-05-06 14:31:49.368 [info] building symbols
+2024-05-06 14:31:49.368 [error] No output from ctags
+2024-05-06 14:31:49.383 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:49.565 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:49.565 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:49.565 [info] executing ctags
+2024-05-06 14:31:49.565 [info] building symbols
+2024-05-06 14:31:49.565 [error] No output from ctags
+2024-05-06 14:31:49.580 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:50.670 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:50.670 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:50.670 [info] executing ctags
+2024-05-06 14:31:50.670 [info] building symbols
+2024-05-06 14:31:50.670 [error] No output from ctags
+2024-05-06 14:31:50.685 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:50.901 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:50.901 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:50.901 [info] executing ctags
+2024-05-06 14:31:50.901 [info] building symbols
+2024-05-06 14:31:50.901 [error] No output from ctags
+2024-05-06 14:31:50.916 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:51.124 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:57.817 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:57.817 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:57.817 [info] executing ctags
+2024-05-06 14:31:57.817 [info] building symbols
+2024-05-06 14:31:57.817 [error] No output from ctags
+2024-05-06 14:31:57.859 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:31:58.476 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:31:58.476 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:31:58.476 [info] executing ctags
+2024-05-06 14:31:58.476 [info] building symbols
+2024-05-06 14:31:58.476 [error] No output from ctags
+2024-05-06 14:31:58.490 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:32:24.640 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 14:32:24.641 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:32:24.641 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc
+2024-05-06 14:32:24.651 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v
+2024-05-06 14:32:24.651 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:32:24.651 [info] executing ctags
+2024-05-06 14:32:24.651 [info] building symbols
+2024-05-06 14:32:24.651 [error] No output from ctags
+2024-05-06 14:32:24.651 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:32:24.706 [info] [LintManager] [VerilatorLinter] [verilator] 0 errors/warnings returned
+2024-05-06 14:32:24.946 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v
+2024-05-06 14:32:24.946 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:32:24.946 [info] executing ctags
+2024-05-06 14:32:24.946 [info] building symbols
+2024-05-06 14:32:24.946 [error] No output from ctags
+2024-05-06 14:32:24.946 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:32:51.340 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 14:32:51.340 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:32:51.340 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc
+2024-05-06 14:32:51.343 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v
+2024-05-06 14:32:51.343 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:32:51.343 [info] executing ctags
+2024-05-06 14:32:51.343 [info] building symbols
+2024-05-06 14:32:51.343 [error] No output from ctags
+2024-05-06 14:32:51.343 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:32:51.413 [info] [LintManager] [VerilatorLinter] [verilator] 0 errors/warnings returned
+2024-05-06 14:32:51.646 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v
+2024-05-06 14:32:51.646 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:32:51.646 [info] executing ctags
+2024-05-06 14:32:51.646 [info] building symbols
+2024-05-06 14:32:51.646 [error] No output from ctags
+2024-05-06 14:32:51.646 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:34:01.055 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 14:34:01.055 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:01.055 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc
+2024-05-06 14:34:01.057 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v
+2024-05-06 14:34:01.058 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:01.058 [info] executing ctags
+2024-05-06 14:34:01.058 [info] building symbols
+2024-05-06 14:34:01.058 [error] No output from ctags
+2024-05-06 14:34:01.058 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:34:01.123 [info] [LintManager] [VerilatorLinter] [verilator] 0 errors/warnings returned
+2024-05-06 14:34:01.353 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v
+2024-05-06 14:34:01.353 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:01.353 [info] executing ctags
+2024-05-06 14:34:01.353 [info] building symbols
+2024-05-06 14:34:01.353 [error] No output from ctags
+2024-05-06 14:34:01.353 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:34:08.929 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:11.801 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:14.979 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:14.979 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:14.979 [info] executing ctags
+2024-05-06 14:34:14.979 [info] building symbols
+2024-05-06 14:34:14.979 [error] No output from ctags
+2024-05-06 14:34:14.993 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:15.186 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:15.186 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:15.186 [info] executing ctags
+2024-05-06 14:34:15.186 [info] building symbols
+2024-05-06 14:34:15.186 [error] No output from ctags
+2024-05-06 14:34:15.201 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:15.359 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:15.359 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:15.359 [info] executing ctags
+2024-05-06 14:34:15.359 [info] building symbols
+2024-05-06 14:34:15.359 [error] No output from ctags
+2024-05-06 14:34:15.375 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:15.776 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:15.776 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:15.776 [info] executing ctags
+2024-05-06 14:34:15.776 [info] building symbols
+2024-05-06 14:34:15.776 [error] No output from ctags
+2024-05-06 14:34:15.791 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:16.612 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:16.612 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:16.612 [info] executing ctags
+2024-05-06 14:34:16.612 [info] building symbols
+2024-05-06 14:34:16.612 [error] No output from ctags
+2024-05-06 14:34:16.627 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:16.866 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:16.866 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:16.866 [info] executing ctags
+2024-05-06 14:34:16.866 [info] building symbols
+2024-05-06 14:34:16.866 [error] No output from ctags
+2024-05-06 14:34:16.881 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:26.450 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:26.450 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:26.450 [info] executing ctags
+2024-05-06 14:34:26.450 [info] building symbols
+2024-05-06 14:34:26.450 [error] No output from ctags
+2024-05-06 14:34:26.476 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:27.309 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:27.309 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:27.309 [info] executing ctags
+2024-05-06 14:34:27.309 [info] building symbols
+2024-05-06 14:34:27.309 [error] No output from ctags
+2024-05-06 14:34:27.324 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:27.933 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:27.933 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:27.933 [info] executing ctags
+2024-05-06 14:34:27.933 [info] building symbols
+2024-05-06 14:34:27.934 [error] No output from ctags
+2024-05-06 14:34:27.948 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:29.002 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:29.002 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:29.002 [info] executing ctags
+2024-05-06 14:34:29.002 [info] building symbols
+2024-05-06 14:34:29.002 [error] No output from ctags
+2024-05-06 14:34:29.017 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:31.988 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:31.988 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:31.988 [info] executing ctags
+2024-05-06 14:34:31.988 [info] building symbols
+2024-05-06 14:34:31.988 [error] No output from ctags
+2024-05-06 14:34:32.003 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:33.104 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:33.104 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:33.104 [info] executing ctags
+2024-05-06 14:34:33.104 [info] building symbols
+2024-05-06 14:34:33.104 [error] No output from ctags
+2024-05-06 14:34:33.118 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:33.717 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:33.717 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:33.717 [info] executing ctags
+2024-05-06 14:34:33.717 [info] building symbols
+2024-05-06 14:34:33.717 [error] No output from ctags
+2024-05-06 14:34:33.733 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:34.835 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:36.039 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:36.039 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:36.039 [info] executing ctags
+2024-05-06 14:34:36.039 [info] building symbols
+2024-05-06 14:34:36.039 [error] No output from ctags
+2024-05-06 14:34:36.054 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:36.576 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:36.576 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:36.576 [info] executing ctags
+2024-05-06 14:34:36.576 [info] building symbols
+2024-05-06 14:34:36.576 [error] No output from ctags
+2024-05-06 14:34:36.593 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:38.832 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:38.832 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:38.832 [info] executing ctags
+2024-05-06 14:34:38.832 [info] building symbols
+2024-05-06 14:34:38.832 [error] No output from ctags
+2024-05-06 14:34:38.847 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:39.328 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:39.328 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:39.328 [info] executing ctags
+2024-05-06 14:34:39.328 [info] building symbols
+2024-05-06 14:34:39.328 [error] No output from ctags
+2024-05-06 14:34:39.342 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:40.804 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:40.804 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:40.804 [info] executing ctags
+2024-05-06 14:34:40.804 [info] building symbols
+2024-05-06 14:34:40.804 [error] No output from ctags
+2024-05-06 14:34:40.818 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:41.171 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:41.171 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:41.171 [info] executing ctags
+2024-05-06 14:34:41.171 [info] building symbols
+2024-05-06 14:34:41.171 [error] No output from ctags
+2024-05-06 14:34:41.188 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:41.384 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:41.384 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:41.384 [info] executing ctags
+2024-05-06 14:34:41.384 [info] building symbols
+2024-05-06 14:34:41.384 [error] No output from ctags
+2024-05-06 14:34:41.398 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:42.056 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:42.056 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:42.056 [info] executing ctags
+2024-05-06 14:34:42.056 [info] building symbols
+2024-05-06 14:34:42.056 [error] No output from ctags
+2024-05-06 14:34:42.069 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:42.971 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:42.971 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:42.971 [info] executing ctags
+2024-05-06 14:34:42.971 [info] building symbols
+2024-05-06 14:34:42.971 [error] No output from ctags
+2024-05-06 14:34:42.987 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:43.912 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:43.912 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:43.912 [info] executing ctags
+2024-05-06 14:34:43.912 [info] building symbols
+2024-05-06 14:34:43.912 [error] No output from ctags
+2024-05-06 14:34:43.925 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:45.176 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:45.176 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:45.176 [info] executing ctags
+2024-05-06 14:34:45.176 [info] building symbols
+2024-05-06 14:34:45.176 [error] No output from ctags
+2024-05-06 14:34:45.195 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:56.362 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:56.362 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:34:56.362 [info] executing ctags
+2024-05-06 14:34:56.362 [info] building symbols
+2024-05-06 14:34:56.362 [error] No output from ctags
+2024-05-06 14:34:56.400 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:57.846 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v
+2024-05-06 14:34:57.846 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:34:57.846 [info] executing ctags
+2024-05-06 14:34:57.846 [info] building symbols
+2024-05-06 14:34:57.846 [error] No output from ctags
+2024-05-06 14:34:57.846 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:34:58.620 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:58.620 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:34:58.620 [info] executing ctags
+2024-05-06 14:34:58.620 [info] building symbols
+2024-05-06 14:34:58.620 [error] No output from ctags
+2024-05-06 14:34:58.636 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:34:58.987 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:34:58.987 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:34:58.987 [info] executing ctags
+2024-05-06 14:34:58.987 [info] building symbols
+2024-05-06 14:34:58.987 [error] No output from ctags
+2024-05-06 14:34:59.004 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:38:30.154 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:38:30.154 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 14:38:30.154 [info] executing ctags
+2024-05-06 14:38:30.154 [info] building symbols
+2024-05-06 14:38:30.155 [error] No output from ctags
+2024-05-06 14:38:30.192 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:38:31.637 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v
+2024-05-06 14:38:31.637 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:38:31.637 [info] executing ctags
+2024-05-06 14:38:31.637 [info] building symbols
+2024-05-06 14:38:31.637 [error] No output from ctags
+2024-05-06 14:38:31.637 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:43:42.854 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:46:17.580 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:46:17.580 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:46:17.580 [info] executing ctags
+2024-05-06 14:46:17.580 [info] building symbols
+2024-05-06 14:46:17.580 [error] No output from ctags
+2024-05-06 14:46:17.595 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:46:17.933 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:49:14.162 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 14:49:14.162 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 14:49:14.162 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 14:49:14.172 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 14:49:14.172 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 14:49:14.172 [info] executing ctags
+2024-05-06 14:49:14.172 [info] building symbols
+2024-05-06 14:49:14.172 [error] No output from ctags
+2024-05-06 14:49:14.172 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:49:14.237 [info] [LintManager] [VerilatorLinter] [verilator] 13 errors/warnings returned
+2024-05-06 14:49:14.463 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 14:49:14.463 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 14:49:14.463 [info] executing ctags
+2024-05-06 14:49:14.463 [info] building symbols
+2024-05-06 14:49:14.463 [error] No output from ctags
+2024-05-06 14:49:14.464 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:49:37.241 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 14:49:37.241 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 14:49:37.241 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 14:49:37.252 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 14:49:37.252 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 14:49:37.252 [info] executing ctags
+2024-05-06 14:49:37.252 [info] building symbols
+2024-05-06 14:49:37.252 [error] No output from ctags
+2024-05-06 14:49:37.252 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:49:37.307 [info] [LintManager] [VerilatorLinter] [verilator] 2 errors/warnings returned
+2024-05-06 14:49:37.543 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 14:49:37.543 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 14:49:37.543 [info] executing ctags
+2024-05-06 14:49:37.543 [info] building symbols
+2024-05-06 14:49:37.543 [error] No output from ctags
+2024-05-06 14:49:37.543 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:49:54.939 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v
+2024-05-06 14:49:54.939 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 14:49:54.939 [info] executing ctags
+2024-05-06 14:49:54.939 [info] building symbols
+2024-05-06 14:49:54.939 [error] No output from ctags
+2024-05-06 14:49:54.939 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:50:22.267 [info] on save
+2024-05-06 14:51:17.251 [info] on save
+2024-05-06 14:54:55.356 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 14:54:55.356 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 14:54:55.356 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 14:54:55.368 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 14:54:55.368 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 14:54:55.368 [info] executing ctags
+2024-05-06 14:54:55.368 [info] building symbols
+2024-05-06 14:54:55.368 [error] No output from ctags
+2024-05-06 14:54:55.368 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:54:55.423 [info] [LintManager] [VerilatorLinter] [verilator] 13 errors/warnings returned
+2024-05-06 14:54:55.663 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 14:54:55.663 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 14:54:55.663 [info] executing ctags
+2024-05-06 14:54:55.663 [info] building symbols
+2024-05-06 14:54:55.663 [error] No output from ctags
+2024-05-06 14:54:55.663 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:55:08.478 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 14:55:08.478 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 14:55:08.478 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 14:55:08.487 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 14:55:08.487 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 14:55:08.487 [info] executing ctags
+2024-05-06 14:55:08.487 [info] building symbols
+2024-05-06 14:55:08.487 [error] No output from ctags
+2024-05-06 14:55:08.487 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:55:08.540 [info] [LintManager] [VerilatorLinter] [verilator] 2 errors/warnings returned
+2024-05-06 14:55:08.779 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 14:55:08.779 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 14:55:08.779 [info] executing ctags
+2024-05-06 14:55:08.779 [info] building symbols
+2024-05-06 14:55:08.779 [error] No output from ctags
+2024-05-06 14:55:08.779 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:55:32.847 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:55:32.847 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 14:55:32.847 [info] executing ctags
+2024-05-06 14:55:32.847 [info] building symbols
+2024-05-06 14:55:32.847 [error] No output from ctags
+2024-05-06 14:55:32.863 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:56:18.221 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:56:18.221 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 14:56:18.221 [info] executing ctags
+2024-05-06 14:56:18.221 [info] building symbols
+2024-05-06 14:56:18.221 [error] No output from ctags
+2024-05-06 14:56:18.237 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:56:20.268 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:56:59.254 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 14:56:59.254 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 14:56:59.254 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 14:56:59.256 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 14:56:59.256 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 14:56:59.256 [info] executing ctags
+2024-05-06 14:56:59.256 [info] building symbols
+2024-05-06 14:56:59.256 [error] No output from ctags
+2024-05-06 14:56:59.256 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:56:59.316 [info] [LintManager] [VerilatorLinter] [verilator] 13 errors/warnings returned
+2024-05-06 14:56:59.557 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 14:56:59.557 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 14:56:59.557 [info] executing ctags
+2024-05-06 14:56:59.557 [info] building symbols
+2024-05-06 14:56:59.557 [error] No output from ctags
+2024-05-06 14:56:59.557 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:58:04.053 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:58:04.053 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 14:58:04.053 [info] executing ctags
+2024-05-06 14:58:04.053 [info] building symbols
+2024-05-06 14:58:04.053 [error] No output from ctags
+2024-05-06 14:58:04.095 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:58:04.814 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:58:04.814 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 14:58:04.814 [info] executing ctags
+2024-05-06 14:58:04.814 [info] building symbols
+2024-05-06 14:58:04.814 [error] No output from ctags
+2024-05-06 14:58:04.832 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:58:05.028 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:58:05.028 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 14:58:05.028 [info] executing ctags
+2024-05-06 14:58:05.028 [info] building symbols
+2024-05-06 14:58:05.028 [error] No output from ctags
+2024-05-06 14:58:05.044 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:58:05.830 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:58:05.830 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 14:58:05.830 [info] executing ctags
+2024-05-06 14:58:05.830 [info] building symbols
+2024-05-06 14:58:05.830 [error] No output from ctags
+2024-05-06 14:58:05.846 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:58:23.240 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 14:58:23.240 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 14:58:23.240 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 14:58:23.243 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 14:58:23.243 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 14:58:23.243 [info] executing ctags
+2024-05-06 14:58:23.243 [info] building symbols
+2024-05-06 14:58:23.243 [error] No output from ctags
+2024-05-06 14:58:23.243 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:58:23.302 [info] [LintManager] [VerilatorLinter] [verilator] 2 errors/warnings returned
+2024-05-06 14:58:23.544 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 14:58:23.544 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 14:58:23.544 [info] executing ctags
+2024-05-06 14:58:23.544 [info] building symbols
+2024-05-06 14:58:23.544 [error] No output from ctags
+2024-05-06 14:58:23.544 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:58:30.221 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 14:58:30.222 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 14:58:30.222 [info] executing ctags
+2024-05-06 14:58:30.222 [info] building symbols
+2024-05-06 14:58:30.222 [error] No output from ctags
+2024-05-06 14:58:30.236 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 14:58:36.799 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 14:58:36.799 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 14:58:36.799 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 14:58:36.802 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 14:58:36.802 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 14:58:36.802 [info] executing ctags
+2024-05-06 14:58:36.802 [info] building symbols
+2024-05-06 14:58:36.802 [error] No output from ctags
+2024-05-06 14:58:36.802 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 14:58:36.863 [info] [LintManager] [VerilatorLinter] [verilator] 13 errors/warnings returned
+2024-05-06 14:58:37.096 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 14:58:37.097 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 14:58:37.097 [info] executing ctags
+2024-05-06 14:58:37.097 [info] building symbols
+2024-05-06 14:58:37.097 [error] No output from ctags
+2024-05-06 14:58:37.097 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:00:16.020 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:00:36.578 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:02:02.711 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 15:02:02.711 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:02:02.711 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 15:02:02.713 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 15:02:02.713 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:02:02.713 [info] executing ctags
+2024-05-06 15:02:02.713 [info] building symbols
+2024-05-06 15:02:02.713 [error] No output from ctags
+2024-05-06 15:02:02.713 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:02:02.774 [info] [LintManager] [VerilatorLinter] [verilator] 2 errors/warnings returned
+2024-05-06 15:02:03.009 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 15:02:03.009 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:02:03.009 [info] executing ctags
+2024-05-06 15:02:03.009 [info] building symbols
+2024-05-06 15:02:03.009 [error] No output from ctags
+2024-05-06 15:02:03.009 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:02:19.951 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 15:02:19.951 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:02:19.951 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 15:02:19.953 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 15:02:19.953 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:02:19.953 [info] executing ctags
+2024-05-06 15:02:19.953 [info] building symbols
+2024-05-06 15:02:19.953 [error] No output from ctags
+2024-05-06 15:02:19.953 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:02:20.012 [info] [LintManager] [VerilatorLinter] [verilator] 13 errors/warnings returned
+2024-05-06 15:02:20.246 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 15:02:20.246 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:02:20.246 [info] executing ctags
+2024-05-06 15:02:20.246 [info] building symbols
+2024-05-06 15:02:20.246 [error] No output from ctags
+2024-05-06 15:02:20.247 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:02:26.871 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 15:02:26.871 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:02:26.871 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 15:02:26.873 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 15:02:26.873 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:02:26.873 [info] executing ctags
+2024-05-06 15:02:26.873 [info] building symbols
+2024-05-06 15:02:26.873 [error] No output from ctags
+2024-05-06 15:02:26.873 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:02:26.935 [info] [LintManager] [VerilatorLinter] [verilator] 2 errors/warnings returned
+2024-05-06 15:02:27.169 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 15:02:27.169 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:02:27.169 [info] executing ctags
+2024-05-06 15:02:27.169 [info] building symbols
+2024-05-06 15:02:27.169 [error] No output from ctags
+2024-05-06 15:02:27.169 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:04:29.674 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 15:04:29.674 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:04:29.674 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 15:04:29.677 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 15:04:29.677 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:04:29.677 [info] executing ctags
+2024-05-06 15:04:29.677 [info] building symbols
+2024-05-06 15:04:29.677 [error] No output from ctags
+2024-05-06 15:04:29.677 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:04:29.738 [info] [LintManager] [VerilatorLinter] [verilator] 13 errors/warnings returned
+2024-05-06 15:04:29.978 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 15:04:29.978 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:04:29.978 [info] executing ctags
+2024-05-06 15:04:29.978 [info] building symbols
+2024-05-06 15:04:29.978 [error] No output from ctags
+2024-05-06 15:04:29.978 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:04:47.503 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 15:04:47.503 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:04:47.504 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 15:04:47.505 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 15:04:47.505 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:04:47.505 [info] executing ctags
+2024-05-06 15:04:47.505 [info] building symbols
+2024-05-06 15:04:47.505 [error] No output from ctags
+2024-05-06 15:04:47.505 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:04:47.572 [info] [LintManager] [VerilatorLinter] [verilator] 2 errors/warnings returned
+2024-05-06 15:04:47.800 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 15:04:47.800 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:04:47.800 [info] executing ctags
+2024-05-06 15:04:47.800 [info] building symbols
+2024-05-06 15:04:47.800 [error] No output from ctags
+2024-05-06 15:04:47.800 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:05:01.716 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 15:05:01.716 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:05:01.716 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 15:05:01.718 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 15:05:01.718 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:05:01.718 [info] executing ctags
+2024-05-06 15:05:01.718 [info] building symbols
+2024-05-06 15:05:01.718 [error] No output from ctags
+2024-05-06 15:05:01.718 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:05:01.786 [info] [LintManager] [VerilatorLinter] [verilator] 13 errors/warnings returned
+2024-05-06 15:05:02.012 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 15:05:02.012 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:05:02.012 [info] executing ctags
+2024-05-06 15:05:02.012 [info] building symbols
+2024-05-06 15:05:02.012 [error] No output from ctags
+2024-05-06 15:05:02.012 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:05:51.568 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:05:51.568 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:05:51.568 [info] executing ctags
+2024-05-06 15:05:51.568 [info] building symbols
+2024-05-06 15:05:51.568 [error] No output from ctags
+2024-05-06 15:05:51.585 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:05:53.078 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:05:55.373 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 15:05:55.373 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:05:55.373 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 15:05:55.375 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 15:05:55.375 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:05:55.375 [info] executing ctags
+2024-05-06 15:05:55.375 [info] building symbols
+2024-05-06 15:05:55.375 [error] No output from ctags
+2024-05-06 15:05:55.375 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:05:55.439 [info] [LintManager] [VerilatorLinter] [verilator] 2 errors/warnings returned
+2024-05-06 15:05:55.671 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 15:05:55.671 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:05:55.671 [info] executing ctags
+2024-05-06 15:05:55.671 [info] building symbols
+2024-05-06 15:05:55.671 [error] No output from ctags
+2024-05-06 15:05:55.671 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:07:18.241 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 15:07:18.241 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:07:18.241 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 15:07:18.242 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 15:07:18.242 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:07:18.242 [info] executing ctags
+2024-05-06 15:07:18.242 [info] building symbols
+2024-05-06 15:07:18.242 [error] No output from ctags
+2024-05-06 15:07:18.242 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:07:18.313 [info] [LintManager] [VerilatorLinter] [verilator] 13 errors/warnings returned
+2024-05-06 15:07:18.538 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 15:07:18.538 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:07:18.538 [info] executing ctags
+2024-05-06 15:07:18.538 [info] building symbols
+2024-05-06 15:07:18.538 [error] No output from ctags
+2024-05-06 15:07:18.538 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:07:21.662 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 15:07:21.662 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:07:21.662 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 15:07:21.664 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 15:07:21.664 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:07:21.664 [info] executing ctags
+2024-05-06 15:07:21.664 [info] building symbols
+2024-05-06 15:07:21.664 [error] No output from ctags
+2024-05-06 15:07:21.664 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:07:21.737 [info] [LintManager] [VerilatorLinter] [verilator] 2 errors/warnings returned
+2024-05-06 15:07:21.961 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 15:07:21.961 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:07:21.961 [info] executing ctags
+2024-05-06 15:07:21.961 [info] building symbols
+2024-05-06 15:07:21.961 [error] No output from ctags
+2024-05-06 15:07:21.961 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:10:30.401 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 15:10:30.401 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:10:30.401 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 15:10:30.405 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 15:10:30.405 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:10:30.405 [info] executing ctags
+2024-05-06 15:10:30.406 [info] building symbols
+2024-05-06 15:10:30.406 [error] No output from ctags
+2024-05-06 15:10:30.406 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:10:30.469 [info] [LintManager] [VerilatorLinter] [verilator] 13 errors/warnings returned
+2024-05-06 15:10:30.700 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 15:10:30.700 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:10:30.700 [info] executing ctags
+2024-05-06 15:10:30.700 [info] building symbols
+2024-05-06 15:10:30.700 [error] No output from ctags
+2024-05-06 15:10:30.700 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:11:46.560 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:12:06.957 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:12:06.957 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:12:06.957 [info] executing ctags
+2024-05-06 15:12:06.957 [info] building symbols
+2024-05-06 15:12:06.957 [error] No output from ctags
+2024-05-06 15:12:06.996 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:12:09.170 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:12:09.170 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:12:09.170 [info] executing ctags
+2024-05-06 15:12:09.170 [info] building symbols
+2024-05-06 15:12:09.170 [error] No output from ctags
+2024-05-06 15:12:09.186 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:13:59.648 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:13:59.648 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:13:59.648 [info] executing ctags
+2024-05-06 15:13:59.648 [info] building symbols
+2024-05-06 15:13:59.648 [error] No output from ctags
+2024-05-06 15:13:59.692 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:14:00.792 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:14:00.792 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:14:00.792 [info] executing ctags
+2024-05-06 15:14:00.792 [info] building symbols
+2024-05-06 15:14:00.792 [error] No output from ctags
+2024-05-06 15:14:00.807 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:19:16.771 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v
+2024-05-06 15:19:16.771 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 15:19:16.772 [info] executing ctags
+2024-05-06 15:19:16.772 [info] building symbols
+2024-05-06 15:19:16.772 [error] No output from ctags
+2024-05-06 15:19:16.772 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:19:17.987 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:19:17.987 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 15:19:17.987 [info] executing ctags
+2024-05-06 15:19:17.987 [info] building symbols
+2024-05-06 15:19:17.987 [error] No output from ctags
+2024-05-06 15:19:18.003 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:25:14.754 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:25:14.754 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 15:25:14.754 [info] executing ctags
+2024-05-06 15:25:14.754 [info] building symbols
+2024-05-06 15:25:14.754 [error] No output from ctags
+2024-05-06 15:25:14.769 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:25:20.590 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:25:22.060 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:25:22.060 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 15:25:22.060 [info] executing ctags
+2024-05-06 15:25:22.060 [info] building symbols
+2024-05-06 15:25:22.060 [error] No output from ctags
+2024-05-06 15:25:22.075 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:25:22.368 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:25:22.368 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 15:25:22.368 [info] executing ctags
+2024-05-06 15:25:22.368 [info] building symbols
+2024-05-06 15:25:22.368 [error] No output from ctags
+2024-05-06 15:25:22.384 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:26:14.210 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:26:14.210 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 15:26:14.210 [info] executing ctags
+2024-05-06 15:26:14.210 [info] building symbols
+2024-05-06 15:26:14.210 [error] No output from ctags
+2024-05-06 15:26:14.249 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:27:01.608 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:27:01.608 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 15:27:01.608 [info] executing ctags
+2024-05-06 15:27:01.608 [info] building symbols
+2024-05-06 15:27:01.608 [error] No output from ctags
+2024-05-06 15:27:01.626 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:27:28.428 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:27:28.428 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 15:27:28.428 [info] executing ctags
+2024-05-06 15:27:28.428 [info] building symbols
+2024-05-06 15:27:28.428 [error] No output from ctags
+2024-05-06 15:27:28.467 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:29:05.690 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:29:23.490 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:29:23.490 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 15:29:23.490 [info] executing ctags
+2024-05-06 15:29:23.490 [info] building symbols
+2024-05-06 15:29:23.490 [error] No output from ctags
+2024-05-06 15:29:23.506 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:29:25.524 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:33:09.919 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:33:09.919 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 15:33:09.919 [info] executing ctags
+2024-05-06 15:33:09.919 [info] building symbols
+2024-05-06 15:33:09.919 [error] No output from ctags
+2024-05-06 15:33:09.933 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:33:14.963 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 15:33:14.963 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:33:14.963 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 15:33:14.966 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 15:33:14.966 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:33:14.966 [info] executing ctags
+2024-05-06 15:33:14.966 [info] building symbols
+2024-05-06 15:33:14.966 [error] No output from ctags
+2024-05-06 15:33:14.966 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:33:15.030 [info] [LintManager] [VerilatorLinter] [verilator] 2 errors/warnings returned
+2024-05-06 15:33:15.261 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 15:33:15.261 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:33:15.261 [info] executing ctags
+2024-05-06 15:33:15.261 [info] building symbols
+2024-05-06 15:33:15.261 [error] No output from ctags
+2024-05-06 15:33:15.261 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:33:18.696 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 15:33:18.696 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:33:18.696 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 15:33:18.698 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 15:33:18.698 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:33:18.698 [info] executing ctags
+2024-05-06 15:33:18.698 [info] building symbols
+2024-05-06 15:33:18.698 [error] No output from ctags
+2024-05-06 15:33:18.698 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:33:18.760 [info] [LintManager] [VerilatorLinter] [verilator] 13 errors/warnings returned
+2024-05-06 15:33:18.994 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 15:33:18.994 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:33:18.994 [info] executing ctags
+2024-05-06 15:33:18.994 [info] building symbols
+2024-05-06 15:33:18.994 [error] No output from ctags
+2024-05-06 15:33:18.994 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:33:21.494 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:33:21.494 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:33:21.494 [info] executing ctags
+2024-05-06 15:33:21.494 [info] building symbols
+2024-05-06 15:33:21.494 [error] No output from ctags
+2024-05-06 15:33:21.508 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:33:48.448 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v
+2024-05-06 15:33:48.448 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 15:33:48.448 [info] executing ctags
+2024-05-06 15:33:48.448 [info] building symbols
+2024-05-06 15:33:48.448 [error] No output from ctags
+2024-05-06 15:33:48.448 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:34:23.348 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:34:23.348 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 15:34:23.348 [info] executing ctags
+2024-05-06 15:34:23.348 [info] building symbols
+2024-05-06 15:34:23.348 [error] No output from ctags
+2024-05-06 15:34:23.362 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:34:23.553 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:34:23.553 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 15:34:23.553 [info] executing ctags
+2024-05-06 15:34:23.553 [info] building symbols
+2024-05-06 15:34:23.553 [error] No output from ctags
+2024-05-06 15:34:23.590 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:34:24.451 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:34:24.451 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 15:34:24.451 [info] executing ctags
+2024-05-06 15:34:24.451 [info] building symbols
+2024-05-06 15:34:24.451 [error] No output from ctags
+2024-05-06 15:34:24.466 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:34:36.381 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 15:34:36.382 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:34:36.382 [info] executing ctags
+2024-05-06 15:34:36.382 [info] building symbols
+2024-05-06 15:34:36.382 [error] No output from ctags
+2024-05-06 15:34:36.382 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:34:50.846 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v
+2024-05-06 15:34:50.846 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 15:34:50.846 [info] executing ctags
+2024-05-06 15:34:50.846 [info] building symbols
+2024-05-06 15:34:50.846 [error] No output from ctags
+2024-05-06 15:34:50.846 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:35:04.867 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:37:06.048 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 15:37:06.048 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:37:06.048 [info] executing ctags
+2024-05-06 15:37:06.048 [info] building symbols
+2024-05-06 15:37:06.048 [error] No output from ctags
+2024-05-06 15:37:06.048 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:38:06.106 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:38:11.833 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 15:38:11.833 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:38:11.833 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 15:38:11.835 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 15:38:11.835 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:38:11.835 [info] executing ctags
+2024-05-06 15:38:11.835 [info] building symbols
+2024-05-06 15:38:11.835 [error] No output from ctags
+2024-05-06 15:38:11.835 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:38:11.905 [info] [LintManager] [VerilatorLinter] [verilator] 2 errors/warnings returned
+2024-05-06 15:38:12.133 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v
+2024-05-06 15:38:12.133 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/ps2_keyboard_model.v"
+2024-05-06 15:38:12.133 [info] executing ctags
+2024-05-06 15:38:12.133 [info] building symbols
+2024-05-06 15:38:12.133 [error] No output from ctags
+2024-05-06 15:38:12.133 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:38:23.071 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-06 15:38:23.071 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test"  "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:38:23.071 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test
+2024-05-06 15:38:23.072 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 15:38:23.073 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:38:23.073 [info] executing ctags
+2024-05-06 15:38:23.073 [info] building symbols
+2024-05-06 15:38:23.073 [error] No output from ctags
+2024-05-06 15:38:23.073 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:38:23.135 [info] [LintManager] [VerilatorLinter] [verilator] 13 errors/warnings returned
+2024-05-06 15:38:23.376 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 15:38:23.376 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 15:38:23.376 [info] executing ctags
+2024-05-06 15:38:23.376 [info] building symbols
+2024-05-06 15:38:23.376 [error] No output from ctags
+2024-05-06 15:38:23.376 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:38:24.935 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:38:29.395 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v
+2024-05-06 15:38:29.395 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 15:38:29.395 [info] executing ctags
+2024-05-06 15:38:29.395 [info] building symbols
+2024-05-06 15:38:29.395 [error] No output from ctags
+2024-05-06 15:38:29.395 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:38:30.278 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:38:30.278 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 15:38:30.278 [info] executing ctags
+2024-05-06 15:38:30.278 [info] building symbols
+2024-05-06 15:38:30.278 [error] No output from ctags
+2024-05-06 15:38:30.293 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:39:07.508 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:39:07.508 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 15:39:07.508 [info] executing ctags
+2024-05-06 15:39:07.508 [info] building symbols
+2024-05-06 15:39:07.508 [error] No output from ctags
+2024-05-06 15:39:07.525 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:40:42.710 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:40:42.710 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/ps2_keyboard.v"
+2024-05-06 15:40:42.710 [info] executing ctags
+2024-05-06 15:40:42.710 [info] building symbols
+2024-05-06 15:40:42.710 [error] No output from ctags
+2024-05-06 15:40:42.725 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:40:45.990 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v
+2024-05-06 15:40:45.990 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 15:40:45.990 [info] executing ctags
+2024-05-06 15:40:45.990 [info] building symbols
+2024-05-06 15:40:45.990 [error] No output from ctags
+2024-05-06 15:40:45.990 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 15:40:48.401 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:40:48.401 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 15:40:48.401 [info] executing ctags
+2024-05-06 15:40:48.401 [info] building symbols
+2024-05-06 15:40:48.401 [error] No output from ctags
+2024-05-06 15:40:48.414 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 15:44:19.944 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:44:20.189 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 15:44:20.189 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 15:44:20.189 [info] executing ctags
+2024-05-06 15:44:20.189 [info] building symbols
+2024-05-06 15:44:20.189 [error] No output from ctags
+2024-05-06 15:44:20.204 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 16:10:49.138 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 16:10:49.138 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 16:10:49.138 [info] executing ctags
+2024-05-06 16:10:49.138 [info] building symbols
+2024-05-06 16:10:49.138 [error] No output from ctags
+2024-05-06 16:10:49.153 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 16:10:55.809 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 16:10:55.809 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/vsrc/kbd_ctrl.v"
+2024-05-06 16:10:55.809 [info] executing ctags
+2024-05-06 16:10:55.809 [info] building symbols
+2024-05-06 16:10:55.809 [error] No output from ctags
+2024-05-06 16:10:55.826 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-06 16:10:56.137 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 18:07:09.288 [info] [VerilogHoverProvider] Hover requested
+2024-05-06 18:07:10.349 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v
+2024-05-06 18:07:10.349 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/dlco-test/exp07/test/keyboard_sim.v"
+2024-05-06 18:07:10.349 [info] executing ctags
+2024-05-06 18:07:10.349 [info] building symbols
+2024-05-06 18:07:10.349 [error] No output from ctags
+2024-05-06 18:07:10.349 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-06 18:07:41.610 [info] on save
+2024-05-06 18:22:07.965 [info] Deactivated

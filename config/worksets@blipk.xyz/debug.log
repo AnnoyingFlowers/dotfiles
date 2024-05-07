@@ -1,0 +1,417 @@
+(worksets@blipk.xyz) [5/2/2024, 5:25:12 PM]::Info    | cw-shell-extension.init | @``````````|
+(worksets@blipk.xyz) [5/2/2024, 5:25:12 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/2/2024, 5:25:13 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/2/2024, 5:32:06 PM]::Info    | Notification | Show these notifications when hovering over buttons and options
+(worksets@blipk.xyz) [5/2/2024, 5:32:13 PM]::Info    | Notification | Show these notifications when hovering over buttons and options
+(worksets@blipk.xyz) [5/2/2024, 5:32:15 PM]::Info    | Notification | Show notifications for switching between workspaces
+(worksets@blipk.xyz) [5/2/2024, 5:32:18 PM]::Info    | Notification | Show these notifications when hovering over buttons and options
+(worksets@blipk.xyz) [5/2/2024, 5:34:04 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 5:34:24 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 5:34:34 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 5:35:11 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 5:35:48 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 5:35:59 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 5:37:07 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 5:38:43 PM]::Info    | Notification | Click to launch 'Files'
+(worksets@blipk.xyz) [5/2/2024, 5:38:47 PM]::Info    | Notification | Set background to 'SCALED' style
+(worksets@blipk.xyz) [5/2/2024, 5:39:04 PM]::Info    | Notification | Set background to 'WALLPAPER' style
+(worksets@blipk.xyz) [5/2/2024, 5:39:06 PM]::Info    | Notification | Set background to 'CENTERED' style
+(worksets@blipk.xyz) [5/2/2024, 5:46:36 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 5:47:13 PM]::Info    | Notification | Set 'Primary' as the default
+(worksets@blipk.xyz) [5/2/2024, 5:47:20 PM]::Info    | Notification | Run a CLI command when the workspace is switched. You can use the $CWORKSPACE variable for the customised workspace name
+(worksets@blipk.xyz) [5/2/2024, 5:47:38 PM]::Info    | Notification | Show custom workspace details/actions in the overview
+(worksets@blipk.xyz) [5/2/2024, 5:48:53 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 5:49:18 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 6:07:20 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 6:23:41 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 6:23:53 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 6:25:46 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 6:29:24 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 7:04:20 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 7:09:31 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/2/2024, 7:09:31 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/2/2024, 7:31:32 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/2/2024, 7:31:32 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 7:31:32 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/2/2024, 7:32:15 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 8:16:22 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 8:16:34 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 8:21:01 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 8:39:39 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 9:09:10 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 9:09:11 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 9:48:06 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 10:58:13 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/2/2024, 10:58:13 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/2/2024, 11:09:15 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/2/2024, 11:09:15 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 11:09:15 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/2/2024, 11:54:22 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 11:54:45 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 11:55:47 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/2/2024, 11:59:36 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:11:27 AM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/3/2024, 12:11:27 AM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/3/2024, 12:50:05 AM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/3/2024, 12:50:05 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:50:05 AM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/3/2024, 12:50:54 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:57:59 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 1:13:23 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 1:13:25 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 1:13:26 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 1:13:27 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 1:13:28 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 1:13:30 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 1:13:34 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 1:13:36 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 1:13:37 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 1:19:04 AM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/3/2024, 1:19:04 AM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/3/2024, 8:44:58 AM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/3/2024, 8:44:58 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 8:44:58 AM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/3/2024, 8:50:38 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 8:50:43 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 8:55:53 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 8:56:04 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 8:57:41 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 8:58:46 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 9:01:14 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 9:02:47 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 9:15:09 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 9:15:45 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 9:16:53 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 9:39:49 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 9:40:18 AM]::Info    | cw-shell-extension.init | @``````````|
+(worksets@blipk.xyz) [5/3/2024, 9:40:18 AM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/3/2024, 9:40:18 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 9:40:18 AM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/3/2024, 10:09:56 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:37:10 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:40:50 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:49:44 AM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/3/2024, 10:49:44 AM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/3/2024, 11:04:28 AM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/3/2024, 11:04:28 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 11:04:28 AM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/3/2024, 12:11:33 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:21:57 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:23:34 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:24:24 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:27:15 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:27:27 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:37:49 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:38:45 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:38:47 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:41:41 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:44:11 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:47:52 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:48:20 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:50:02 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:52:17 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:52:37 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:52:49 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 12:56:26 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 1:25:10 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/3/2024, 1:25:11 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/3/2024, 1:39:14 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/3/2024, 1:39:14 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 1:39:14 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/3/2024, 2:09:51 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 2:10:26 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 2:16:51 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 2:17:08 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 2:17:18 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 2:17:46 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 2:48:21 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 3:16:52 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/3/2024, 3:16:52 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/3/2024, 3:19:34 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/3/2024, 3:19:34 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 3:19:34 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/3/2024, 3:53:55 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 3:54:12 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 3:56:10 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 4:00:11 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 4:00:32 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 4:03:55 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 4:23:21 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 4:23:37 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 5:06:27 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 5:10:33 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 5:15:49 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 5:16:07 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 5:19:32 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 5:19:54 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 7:00:57 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 7:04:27 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 7:04:45 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 7:10:42 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/3/2024, 7:10:42 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/3/2024, 7:30:13 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/3/2024, 7:30:13 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 7:30:13 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/3/2024, 7:37:29 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 8:45:07 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 8:45:19 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 9:52:24 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 9:55:01 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 9:55:40 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 9:56:05 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 9:57:15 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:00:33 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:00:55 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:03:12 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:12:18 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:12:35 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:15:32 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:19:10 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:19:40 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:20:54 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:28:01 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:28:27 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:30:22 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:35:19 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:35:47 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:39:23 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:39:41 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:41:51 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 10:42:41 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 11:12:44 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/3/2024, 11:12:44 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/3/2024, 11:22:46 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/3/2024, 11:22:46 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 11:22:46 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/3/2024, 11:23:07 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 11:23:31 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/3/2024, 11:37:14 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 12:21:55 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 12:22:40 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 12:26:47 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 12:27:23 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 12:41:38 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 12:43:54 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 1:28:16 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 1:31:34 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 8:34:39 AM]::Info    | cw-shell-extension.init | @``````````|
+(worksets@blipk.xyz) [5/4/2024, 8:34:39 AM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/4/2024, 8:34:39 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 8:34:39 AM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/4/2024, 9:19:33 AM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/4/2024, 9:19:33 AM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/4/2024, 9:24:58 AM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/4/2024, 9:24:58 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 9:24:58 AM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/4/2024, 11:40:04 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 11:52:26 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 11:54:12 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 12:13:16 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 12:45:44 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/4/2024, 12:45:44 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/4/2024, 12:57:14 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/4/2024, 12:57:14 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 12:57:14 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/4/2024, 1:18:06 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 2:41:28 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 2:57:46 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/4/2024, 2:57:47 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/4/2024, 3:27:01 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/4/2024, 3:27:01 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 3:27:01 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/4/2024, 3:30:48 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 3:48:23 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 3:55:42 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 3:56:40 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 4:08:31 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 4:39:51 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 6:17:03 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/4/2024, 6:17:03 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/4/2024, 6:26:03 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/4/2024, 6:26:03 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 6:26:03 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/4/2024, 6:36:26 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 6:36:53 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 6:46:52 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 9:16:00 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 10:56:46 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/4/2024, 10:56:46 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/4/2024, 11:00:28 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/4/2024, 11:00:28 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/4/2024, 11:00:28 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/5/2024, 12:21:22 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 12:26:36 AM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/5/2024, 12:26:36 AM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/5/2024, 8:58:26 AM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/5/2024, 8:58:26 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 8:58:26 AM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/5/2024, 8:58:38 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 9:05:04 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 9:14:28 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 11:37:49 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 11:43:00 AM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/5/2024, 11:43:00 AM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/5/2024, 12:06:28 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/5/2024, 12:06:28 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 12:06:28 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/5/2024, 12:20:46 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 12:22:52 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 12:51:09 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/5/2024, 12:51:09 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/5/2024, 1:30:35 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/5/2024, 1:30:35 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 1:30:35 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/5/2024, 4:29:45 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 5:07:10 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 6:36:20 PM]::Info    | cw-shell-extension.init | @``````````|
+(worksets@blipk.xyz) [5/5/2024, 6:36:20 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/5/2024, 6:36:20 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 6:36:20 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/5/2024, 8:22:31 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 8:38:41 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 8:41:19 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 8:41:30 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 10:40:37 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 11:21:35 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 11:23:31 PM]::Info    | cw-shell-extension.init | @``````````|
+(worksets@blipk.xyz) [5/5/2024, 11:23:31 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/5/2024, 11:23:31 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/5/2024, 11:23:31 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/6/2024, 7:22:01 AM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/6/2024, 7:22:01 AM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/6/2024, 8:03:37 AM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/6/2024, 8:03:37 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/6/2024, 8:03:37 AM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/6/2024, 8:05:52 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/6/2024, 8:11:06 AM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/6/2024, 8:11:06 AM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/6/2024, 1:40:42 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/6/2024, 1:40:42 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/6/2024, 1:40:42 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/6/2024, 1:41:39 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/6/2024, 1:41:46 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/6/2024, 2:28:34 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/6/2024, 2:28:34 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/6/2024, 2:30:41 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/6/2024, 2:30:41 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/6/2024, 2:30:41 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/6/2024, 4:03:10 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/6/2024, 4:03:10 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/6/2024, 4:03:35 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/6/2024, 4:03:35 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/6/2024, 4:03:35 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/6/2024, 4:08:57 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/6/2024, 4:08:57 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/6/2024, 4:09:55 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/6/2024, 4:09:55 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/6/2024, 4:09:55 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/6/2024, 4:25:36 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/6/2024, 4:25:36 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/6/2024, 5:49:38 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/6/2024, 5:49:38 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/6/2024, 5:49:38 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/6/2024, 5:53:39 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/6/2024, 6:22:27 PM]::Info    | cw-shell-extension.init | @``````````|
+(worksets@blipk.xyz) [5/6/2024, 6:22:27 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/6/2024, 6:22:27 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/6/2024, 6:22:27 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/6/2024, 7:46:20 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/6/2024, 7:48:39 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/6/2024, 7:49:17 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/6/2024, 9:11:11 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/6/2024, 9:11:11 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/6/2024, 9:23:17 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/6/2024, 9:23:17 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/6/2024, 9:23:17 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/6/2024, 9:31:01 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/6/2024, 9:50:59 PM]::Info    | cw-shell-extension.init | @``````````|
+(worksets@blipk.xyz) [5/6/2024, 9:50:59 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/6/2024, 9:50:59 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/6/2024, 9:50:59 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/7/2024, 12:00:12 AM]::Info    | cw-shell-extension.init | @``````````|
+(worksets@blipk.xyz) [5/7/2024, 12:00:12 AM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/7/2024, 12:00:12 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/7/2024, 12:00:12 AM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/7/2024, 7:17:25 AM]::Info    | cw-shell-extension.init | @``````````|
+(worksets@blipk.xyz) [5/7/2024, 7:17:25 AM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/7/2024, 7:17:25 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/7/2024, 7:17:25 AM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/7/2024, 7:20:06 AM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/7/2024, 7:20:06 AM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/7/2024, 7:20:15 AM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/7/2024, 7:20:15 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/7/2024, 7:20:15 AM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/7/2024, 7:20:56 AM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/7/2024, 7:20:56 AM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/7/2024, 7:21:59 AM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/7/2024, 7:21:59 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/7/2024, 7:21:59 AM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/7/2024, 7:27:53 AM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/7/2024, 7:27:53 AM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/7/2024, 7:57:25 AM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/7/2024, 7:57:25 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/7/2024, 7:57:25 AM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/7/2024, 7:59:56 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/7/2024, 8:00:04 AM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/7/2024, 8:05:23 AM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/7/2024, 8:05:23 AM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/7/2024, 1:39:28 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/7/2024, 1:39:28 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/7/2024, 1:39:28 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/7/2024, 1:39:46 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/7/2024, 1:47:23 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/7/2024, 1:47:23 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/7/2024, 1:50:14 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/7/2024, 1:50:14 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/7/2024, 1:50:14 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/7/2024, 2:37:39 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/7/2024, 2:37:39 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/7/2024, 4:30:09 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/7/2024, 4:30:09 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/7/2024, 4:30:09 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/7/2024, 4:33:16 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/7/2024, 5:34:57 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/7/2024, 5:35:01 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/7/2024, 6:14:53 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/7/2024, 6:14:53 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/7/2024, 6:22:40 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/7/2024, 6:22:40 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/7/2024, 6:22:40 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/7/2024, 7:26:24 PM]::Info    | cw-shell-extension.disable | !~~~~~~~~~~|
+(worksets@blipk.xyz) [5/7/2024, 7:26:24 PM]::Info    | cw-shell-extension.disable | !^^^^^^^^^^|
+
+(worksets@blipk.xyz) [5/7/2024, 7:39:28 PM]::Info    | cw-shell-extension.enable | @----------|
+(worksets@blipk.xyz) [5/7/2024, 7:39:28 PM]::Info    | Notification | Switched to active environment Primary
+(worksets@blipk.xyz) [5/7/2024, 7:39:28 PM]::Info    | cw-shell-extension.enable | @~..........|
+(worksets@blipk.xyz) [5/7/2024, 8:24:26 PM]::Info    | Notification | Switched to active environment Primary

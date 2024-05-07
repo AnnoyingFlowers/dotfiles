@@ -1,0 +1,25 @@
+2024-05-05 19:23:49.665 [info] Started local extension host with pid 4830.
+2024-05-05 19:23:50.102 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-05 19:23:50.103 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-05 19:23:50.103 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-05 19:23:50.104 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-05 19:23:50.104 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-05 19:23:50.104 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-05 19:23:50.104 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-05 19:23:50.105 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-05 19:23:50.105 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-05 19:23:50.105 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-05 19:23:50.105 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-05 19:23:50.106 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-05 19:23:50.135 [error] [/home/louis/.vscode/extensions/ms-vscode.hexeditor-1.10.0]: 扩展与 Code 1.88.1 不兼容。扩展需要: ^1.89.0-insider。
+2024-05-05 19:23:50.611 [warning] [twxs.cmake]: 无法注册“cmake.cmakePath”。此属性已注册。
+2024-05-05 19:23:54.012 [info] [perf] Render performance baseline is 162ms
+2024-05-05 20:04:56.155 [info] Settings Sync: Updating due to change in sessions
+2024-05-05 20:22:34.964 [info] Settings Sync: Updating due to change in sessions
+2024-05-05 20:58:59.142 [info] Settings Sync: Updating due to change in sessions
+2024-05-05 21:14:30.244 [info] Settings Sync: Updating due to change in sessions
+2024-05-05 21:48:48.269 [warning] Semantic token with invalid length detected at lineNumber 81, column 1
+2024-05-05 21:52:20.425 [info] Settings Sync: Updating due to change in sessions
+2024-05-05 22:09:58.091 [info] Settings Sync: Updating due to change in sessions
+2024-05-05 22:44:24.250 [info] Settings Sync: Updating due to change in sessions
+2024-05-05 22:50:37.806 [info] Settings Sync: Updating due to change in sessions

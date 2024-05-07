@@ -1,0 +1,15 @@
+fix: 流水灯接入NVBoard
+
+- gtkwave采样间隔延长至0.01sec以降低磁盘占用
+- 上一个版本不能用是因为没reset
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa0
+# Your branch is up to date with 'backup/pa0'.
+#
+# Changes to be committed:
+#	modified:   npc/Makefile
+#	modified:   npc/csrc/main.cpp
+#	modified:   npc/vsrc/top.v
+#

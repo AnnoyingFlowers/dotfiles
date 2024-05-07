@@ -1,0 +1,26 @@
+fix: 完成数电exp07
+
+* 修复数码管错误显示E
+* 修复count计数问题
+* 修复is_press松开按键后不会重置的问题
+* 修复按键松开时数码管低四位不熄灭的问题
+* 修复kbd_ctrl的rst信号不起作用的问题
++ 新增SW0设定为rst信号
++ 新增LD0显示is_press是否按下
++ 新增在终端显示按键码的功能
+? 不知道为什么每次从kbd获取data都会拿到两个完全一样的值
+? 不知道如何在kbd_ctrl上实现有穷状态机
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa0
+# Your branch is up to date with 'backup/pa0'.
+#
+# Changes to be committed:
+#	modified:   dlco-test/exp07/constr/top.nxdc
+#	modified:   dlco-test/exp07/csrc/main.cpp
+#	modified:   dlco-test/exp07/vsrc/hex7seg.v
+#	modified:   dlco-test/exp07/vsrc/kbd_ctrl.v
+#	modified:   dlco-test/exp07/vsrc/ps2_keyboard.v
+#	modified:   dlco-test/exp07/vsrc/top.v
+#

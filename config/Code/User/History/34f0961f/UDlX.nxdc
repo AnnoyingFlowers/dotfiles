@@ -1,0 +1,15 @@
+top=top
+
+# shift_register
+# clk BTNC
+# rst BTNR
+# ctrl (SW15, SW14, SW13)
+# in (SW7, SW6, SW5, SW4, SW3, SW2, SW1, SW0)
+# out (LD7, LD6, LD5, LD4, LD3, LD2, LD1, LD0)
+
+# barrel_shifter8
+# din (SW7, SW6, SW5, SW4, SW3, SW2, SW1, SW0)
+# shamt (SW15, SW14, SW13)
+# LR SW11
+# AL SW10
+# dout (LD7, LD6, LD5, LD4, LD3, LD2, LD1, LD0)

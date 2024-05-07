@@ -1,0 +1,19 @@
+feat: 更新数电exp02
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa0
+# Your branch is up to date with 'backup/pa0'.
+#
+# Changes to be committed:
+#	new file:   dlco-test/exp-template/.gitignore
+#	new file:   dlco-test/exp-template/Makefile
+#	new file:   dlco-test/exp-template/constr/top.nxdc
+#	new file:   dlco-test/exp-template/csrc/main.cpp
+#	new file:   dlco-test/exp02/Makefile
+#	new file:   dlco-test/exp02/constr/top.nxdc
+#	new file:   dlco-test/exp02/csrc/main.cpp
+#	modified:   dlco-test/exp02/vsrc/bcd7seg.v
+#	new file:   dlco-test/exp02/vsrc/pri_encode83.v
+#	new file:   dlco-test/exp02/vsrc/top.v
+#

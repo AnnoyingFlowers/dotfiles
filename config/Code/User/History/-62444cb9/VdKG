@@ -1,0 +1,17 @@
+feat: 转移文件到ysyx-workbench
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa0
+# Your branch is ahead of 'backup/pa0' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   dlco-test/exp02/.gitignore
+#	new file:   dlco-test/test_dc_switch/.gitignore
+#	new file:   dlco-test/test_dc_switch/main.cpp
+#	new file:   dlco-test/test_dc_switch/top.v
+#	new file:   dlco-test/test_our/.gitignore
+#	new file:   dlco-test/test_our/our.v
+#	new file:   dlco-test/test_our/sim_main.cpp
+#

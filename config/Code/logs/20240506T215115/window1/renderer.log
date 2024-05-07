@@ -1,0 +1,37 @@
+2024-05-06 21:51:16.736 [info] Started local extension host with pid 4755.
+2024-05-06 21:51:16.919 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 21:51:16.920 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 21:51:16.920 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 21:51:16.920 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 21:51:16.920 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 21:51:16.920 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 21:51:16.920 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 21:51:16.921 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 21:51:16.921 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 21:51:16.921 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 21:51:16.921 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 21:51:16.921 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 21:51:16.922 [error] [/home/louis/.vscode/extensions/ms-vscode.hexeditor-1.10.0]: 扩展与 Code 1.88.1 不兼容。扩展需要: ^1.89.0-insider。
+2024-05-06 21:51:17.090 [warning] [twxs.cmake]: 无法注册“cmake.cmakePath”。此属性已注册。
+2024-05-06 22:06:49.679 [info] [perf] Render performance baseline is 151ms
+2024-05-06 22:07:17.418 [warning] Semantic token with invalid length detected at lineNumber 179, column 1
+2024-05-06 22:28:57.690 [error] [Extension Host] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:34:15.553 [error] 无法读取文件'/home/louis/gits/ysyx/ysyx-workbench/nemu/src/cpu/difftest/dut.c' (Error: 自以下时间未修改的文件:): Error: 无法读取文件'/home/louis/gits/ysyx/ysyx-workbench/nemu/src/cpu/difftest/dut.c' (Error: 自以下时间未修改的文件:)
+    at n.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19875)
+    at n.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19763)
+    at async l.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2370:42596)
+    at async l.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2370:42353)
+    at async L.Cb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2359:13615)
+    at async L.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2359:12062)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2370:38464
+2024-05-06 22:36:24.453 [error] [Extension Host] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 22:51:16.641 [info] Settings Sync: Updating due to change in sessions
+2024-05-06 22:54:40.367 [info] Settings Sync: Updating due to change in sessions
+2024-05-06 23:39:50.714 [info] Settings Sync: Updating due to change in sessions
+2024-05-06 23:45:36.844 [info] Settings Sync: Updating due to change in sessions

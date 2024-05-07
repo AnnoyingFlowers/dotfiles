@@ -1,0 +1,17 @@
+feat: 完成PA2.1
+
++ RV32I, RV32M已基本支持，除了FENCE和ECALL
++ cpu_test下测试用例已基本跑通，除了hello-str.c和string.c
++ menuconfig新增批处理模式BATCH_MODE，调用nemu的main函数下的batch_mode
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa2
+# Your branch is up to date with 'backup/pa2'.
+#
+# Changes to be committed:
+#	modified:   nemu/Kconfig
+#	modified:   nemu/include/macro.h
+#	modified:   nemu/scripts/native.mk
+#	modified:   nemu/src/isa/riscv32/inst.c
+#

@@ -1,0 +1,12 @@
+top=top
+
+ps2_clk PS2_CLK
+ps2_data PS2_DAT
+
+key_hi_seg 
+key_lo_seg
+ascii_hi_seg
+ascii_lo_seg
+count_hi_seg
+count_lo_seg
+is_press

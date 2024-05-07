@@ -1,0 +1,13 @@
+fix: 修复make run不能跑nemu的问题
+
+? 还有这个vscode的settings，但是好像没什么用
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa1
+# Your branch is up to date with 'origin/pa1'.
+#
+# Changes to be committed:
+#	modified:   .vscode/settings.json
+#	modified:   ysyx-workbench
+#

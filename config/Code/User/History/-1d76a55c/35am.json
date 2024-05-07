@@ -1,0 +1,45 @@
+[
+    {
+        "arguments": [
+            "/usr/lib/ccache/gcc",
+            "-O2",
+            "-Wall",
+            "-Werror",
+            "-I/home/louis/gits/ysyx/ysyx-workbench/nemu/include",
+            "-I/home/louis/gits/ysyx/ysyx-workbench/nemu/src/isa/riscv32/include",
+            "-I/home/louis/gits/ysyx/ysyx-workbench/nemu/src/engine/interpreter",
+            "-O2",
+            "-DITRACE_COND=true",
+            "-D__GUEST_ISA__=riscv32",
+            "-c",
+            "-o",
+            "/home/louis/gits/ysyx/ysyx-workbench/nemu/build/obj-riscv32-nemu-interpreter/src/monitor/monitor.o",
+            "src/monitor/monitor.c"
+        ],
+        "directory": "/home/louis/gits/ysyx/ysyx-workbench/nemu",
+        "file": "/home/louis/gits/ysyx/ysyx-workbench/nemu/src/monitor/monitor.c",
+        "output": "/home/louis/gits/ysyx/ysyx-workbench/nemu/build/obj-riscv32-nemu-interpreter/src/monitor/monitor.o"
+    },
+    {
+        "arguments": [
+            "/usr/bin/gcc",
+            "-O2",
+            "-Wall",
+            "-O2",
+            "-Werror",
+            "-I/home/louis/gits/ysyx/ysyx-workbench/nemu/include",
+            "-I/home/louis/gits/ysyx/ysyx-workbench/nemu/src/isa/riscv32/include",
+            "-I/home/louis/gits/ysyx/ysyx-workbench/nemu/src/engine/interpreter",
+            "-DITRACE_COND=true",
+            "-D__GUEST_ISA__=riscv32",
+            "-c",
+            "-fdiagnostics-color",
+            "-o",
+            "/home/louis/gits/ysyx/ysyx-workbench/nemu/build/obj-riscv32-nemu-interpreter/src/monitor/monitor.o",
+            "src/monitor/monitor.c"
+        ],
+        "directory": "/home/louis/gits/ysyx/ysyx-workbench/nemu",
+        "file": "/home/louis/gits/ysyx/ysyx-workbench/nemu/src/monitor/monitor.c",
+        "output": "/home/louis/gits/ysyx/ysyx-workbench/nemu/build/obj-riscv32-nemu-interpreter/src/monitor/monitor.o"
+    }
+]

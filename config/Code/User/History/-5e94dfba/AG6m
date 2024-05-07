@@ -1,0 +1,4 @@
+CompileFlags:
+  Add:
+    #- "-I/home/louis/gits/verilator/include"
+    #- "-I/home/louis/gits/verilator/include/vltstd"

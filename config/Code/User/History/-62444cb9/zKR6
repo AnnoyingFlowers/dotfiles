@@ -1,0 +1,22 @@
+feat: 更新数电exp03
+
+- 新增test bench
+- 接入NVBoard
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa0
+# Your branch is up to date with 'backup/pa0'.
+#
+# Changes to be committed:
+#	new file:   dlco-test/exp03/.gitignore
+#	new file:   dlco-test/exp03/Makefile
+#	new file:   dlco-test/exp03/constr/top.nxdc
+#	new file:   dlco-test/exp03/csrc/main.cpp
+#	new file:   dlco-test/exp03/test/Makefile
+#	new file:   dlco-test/exp03/test/alu4_tb.v
+#	new file:   dlco-test/exp03/test/main.cpp
+#	new file:   dlco-test/exp03/vsrc/adder.v
+#	new file:   dlco-test/exp03/vsrc/alu4.v
+#	new file:   dlco-test/exp03/vsrc/top.v
+#

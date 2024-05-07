@@ -1,0 +1,13 @@
+tests: 尝试捕捉死循环，但是失败了
+
+? 尝试使用signal.h捕捉用户输入的ctrl+c，但是好像makefile的优先级更高，
+? 比sdb程序优先做出反应。
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa2
+# Your branch is up to date with 'backup/pa2'.
+#
+# Changes to be committed:
+#	modified:   am-kernels
+#

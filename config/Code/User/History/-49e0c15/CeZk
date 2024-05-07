@@ -1,0 +1,12 @@
+# Project directories
+VSRC := ./vsrc
+CSRC := ./csrc
+
+all:
+	@echo "Write this Makefile by your self."
+
+sim:
+	$(call git_commit, "sim RTL") # DO NOT REMOVE THIS LINE!!!
+	bear -- verilator --cc --exe --build --trace -j 0 -Wall $(VSRC)/top.v $(CSRC)/main.v
+
+include ../Makefile

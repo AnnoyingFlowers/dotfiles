@@ -1,0 +1,50 @@
+2024-05-06 18:53:29.553 [info] Started local extension host with pid 6088.
+2024-05-06 18:53:29.792 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 18:53:29.792 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 18:53:29.793 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 18:53:29.793 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 18:53:29.793 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 18:53:29.794 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 18:53:29.794 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 18:53:29.794 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 18:53:29.795 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 18:53:29.795 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 18:53:29.795 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 18:53:29.796 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 18:53:29.797 [error] [/home/louis/.vscode/extensions/ms-vscode.hexeditor-1.10.0]: 扩展与 Code 1.88.1 不兼容。扩展需要: ^1.89.0-insider。
+2024-05-06 18:53:30.063 [warning] [twxs.cmake]: 无法注册“cmake.cmakePath”。此属性已注册。
+2024-05-06 18:53:32.355 [info] [perf] Render performance baseline is 154ms
+2024-05-06 19:25:22.086 [warning] Semantic token with invalid length detected at lineNumber 179, column 1
+2024-05-06 19:28:39.865 [error] [Extension Host] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 19:37:49.894 [info] Settings Sync: Updating due to change in sessions
+2024-05-06 19:52:51.502 [info] Settings Sync: Updating due to change in sessions
+2024-05-06 20:12:01.861 [error] [Extension Host] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 20:18:16.258 [error] [Extension Host] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023548)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-06 20:24:57.033 [error] 出现未知错误。有关详细信息，请参阅日志。
+2024-05-06 20:24:57.034 [error] Pending response rejected since connection got disposed: Error: Pending response rejected since connection got disposed
+	at Object.dispose (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:29:4798)
+	at Object.dispose (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:39:22448)
+	at ac.handleConnectionClosed (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:39:12358)
+	at ac.handleConnectionClosed (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:39:51546)
+	at closeHandler (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:39:12023)
+	at v1.invoke (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:2:15350)
+	at Gn.fire (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:2:16144)
+	at closeHandler (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:3:6970)
+	at v1.invoke (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:2:15350)
+	at Gn.fire (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:2:16144)
+	at Is.fireClose (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:3:533)
+	at Socket.<anonymous> (/home/louis/.vscode/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.28/out/bundle.js:3:1308)
+	at Socket.emit (node:events:517:28)
+	at Pipe.<anonymous> (node:net:350:12)
+2024-05-06 20:24:57.034 [error] 出现未知错误。有关详细信息，请参阅日志。
+2024-05-06 20:25:23.144 [warning] Semantic token with invalid length detected at lineNumber 179, column 1
+2024-05-06 20:30:12.731 [info] Settings Sync: Updating due to change in sessions

@@ -1,0 +1,18 @@
+{
+    "clangd.arguments": [
+        "--compile-commands-dir=${workspaceFolder}/build/"
+    ],
+    "clangd.path": "/usr/bin/clangd",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "explorer.confirmDelete": false,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.lambda": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.namespace": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.type": "sameLine",
+    "C_Cpp.clang_format_fallbackStyle": "{BasedOnStyle: Mozilla, IndentWidth: 4, TabWidth: 4}",
+    "editor.detectIndentation": false
+}

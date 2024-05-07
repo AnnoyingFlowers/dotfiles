@@ -1,0 +1,2 @@
+default:
+	verilator --cc --build --exe alu4_tb.v main.cpp --top-module alu4_tb --timing -j 0 -I../vsrc

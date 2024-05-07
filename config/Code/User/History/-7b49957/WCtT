@@ -1,0 +1,18 @@
+feat: Update ex44
+
+- complete ex44 and bonus 1
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa0
+# Your branch is up to date with 'origin/pa0'.
+#
+# Changes to be committed:
+#	modified:   C-Programming/ex44/liblcthw/src/lcthw/ringbuffer.c
+#	new file:   C-Programming/ex44/liblcthw/src/lcthw/ringbuffer_posix.c
+#	new file:   C-Programming/ex44/liblcthw/src/lcthw/ringbuffer_posix.h
+#	new file:   C-Programming/ex44/liblcthw/tests/ringbuffer_posix_tests
+#	new file:   C-Programming/ex44/liblcthw/tests/ringbuffer_posix_tests.c
+#	modified:   C-Programming/ex44/liblcthw/tests/ringbuffer_tests
+#	modified:   C-Programming/ex44/liblcthw/tests/tests.log
+#

@@ -1,0 +1,18 @@
+fix: 完成表达式求值
+
+* 修复success没有复位的问题
+* 改进匹配括号算法
+* 修复生成表达式遇到除零时错误解决的问题
++ 求值出错时的提示
+- 关闭字符串匹配的log
+? 无法解决生成的表达式在某些除法运算时被意外置为0，比如"(0-1)/2"
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa1
+# Your branch is up to date with 'backup/pa1'.
+#
+# Changes to be committed:
+#	modified:   nemu/src/monitor/sdb/expr.c
+#	modified:   nemu/tools/gen-expr/gen-expr.c
+#

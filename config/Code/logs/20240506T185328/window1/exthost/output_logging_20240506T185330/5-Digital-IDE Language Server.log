@@ -1,0 +1,27 @@
+[Launch - 18:53:31] <vlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 18:53:31] <vlog lsp manager> default build-in linter has been activated
+[Launch - 18:53:31] <vhdl lsp manager> detect linter setting changes, switch from default to default.
+[Info - 18:53:31] <vhdl lsp manager> default build-in linter has been activated
+[Launch - 18:53:31] <svlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 18:53:31] <svlog lsp manager> default build-in linter has been activated
+[Launch - 18:53:31] <vlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 18:53:31] <vlog lsp manager> default build-in linter has been activated
+[Launch - 18:53:31] <vhdl lsp manager> detect linter setting changes, switch from default to default.
+[Info - 18:53:31] <vhdl lsp manager> default build-in linter has been activated
+[Launch - 18:53:31] <svlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 18:53:31] <svlog lsp manager> default build-in linter has been activated
+[Launch - 18:53:31] <vlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 18:53:31] <vlog lsp manager> default build-in linter has been activated
+[Launch - 18:53:31] <vhdl lsp manager> detect linter setting changes, switch from default to default.
+[Info - 18:53:31] <vhdl lsp manager> default build-in linter has been activated
+[Launch - 18:53:31] <svlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 18:53:31] <svlog lsp manager> default build-in linter has been activated
+[Launch - 18:53:31] <vlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 18:53:31] <vlog lsp manager> default build-in linter has been activated
+[Launch - 18:53:31] <vhdl lsp manager> detect linter setting changes, switch from default to default.
+[Info - 18:53:31] <vhdl lsp manager> default build-in linter has been activated
+[Launch - 18:53:31] <svlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 18:53:31] <svlog lsp manager> default build-in linter has been activated
+[Launch - 18:53:31] <vlog lsp manager> finish initialization of vlog linter. Linter name: default
+[Launch - 18:53:31] <vhdl lsp manager> finish initialization of vhdl linter. Linter name: default
+[Launch - 18:53:31] <svlog lsp manager> finish initialization of svlog linter. Linter name: default

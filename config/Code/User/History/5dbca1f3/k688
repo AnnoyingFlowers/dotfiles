@@ -1,0 +1,18 @@
+tests: 实现对string.h和sprintf的测试
+
+* 修复了一些bug
++ sprintf实现%x打印16进制数功能
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa2
+# Your branch is up to date with 'backup/pa2'.
+#
+# Changes to be committed:
+#	new file:   tests/klib-tests/Makefile
+#	new file:   tests/klib-tests/include/klibtest.h
+#	new file:   tests/klib-tests/src/main.c
+#	new file:   tests/klib-tests/src/tests/out.c
+#	new file:   tests/klib-tests/src/tests/read.c
+#	new file:   tests/klib-tests/src/tests/write.c
+#

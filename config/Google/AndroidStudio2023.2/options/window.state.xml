@@ -1,0 +1,30 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="916" y="375" />
+  </component>
+  <component name="WindowManager">
+    <frame x="278" y="52" width="1400" height="936" extendedState="6" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="940" y="205" width="534" height="696" key="#HTTP_Proxy" timestamp="1714580851692">
+      <screen x="0" y="34" width="1920" height="976" />
+    </state>
+    <state x="940" y="205" width="534" height="696" key="#HTTP_Proxy/0.34.1920.976" timestamp="1714580851692" />
+    <state x="446" y="220" width="539" height="685" key="FileChooserDialogImpl" timestamp="1714584253341">
+      <screen x="0" y="34" width="1920" height="976" />
+    </state>
+    <state x="446" y="220" width="539" height="685" key="FileChooserDialogImpl/0.34.1920.976" timestamp="1714584253341" />
+    <state x="995" y="500" width="1000" height="813" key="WELCOME_SCREEN" timestamp="1714585701327">
+      <screen x="0" y="34" width="1920" height="976" />
+    </state>
+    <state x="995" y="500" width="1000" height="813" key="WELCOME_SCREEN/0.34.1920.976" timestamp="1714585701327" />
+    <state x="381" y="113" width="1000" height="813" key="com.android.tools.idea.devicemanagerv2.DeviceManagerWelcomeScreenFrame" timestamp="1714585573950">
+      <screen x="0" y="34" width="1920" height="976" />
+    </state>
+    <state x="381" y="113" width="1000" height="813" key="com.android.tools.idea.devicemanagerv2.DeviceManagerWelcomeScreenFrame/0.34.1920.976" timestamp="1714585573950" />
+    <state x="339" y="407" width="1303" height="194" key="ide.config.custom.settings" timestamp="1714585679659">
+      <screen x="0" y="34" width="1920" height="976" />
+    </state>
+    <state x="339" y="407" width="1303" height="194" key="ide.config.custom.settings/0.34.1920.976" timestamp="1714585679659" />
+  </component>
+</application>

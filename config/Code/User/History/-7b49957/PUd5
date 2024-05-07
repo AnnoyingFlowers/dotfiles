@@ -1,0 +1,16 @@
+feat: Update ex33
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa0
+# Changes to be committed:
+#	modified:   C-Programming/.vscode/launch.json
+#	new file:   C-Programming/ex33/liblcthw/build/liblcthw.a
+#	new file:   C-Programming/ex33/liblcthw/src/lcthw/list.o
+#	modified:   C-Programming/ex33/liblcthw/src/lcthw/list_algos.c
+#	modified:   C-Programming/ex33/liblcthw/src/lcthw/list_algos.h
+#	new file:   C-Programming/ex33/liblcthw/src/lcthw/list_algos.o
+#	new file:   C-Programming/ex33/liblcthw/tests/list_algos_tests
+#	new file:   C-Programming/ex33/liblcthw/tests/list_tests
+#	new file:   C-Programming/ex33/liblcthw/tests/tests.log
+#

@@ -1,0 +1,14 @@
+fix: 修复并完善表达式求值功能
+
+* 修复无法找主要运算符的问题
++ 重构代码，新增识别运算符优先级
++ 实现带负数表达式求值
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa1
+# Your branch is up to date with 'backup/pa1'.
+#
+# Changes to be committed:
+#	modified:   nemu/src/monitor/sdb/expr.c
+#

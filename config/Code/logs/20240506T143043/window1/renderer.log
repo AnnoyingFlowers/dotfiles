@@ -1,0 +1,113 @@
+2024-05-06 14:30:44.411 [info] Started local extension host with pid 61763.
+2024-05-06 14:30:44.763 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 14:30:44.763 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 14:30:44.764 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 14:30:44.764 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 14:30:44.765 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 14:30:44.765 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 14:30:44.766 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 14:30:44.766 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 14:30:44.766 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 14:30:44.766 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 14:30:44.767 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 14:30:44.767 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-06 14:30:44.787 [error] [/home/louis/.vscode/extensions/ms-vscode.hexeditor-1.10.0]: 扩展与 Code 1.88.1 不兼容。扩展需要: ^1.89.0-insider。
+2024-05-06 14:30:45.155 [warning] [twxs.cmake]: 无法注册“cmake.cmakePath”。此属性已注册。
+2024-05-06 14:30:47.336 [info] [perf] Render performance baseline is 147ms
+2024-05-06 14:31:30.057 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 14:31:33.055 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 14:31:36.873 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 14:31:39.103 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 14:31:40.383 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 14:31:42.419 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 14:31:45.473 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 14:31:47.119 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 14:31:51.124 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 14:34:08.931 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 14:34:11.802 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 14:34:34.836 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 14:43:42.855 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 14:46:17.934 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 14:56:20.269 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 15:00:16.021 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 15:00:36.579 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 15:05:53.078 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 15:11:46.560 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 15:16:53.291 [info] Settings Sync: Updating due to change in sessions
+2024-05-06 15:24:25.913 [info] Settings Sync: Updating due to change in sessions
+2024-05-06 15:25:20.591 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 15:29:05.691 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 15:29:25.525 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 15:33:14.953 [error] [Extension Host] (node:61763) Warning: Closing file descriptor 54 on garbage collection
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2024-05-06 15:33:14.954 [error] [Extension Host] (node:61763) [DEP0137] DeprecationWarning: Closing a FileHandle object on garbage collection is deprecated. Please close FileHandle objects explicitly using FileHandle.prototype.close(). In the future, an error will be thrown if a file descriptor is closed during garbage collection.
+2024-05-06 15:35:04.868 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 15:38:06.107 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 15:38:24.936 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 15:44:19.945 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 16:10:56.138 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 16:13:42.704 [info] Settings Sync: Updating due to change in sessions
+2024-05-06 16:14:34.578 [info] Settings Sync: Updating due to change in sessions
+2024-05-06 17:01:41.247 [info] Settings Sync: Updating due to change in sessions
+2024-05-06 17:03:10.362 [info] Settings Sync: Updating due to change in sessions
+2024-05-06 17:43:16.469 [info] Settings Sync: Updating due to change in sessions
+2024-05-06 18:01:23.970 [info] Settings Sync: Updating due to change in sessions
+2024-05-06 18:07:09.301 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-06 18:10:28.025 [error] cannot open file:///home/louis/gits/ysyx/ysyx-workbench/nemu/tools/spike-diff/repo/build/conf65496. Detail: 无法读取文件'/home/louis/gits/ysyx/ysyx-workbench/nemu/tools/spike-diff/repo/build/conf65496' (Error: 无法解析不存在的文件 '/home/louis/gits/ysyx/ysyx-workbench/nemu/tools/spike-diff/repo/build/conf65496'): CodeExpectedError: cannot open file:///home/louis/gits/ysyx/ysyx-workbench/nemu/tools/spike-diff/repo/build/conf65496. Detail: 无法读取文件'/home/louis/gits/ysyx/ysyx-workbench/nemu/tools/spike-diff/repo/build/conf65496' (Error: 无法解析不存在的文件 '/home/louis/gits/ysyx/ysyx-workbench/nemu/tools/spike-diff/repo/build/conf65496')
+    at r.$tryOpenDocument (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2364:62563)

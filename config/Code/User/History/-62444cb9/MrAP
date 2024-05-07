@@ -1,0 +1,21 @@
+fix: 修复iringbuf未满时输出多行空串的问题
+
++ 添加总共写入次数，buf没写入时不输出空串
+* 把difftest的输出函数改成调用已有api
+* 修改了一处原先的理解错误
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa2
+# Your branch is up to date with 'backup/pa2'.
+#
+# Changes to be committed:
+#	modified:   nemu/include/cpu/difftest.h
+#	modified:   nemu/include/utils.h
+#	modified:   nemu/src/cpu/cpu-exec.c
+#	modified:   nemu/src/isa/riscv32/difftest/dut.c
+#	modified:   nemu/src/utils/tracer.c
+#
+# Changes not staged for commit:
+#	modified:   dlco-test/exp07/csrc/main.cpp
+#

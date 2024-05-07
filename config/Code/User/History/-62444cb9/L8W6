@@ -1,0 +1,13 @@
+chore: 添加查看代码量统计
+
++ 查看nemu目录下的所有.c和.h和文件总共有多少行非空行代码
++ 查看在PA1中编写了多少行代码
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa1
+# Your branch is up to date with 'backup/pa1'.
+#
+# Changes to be committed:
+#	modified:   nemu/scripts/config.mk
+#

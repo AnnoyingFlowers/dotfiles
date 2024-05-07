@@ -1,0 +1,3 @@
+Text cmake_minimum_required(VERSIOIN 3.14) #设置CMake最小版本 
+project (cmake_example) #设置工程名 
+add_executable(cmake_example main.cop ui.cpp logic.cpp) #生成可执行文件

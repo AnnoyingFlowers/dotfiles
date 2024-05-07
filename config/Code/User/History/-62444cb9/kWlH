@@ -1,0 +1,15 @@
+feat: 支持部分rv32指令
+
++ 支持lui, jal, jalr, sw, addi
++ 支持识别RISBUJ六种指令格式
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa2
+# Your branch is ahead of 'backup/pa2' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   nemu/include/cpu/ifetch.h
+#	modified:   nemu/src/isa/riscv32/inst.c
+#

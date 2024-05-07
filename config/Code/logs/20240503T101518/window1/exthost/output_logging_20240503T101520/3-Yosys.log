@@ -1,0 +1,179 @@
+[Debug - 11:29:35] feed file: /home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/top.v
+[Info - 11:29:35] type: message, -- Running command `read_verilog -sv -formal -overwrite /host//home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/top.v' --
+[Info - 11:29:35] type: message, 1. Executing Verilog-2005 frontend: /host//home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/top.v
+[Info - 11:29:35] type: message, Parsing formal SystemVerilog input from `/host//home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/top.v' to AST representation.
+[Info - 11:29:35] type: message, Generating RTLIL representation for module `\top'.
+[Info - 11:29:35] type: message, Successfully finished Verilog frontend.
+[Info - 11:29:36] type: message, -- Running command `proc' --
+[Info - 11:29:36] type: message, 2. Executing PROC pass (convert processes to netlists).
+[Info - 11:29:36] type: message, 2.1. Executing PROC_CLEAN pass (remove empty switches from decision trees).
+[Info - 11:29:36] type: message, Cleaned up 0 empty switches.
+[Info - 11:29:36] type: message, 2.2. Executing PROC_RMDEAD pass (remove dead branches from decision trees).
+[Info - 11:29:36] type: message, Removed a total of 0 dead cases.
+[Info - 11:29:36] type: message, 2.3. Executing PROC_PRUNE pass (remove redundant assignments in processes).
+[Info - 11:29:36] type: message, Removed 0 redundant assignments.
+[Info - 11:29:36] type: message, Promoted 0 assignments to connections.
+[Info - 11:29:36] type: message, 2.4. Executing PROC_INIT pass (extract init attributes).
+[Info - 11:29:36] type: message, 2.5. Executing PROC_ARST pass (detect async resets in processes).
+[Info - 11:29:36] type: message, 2.6. Executing PROC_ROM pass (convert switches to ROMs).
+[Info - 11:29:36] type: message, Converted 0 switches.
+[Info - 11:29:36] type: message, 2.7. Executing PROC_MUX pass (convert decision trees to multiplexers).
+[Info - 11:29:36] type: message, 2.8. Executing PROC_DLATCH pass (convert process syncs to latches).
+[Info - 11:29:36] type: message, 2.9. Executing PROC_DFF pass (convert process syncs to FFs).
+[Info - 11:29:36] type: message, 2.10. Executing PROC_MEMWR pass (convert process memory writes to cells).
+[Info - 11:29:36] type: message, 2.11. Executing PROC_CLEAN pass (remove empty switches from decision trees).
+[Info - 11:29:36] type: message, Cleaned up 0 empty switches.
+[Info - 11:29:36] type: message, 2.12. Executing OPT_EXPR pass (perform const folding).
+[Info - 11:29:36] type: message, Optimizing module top.
+[Info - 11:29:36] type: message, -- Running command `write_json  /output' --
+[Info - 11:29:36] type: message, 3. Executing JSON backend.
+[Debug - 16:12:07] feed file: /home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/top.v
+[Info - 16:12:07] type: message, -- Running command `read_verilog -sv -formal -overwrite /host//home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/top.v' --
+[Info - 16:12:07] type: message, 1. Executing Verilog-2005 frontend: /host//home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/top.v
+[Info - 16:12:07] type: message, Parsing formal SystemVerilog input from `/host//home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/top.v' to AST representation.
+[Info - 16:12:07] type: message, Generating RTLIL representation for module `\top'.
+[Info - 16:12:07] type: message, Successfully finished Verilog frontend.
+[Info - 16:12:08] type: message, -- Running command `proc' --
+[Info - 16:12:08] type: message, 2. Executing PROC pass (convert processes to netlists).
+[Info - 16:12:08] type: message, 2.1. Executing PROC_CLEAN pass (remove empty switches from decision trees).
+[Info - 16:12:08] type: message, Cleaned up 0 empty switches.
+[Info - 16:12:08] type: message, 2.2. Executing PROC_RMDEAD pass (remove dead branches from decision trees).
+[Info - 16:12:08] type: message, Removed a total of 0 dead cases.
+[Info - 16:12:08] type: message, 2.3. Executing PROC_PRUNE pass (remove redundant assignments in processes).
+[Info - 16:12:08] type: message, Removed 0 redundant assignments.
+[Info - 16:12:08] type: message, Promoted 0 assignments to connections.
+[Info - 16:12:08] type: message, 2.4. Executing PROC_INIT pass (extract init attributes).
+[Info - 16:12:08] type: message, 2.5. Executing PROC_ARST pass (detect async resets in processes).
+[Info - 16:12:08] type: message, 2.6. Executing PROC_ROM pass (convert switches to ROMs).
+[Info - 16:12:08] type: message, Converted 0 switches.
+[Info - 16:12:08] type: message, 2.7. Executing PROC_MUX pass (convert decision trees to multiplexers).
+[Info - 16:12:08] type: message, 2.8. Executing PROC_DLATCH pass (convert process syncs to latches).
+[Info - 16:12:08] type: message, 2.9. Executing PROC_DFF pass (convert process syncs to FFs).
+[Info - 16:12:08] type: message, 2.10. Executing PROC_MEMWR pass (convert process memory writes to cells).
+[Info - 16:12:08] type: message, 2.11. Executing PROC_CLEAN pass (remove empty switches from decision trees).
+[Info - 16:12:08] type: message, Cleaned up 0 empty switches.
+[Info - 16:12:08] type: message, 2.12. Executing OPT_EXPR pass (perform const folding).
+[Info - 16:12:08] type: message, Optimizing module top.
+[Info - 16:12:08] type: message, -- Running command `write_json  /output' --
+[Info - 16:12:08] type: message, 3. Executing JSON backend.
+[Info - 16:12:28] type: message, -- Running command `proc' --
+[Info - 16:12:28] type: message, 4. Executing PROC pass (convert processes to netlists).
+[Info - 16:12:28] type: message, 4.1. Executing PROC_CLEAN pass (remove empty switches from decision trees).
+[Info - 16:12:28] type: message, Cleaned up 0 empty switches.
+[Info - 16:12:28] type: message, 4.2. Executing PROC_RMDEAD pass (remove dead branches from decision trees).
+[Info - 16:12:28] type: message, Removed a total of 0 dead cases.
+[Info - 16:12:28] type: message, 4.3. Executing PROC_PRUNE pass (remove redundant assignments in processes).
+[Info - 16:12:28] type: message, Removed 0 redundant assignments.
+[Info - 16:12:28] type: message, Promoted 0 assignments to connections.
+[Info - 16:12:28] type: message, 4.4. Executing PROC_INIT pass (extract init attributes).
+[Info - 16:12:28] type: message, 4.5. Executing PROC_ARST pass (detect async resets in processes).
+[Info - 16:12:28] type: message, 4.6. Executing PROC_ROM pass (convert switches to ROMs).
+[Info - 16:12:28] type: message, Converted 0 switches.
+[Info - 16:12:28] type: message, 4.7. Executing PROC_MUX pass (convert decision trees to multiplexers).
+[Info - 16:12:28] type: message, 4.8. Executing PROC_DLATCH pass (convert process syncs to latches).
+[Info - 16:12:28] type: message, 4.9. Executing PROC_DFF pass (convert process syncs to FFs).
+[Info - 16:12:28] type: message, 4.10. Executing PROC_MEMWR pass (convert process memory writes to cells).
+[Info - 16:12:28] type: message, 4.11. Executing PROC_CLEAN pass (remove empty switches from decision trees).
+[Info - 16:12:28] type: message, Cleaned up 0 empty switches.
+[Info - 16:12:28] type: message, 4.12. Executing OPT_EXPR pass (perform const folding).
+[Info - 16:12:28] type: message, Optimizing module top.
+[Info - 16:12:28] type: message, -- Running command `write_json  /output' --
+[Info - 16:12:28] type: message, 5. Executing JSON backend.
+[Info - 16:12:30] type: message, -- Running command `proc' --
+[Info - 16:12:30] type: message, 6. Executing PROC pass (convert processes to netlists).
+[Info - 16:12:30] type: message, 6.1. Executing PROC_CLEAN pass (remove empty switches from decision trees).
+[Info - 16:12:30] type: message, Cleaned up 0 empty switches.
+[Info - 16:12:30] type: message, 6.2. Executing PROC_RMDEAD pass (remove dead branches from decision trees).
+[Info - 16:12:30] type: message, Removed a total of 0 dead cases.
+[Info - 16:12:30] type: message, 6.3. Executing PROC_PRUNE pass (remove redundant assignments in processes).
+[Info - 16:12:30] type: message, Removed 0 redundant assignments.
+[Info - 16:12:30] type: message, Promoted 0 assignments to connections.
+[Info - 16:12:30] type: message, 6.4. Executing PROC_INIT pass (extract init attributes).
+[Info - 16:12:30] type: message, 6.5. Executing PROC_ARST pass (detect async resets in processes).
+[Info - 16:12:30] type: message, 6.6. Executing PROC_ROM pass (convert switches to ROMs).
+[Info - 16:12:30] type: message, Converted 0 switches.
+[Info - 16:12:30] type: message, 6.7. Executing PROC_MUX pass (convert decision trees to multiplexers).
+[Info - 16:12:30] type: message, 6.8. Executing PROC_DLATCH pass (convert process syncs to latches).
+[Info - 16:12:30] type: message, 6.9. Executing PROC_DFF pass (convert process syncs to FFs).
+[Info - 16:12:30] type: message, 6.10. Executing PROC_MEMWR pass (convert process memory writes to cells).
+[Info - 16:12:30] type: message, 6.11. Executing PROC_CLEAN pass (remove empty switches from decision trees).
+[Info - 16:12:30] type: message, Cleaned up 0 empty switches.
+[Info - 16:12:30] type: message, 6.12. Executing OPT_EXPR pass (perform const folding).
+[Info - 16:12:30] type: message, Optimizing module top.
+[Info - 16:12:30] type: message, -- Running command `write_json  /output' --
+[Info - 16:12:30] type: message, 7. Executing JSON backend.
+[Info - 16:12:30] type: message, -- Running command `proc' --
+[Info - 16:12:30] type: message, 8. Executing PROC pass (convert processes to netlists).
+[Info - 16:12:30] type: message, 8.1. Executing PROC_CLEAN pass (remove empty switches from decision trees).
+[Info - 16:12:30] type: message, Cleaned up 0 empty switches.
+[Info - 16:12:30] type: message, 8.2. Executing PROC_RMDEAD pass (remove dead branches from decision trees).
+[Info - 16:12:30] type: message, Removed a total of 0 dead cases.
+[Info - 16:12:30] type: message, 8.3. Executing PROC_PRUNE pass (remove redundant assignments in processes).
+[Info - 16:12:30] type: message, Removed 0 redundant assignments.
+[Info - 16:12:30] type: message, Promoted 0 assignments to connections.
+[Info - 16:12:30] type: message, 8.4. Executing PROC_INIT pass (extract init attributes).
+[Info - 16:12:30] type: message, 8.5. Executing PROC_ARST pass (detect async resets in processes).
+[Info - 16:12:30] type: message, 8.6. Executing PROC_ROM pass (convert switches to ROMs).
+[Info - 16:12:30] type: message, Converted 0 switches.
+[Info - 16:12:30] type: message, 8.7. Executing PROC_MUX pass (convert decision trees to multiplexers).
+[Info - 16:12:30] type: message, 8.8. Executing PROC_DLATCH pass (convert process syncs to latches).
+[Info - 16:12:30] type: message, 8.9. Executing PROC_DFF pass (convert process syncs to FFs).
+[Info - 16:12:30] type: message, 8.10. Executing PROC_MEMWR pass (convert process memory writes to cells).
+[Info - 16:12:30] type: message, 8.11. Executing PROC_CLEAN pass (remove empty switches from decision trees).
+[Info - 16:12:30] type: message, Cleaned up 0 empty switches.
+[Info - 16:12:30] type: message, 8.12. Executing OPT_EXPR pass (perform const folding).
+[Info - 16:12:30] type: message, Optimizing module top.
+[Info - 16:12:30] type: message, -- Running command `write_json  /output' --
+[Info - 16:12:30] type: message, 9. Executing JSON backend.
+[Info - 16:12:30] type: message, -- Running command `proc' --
+[Info - 16:12:30] type: message, 10. Executing PROC pass (convert processes to netlists).
+[Info - 16:12:30] type: message, 10.1. Executing PROC_CLEAN pass (remove empty switches from decision trees).
+[Info - 16:12:30] type: message, Cleaned up 0 empty switches.
+[Info - 16:12:30] type: message, 10.2. Executing PROC_RMDEAD pass (remove dead branches from decision trees).
+[Info - 16:12:30] type: message, Removed a total of 0 dead cases.
+[Info - 16:12:30] type: message, 10.3. Executing PROC_PRUNE pass (remove redundant assignments in processes).
+[Info - 16:12:30] type: message, Removed 0 redundant assignments.
+[Info - 16:12:30] type: message, Promoted 0 assignments to connections.
+[Info - 16:12:30] type: message, 10.4. Executing PROC_INIT pass (extract init attributes).
+[Info - 16:12:30] type: message, 10.5. Executing PROC_ARST pass (detect async resets in processes).
+[Info - 16:12:30] type: message, 10.6. Executing PROC_ROM pass (convert switches to ROMs).
+[Info - 16:12:30] type: message, Converted 0 switches.
+[Info - 16:12:30] type: message, 10.7. Executing PROC_MUX pass (convert decision trees to multiplexers).
+[Info - 16:12:30] type: message, 10.8. Executing PROC_DLATCH pass (convert process syncs to latches).
+[Info - 16:12:30] type: message, 10.9. Executing PROC_DFF pass (convert process syncs to FFs).
+[Info - 16:12:30] type: message, 10.10. Executing PROC_MEMWR pass (convert process memory writes to cells).
+[Info - 16:12:30] type: message, 10.11. Executing PROC_CLEAN pass (remove empty switches from decision trees).
+[Info - 16:12:30] type: message, Cleaned up 0 empty switches.
+[Info - 16:12:30] type: message, 10.12. Executing OPT_EXPR pass (perform const folding).
+[Info - 16:12:30] type: message, Optimizing module top.
+[Info - 16:12:30] type: message, -- Running command `write_json  /output' --
+[Info - 16:12:30] type: message, 11. Executing JSON backend.
+[Debug - 17:12:31] feed file: /home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/top.v
+[Info - 17:12:31] type: message, -- Running command `read_verilog -sv -formal -overwrite /host//home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/top.v' --
+[Info - 17:12:31] type: message, 1. Executing Verilog-2005 frontend: /host//home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/top.v
+[Info - 17:12:31] type: message, Parsing formal SystemVerilog input from `/host//home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/top.v' to AST representation.
+[Info - 17:12:31] type: message, Generating RTLIL representation for module `\top'.
+[Info - 17:12:31] type: message, Successfully finished Verilog frontend.
+[Info - 17:12:31] type: message, -- Running command `proc' --
+[Info - 17:12:31] type: message, 2. Executing PROC pass (convert processes to netlists).
+[Info - 17:12:31] type: message, 2.1. Executing PROC_CLEAN pass (remove empty switches from decision trees).
+[Info - 17:12:31] type: message, Cleaned up 0 empty switches.
+[Info - 17:12:31] type: message, 2.2. Executing PROC_RMDEAD pass (remove dead branches from decision trees).
+[Info - 17:12:31] type: message, Removed a total of 0 dead cases.
+[Info - 17:12:31] type: message, 2.3. Executing PROC_PRUNE pass (remove redundant assignments in processes).
+[Info - 17:12:31] type: message, Removed 0 redundant assignments.
+[Info - 17:12:31] type: message, Promoted 0 assignments to connections.
+[Info - 17:12:31] type: message, 2.4. Executing PROC_INIT pass (extract init attributes).
+[Info - 17:12:31] type: message, 2.5. Executing PROC_ARST pass (detect async resets in processes).
+[Info - 17:12:31] type: message, 2.6. Executing PROC_ROM pass (convert switches to ROMs).
+[Info - 17:12:31] type: message, Converted 0 switches.
+[Info - 17:12:31] type: message, 2.7. Executing PROC_MUX pass (convert decision trees to multiplexers).
+[Info - 17:12:31] type: message, 2.8. Executing PROC_DLATCH pass (convert process syncs to latches).
+[Info - 17:12:31] type: message, 2.9. Executing PROC_DFF pass (convert process syncs to FFs).
+[Info - 17:12:31] type: message, 2.10. Executing PROC_MEMWR pass (convert process memory writes to cells).
+[Info - 17:12:31] type: message, 2.11. Executing PROC_CLEAN pass (remove empty switches from decision trees).
+[Info - 17:12:31] type: message, Cleaned up 0 empty switches.
+[Info - 17:12:31] type: message, 2.12. Executing OPT_EXPR pass (perform const folding).
+[Info - 17:12:31] type: message, Optimizing module top.
+[Info - 17:12:31] type: message, -- Running command `write_json  /output' --
+[Info - 17:12:31] type: message, 3. Executing JSON backend.

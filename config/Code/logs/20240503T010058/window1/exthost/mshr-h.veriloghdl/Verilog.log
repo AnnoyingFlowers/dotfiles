@@ -1,0 +1,177 @@
+2024-05-03 01:01:01.490 [info] mshr-h.veriloghdl is now active.
+2024-05-03 01:01:01.490 [info] [ExtensionManager] previousVersion: "1.14.1", currentVersion: "1.14.1"
+2024-05-03 01:01:01.490 [info] ctags manager configure
+2024-05-03 01:01:01.490 [info] [LintManager] Using linter: verilator
+2024-05-03 01:01:01.490 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-03 01:01:01.490 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc"  "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/top.v"
+2024-05-03 01:01:01.490 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/npc/vsrc
+2024-05-03 01:01:01.490 [info] mshr-h.veriloghdl activation finished.
+2024-05-03 01:01:01.490 [info] [LintManager] [VerilatorLinter] [verilator] 0 errors/warnings returned
+2024-05-03 01:01:01.491 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/top.v
+2024-05-03 01:01:01.491 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/top.v"
+2024-05-03 01:01:01.491 [info] executing ctags
+2024-05-03 01:01:01.491 [info] building symbols
+2024-05-03 01:01:01.491 [error] No output from ctags
+2024-05-03 01:01:01.491 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 01:01:01.712 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/top.v
+2024-05-03 01:01:01.712 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/top.v"
+2024-05-03 01:01:01.712 [info] executing ctags
+2024-05-03 01:01:01.712 [info] building symbols
+2024-05-03 01:01:01.712 [error] No output from ctags
+2024-05-03 01:01:01.712 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 01:01:02.934 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/top.v
+2024-05-03 01:01:02.934 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/top.v"
+2024-05-03 01:01:02.934 [info] executing ctags
+2024-05-03 01:01:02.934 [info] building symbols
+2024-05-03 01:01:02.934 [error] No output from ctags
+2024-05-03 01:01:02.934 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 01:01:06.425 [info] cache file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/reg
+2024-05-03 01:01:20.302 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-03 01:01:20.302 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc"  "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/reg.v"
+2024-05-03 01:01:20.302 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/npc/vsrc
+2024-05-03 01:01:20.316 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/reg.v
+2024-05-03 01:01:20.316 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/reg.v"
+2024-05-03 01:01:20.316 [info] executing ctags
+2024-05-03 01:01:20.316 [info] building symbols
+2024-05-03 01:01:20.316 [error] No output from ctags
+2024-05-03 01:01:20.316 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 01:01:20.369 [info] [LintManager] [VerilatorLinter] [verilator] 0 errors/warnings returned
+2024-05-03 01:01:20.604 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/reg.v
+2024-05-03 01:01:20.604 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/reg.v"
+2024-05-03 01:01:20.604 [info] executing ctags
+2024-05-03 01:01:20.604 [info] building symbols
+2024-05-03 01:01:20.604 [error] No output from ctags
+2024-05-03 01:01:20.604 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 01:01:28.205 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/reg.v
+2024-05-03 01:01:28.205 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/reg.v"
+2024-05-03 01:01:28.205 [info] executing ctags
+2024-05-03 01:01:28.205 [info] building symbols
+2024-05-03 01:01:28.206 [error] No output from ctags
+2024-05-03 01:01:28.206 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 01:01:28.366 [info] on save
+2024-05-03 01:01:28.366 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-03 01:01:28.366 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc"  "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/reg.v"
+2024-05-03 01:01:28.366 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/npc/vsrc
+2024-05-03 01:01:28.427 [info] [LintManager] [VerilatorLinter] [verilator] 0 errors/warnings returned
+2024-05-03 01:01:28.672 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/reg.v
+2024-05-03 01:01:28.672 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/reg.v"
+2024-05-03 01:01:28.672 [info] executing ctags
+2024-05-03 01:01:28.672 [info] building symbols
+2024-05-03 01:01:28.672 [error] No output from ctags
+2024-05-03 01:01:28.672 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 01:01:28.843 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/reg.v
+2024-05-03 01:01:28.843 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/reg.v"
+2024-05-03 01:01:28.843 [info] executing ctags
+2024-05-03 01:01:28.843 [info] building symbols
+2024-05-03 01:01:28.843 [error] No output from ctags
+2024-05-03 01:01:28.843 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 01:01:29.452 [info] [VerilogHoverProvider] Hover requested
+2024-05-03 01:01:30.127 [info] on save
+2024-05-03 01:01:30.127 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-03 01:01:30.127 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc"  "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/reg.v"
+2024-05-03 01:01:30.127 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/npc/vsrc
+2024-05-03 01:01:30.189 [info] [LintManager] [VerilatorLinter] [verilator] 0 errors/warnings returned
+2024-05-03 01:02:18.495 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-03 01:02:18.495 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc"  "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/muxkey.v"
+2024-05-03 01:02:18.495 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/npc/vsrc
+2024-05-03 01:02:18.497 [info] cache file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/muxkey.v
+2024-05-03 01:02:18.518 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/muxkey.v
+2024-05-03 01:02:18.518 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/muxkey.v"
+2024-05-03 01:02:18.518 [info] executing ctags
+2024-05-03 01:02:18.518 [info] building symbols
+2024-05-03 01:02:18.518 [error] No output from ctags
+2024-05-03 01:02:18.518 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 01:02:18.562 [info] [LintManager] [VerilatorLinter] [verilator] 0 errors/warnings returned
+2024-05-03 01:02:18.800 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/muxkey.v
+2024-05-03 01:02:18.800 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/muxkey.v"
+2024-05-03 01:02:18.800 [info] executing ctags
+2024-05-03 01:02:18.800 [info] building symbols
+2024-05-03 01:02:18.801 [error] No output from ctags
+2024-05-03 01:02:18.801 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 01:02:19.324 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/muxkey.v
+2024-05-03 01:02:19.324 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/muxkey.v"
+2024-05-03 01:02:19.324 [info] executing ctags
+2024-05-03 01:02:19.324 [info] building symbols
+2024-05-03 01:02:19.324 [error] No output from ctags
+2024-05-03 01:02:19.324 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 01:02:19.499 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/muxkey.v
+2024-05-03 01:02:19.499 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/muxkey.v"
+2024-05-03 01:02:19.499 [info] executing ctags
+2024-05-03 01:02:19.499 [info] building symbols
+2024-05-03 01:02:19.499 [error] No output from ctags
+2024-05-03 01:02:19.499 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 01:02:19.690 [info] on save
+2024-05-03 01:02:19.690 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-03 01:02:19.690 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc"  "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/muxkey.v"
+2024-05-03 01:02:19.690 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/npc/vsrc
+2024-05-03 01:02:19.757 [info] [LintManager] [VerilatorLinter] [verilator] 1 errors/warnings returned
+2024-05-03 01:02:19.994 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/muxkey.v
+2024-05-03 01:02:19.994 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/muxkey.v"
+2024-05-03 01:02:19.994 [info] executing ctags
+2024-05-03 01:02:19.994 [info] building symbols
+2024-05-03 01:02:19.994 [error] No output from ctags
+2024-05-03 01:02:19.994 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 01:02:20.156 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/muxkey.v
+2024-05-03 01:02:20.156 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/muxkey.v"
+2024-05-03 01:02:20.156 [info] executing ctags
+2024-05-03 01:02:20.156 [info] building symbols
+2024-05-03 01:02:20.156 [error] No output from ctags
+2024-05-03 01:02:20.156 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 01:02:22.577 [info] [VerilogHoverProvider] Hover requested
+2024-05-03 01:02:22.577 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/muxkey.v"
+2024-05-03 01:02:22.577 [info] executing ctags
+2024-05-03 01:02:22.577 [info] building symbols
+2024-05-03 01:02:22.577 [error] No output from ctags
+2024-05-03 01:02:22.596 [warning] [VerilogHoverProvider] Hover object not found
+2024-05-03 01:02:27.843 [info] on save
+2024-05-03 01:02:27.843 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-03 01:02:27.843 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc"  "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/muxkey.v"
+2024-05-03 01:02:27.843 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/npc/vsrc
+2024-05-03 01:02:27.910 [info] [LintManager] [VerilatorLinter] [verilator] 1 errors/warnings returned
+2024-05-03 01:09:51.978 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-03 01:09:51.978 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc"  "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/RegisterFile.v"
+2024-05-03 01:09:51.978 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/npc/vsrc
+2024-05-03 01:09:51.993 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/RegisterFile.v
+2024-05-03 01:09:51.993 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/RegisterFile.v"
+2024-05-03 01:09:51.993 [info] executing ctags
+2024-05-03 01:09:51.993 [info] building symbols
+2024-05-03 01:09:51.993 [error] No output from ctags
+2024-05-03 01:09:51.993 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 01:09:51.994 [info] cache file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/RegisterFile.v
+2024-05-03 01:09:52.045 [info] [LintManager] [VerilatorLinter] [verilator] 0 errors/warnings returned
+2024-05-03 01:09:52.279 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/RegisterFile.v
+2024-05-03 01:09:52.279 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/RegisterFile.v"
+2024-05-03 01:09:52.279 [info] executing ctags
+2024-05-03 01:09:52.279 [info] building symbols
+2024-05-03 01:09:52.279 [error] No output from ctags
+2024-05-03 01:09:52.279 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 01:09:52.693 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/RegisterFile.v
+2024-05-03 01:09:52.693 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/RegisterFile.v"
+2024-05-03 01:09:52.693 [info] executing ctags
+2024-05-03 01:09:52.693 [info] building symbols
+2024-05-03 01:09:52.693 [error] No output from ctags
+2024-05-03 01:09:52.693 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 01:09:52.868 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/RegisterFile.v
+2024-05-03 01:09:52.868 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/RegisterFile.v"
+2024-05-03 01:09:52.868 [info] executing ctags
+2024-05-03 01:09:52.868 [info] building symbols
+2024-05-03 01:09:52.868 [error] No output from ctags
+2024-05-03 01:09:52.868 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 01:09:53.219 [info] on save
+2024-05-03 01:09:53.219 [info] [LintManager] [VerilatorLinter] [verilator] Execute
+2024-05-03 01:09:53.219 [info] [LintManager] [VerilatorLinter] [verilator]   command: verilator --lint-only -I"/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc"  "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/RegisterFile.v"
+2024-05-03 01:09:53.219 [info] [LintManager] [VerilatorLinter] [verilator]   cwd    : /home/louis/gits/ysyx/ysyx-workbench/npc/vsrc
+2024-05-03 01:09:53.286 [info] [LintManager] [VerilatorLinter] [verilator] 0 errors/warnings returned
+2024-05-03 01:09:53.525 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/RegisterFile.v
+2024-05-03 01:09:53.525 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/RegisterFile.v"
+2024-05-03 01:09:53.525 [info] executing ctags
+2024-05-03 01:09:53.525 [info] building symbols
+2024-05-03 01:09:53.525 [error] No output from ctags
+2024-05-03 01:09:53.525 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 01:09:53.693 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/RegisterFile.v
+2024-05-03 01:09:53.693 [info] indexing "/home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/RegisterFile.v"
+2024-05-03 01:09:53.693 [info] executing ctags
+2024-05-03 01:09:53.693 [info] building symbols
+2024-05-03 01:09:53.693 [error] No output from ctags
+2024-05-03 01:09:53.693 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2024-05-03 09:39:53.546 [info] Deactivated

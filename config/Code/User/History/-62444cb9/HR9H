@@ -1,0 +1,25 @@
+fix: 忽略build过程文件
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa0
+# Your branch is up to date with 'backup/pa0'.
+#
+# Changes to be committed:
+#	deleted:    dlco-test/exp02/obj_dir/Vpri_encode42.cpp
+#	deleted:    dlco-test/exp02/obj_dir/Vpri_encode42.h
+#	deleted:    dlco-test/exp02/obj_dir/Vpri_encode42.mk
+#	deleted:    dlco-test/exp02/obj_dir/Vpri_encode42__ALL.cpp
+#	deleted:    dlco-test/exp02/obj_dir/Vpri_encode42__ConstPool_0.cpp
+#	deleted:    dlco-test/exp02/obj_dir/Vpri_encode42__Syms.cpp
+#	deleted:    dlco-test/exp02/obj_dir/Vpri_encode42__Syms.h
+#	deleted:    dlco-test/exp02/obj_dir/Vpri_encode42__Trace__0.cpp
+#	deleted:    dlco-test/exp02/obj_dir/Vpri_encode42__Trace__0__Slow.cpp
+#	deleted:    dlco-test/exp02/obj_dir/Vpri_encode42___024root.h
+#	deleted:    dlco-test/exp02/obj_dir/Vpri_encode42___024root__DepSet_h0202c4f8__0.cpp
+#	deleted:    dlco-test/exp02/obj_dir/Vpri_encode42___024root__DepSet_h0202c4f8__0__Slow.cpp
+#	deleted:    dlco-test/exp02/obj_dir/Vpri_encode42___024root__DepSet_hd99e8a27__0.cpp
+#	deleted:    dlco-test/exp02/obj_dir/Vpri_encode42___024root__DepSet_hd99e8a27__0__Slow.cpp
+#	deleted:    dlco-test/exp02/obj_dir/Vpri_encode42___024root__Slow.cpp
+#	deleted:    dlco-test/exp02/obj_dir/Vpri_encode42_classes.mk
+#

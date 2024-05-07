@@ -1,0 +1,38 @@
+2024-05-03 01:00:59.881 [info] Started local extension host with pid 52263.
+2024-05-03 01:01:00.005 [warning] [twxs.cmake]: 无法注册“cmake.cmakePath”。此属性已注册。
+2024-05-03 01:01:02.966 [info] [perf] Render performance baseline is 147ms
+2024-05-03 01:01:03.559 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-03 01:01:03.559 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-03 01:01:03.559 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-03 01:01:03.559 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-03 01:01:03.559 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-03 01:01:03.560 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-03 01:01:03.560 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-03 01:01:03.560 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-03 01:01:03.560 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-03 01:01:03.560 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-03 01:01:03.560 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-03 01:01:03.560 [warning] [cmake-tools]: 无法找到键 cmake-tools.configuration.cmake.options.advanced.statusBarLength.description 的消息。
+2024-05-03 01:01:29.454 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/louis/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async E.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:93372)
+2024-05-03 01:45:07.486 [info] Settings Sync: Updating due to change in sessions
+2024-05-03 01:59:56.283 [info] Settings Sync: Updating due to change in sessions
+2024-05-03 02:36:10.850 [info] Settings Sync: Updating due to change in sessions
+2024-05-03 02:58:49.275 [info] Settings Sync: Updating due to change in sessions
+2024-05-03 03:33:07.398 [info] Settings Sync: Updating due to change in sessions
+2024-05-03 03:39:13.169 [info] Settings Sync: Updating due to change in sessions
+2024-05-03 04:27:02.454 [info] Settings Sync: Updating due to change in sessions
+2024-05-03 04:28:31.074 [info] Settings Sync: Updating due to change in sessions
+2024-05-03 05:09:32.054 [info] Settings Sync: Updating due to change in sessions
+2024-05-03 05:25:03.266 [info] Settings Sync: Updating due to change in sessions
+2024-05-03 05:58:23.537 [info] Settings Sync: Updating due to change in sessions
+2024-05-03 06:17:29.777 [info] Settings Sync: Updating due to change in sessions
+2024-05-03 06:45:08.353 [info] Settings Sync: Updating due to change in sessions
+2024-05-03 07:01:06.423 [info] Settings Sync: Updating due to change in sessions
+2024-05-03 07:26:02.853 [info] Settings Sync: Updating due to change in sessions
+2024-05-03 07:48:39.289 [info] Settings Sync: Updating due to change in sessions
+2024-05-03 08:16:42.069 [info] Settings Sync: Updating due to change in sessions
+2024-05-03 08:41:16.400 [info] Settings Sync: Updating due to change in sessions
+2024-05-03 09:14:02.852 [info] Settings Sync: Updating due to change in sessions
+2024-05-03 09:26:33.808 [info] Settings Sync: Updating due to change in sessions

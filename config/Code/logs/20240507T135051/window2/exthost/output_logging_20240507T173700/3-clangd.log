@@ -1,0 +1,1726 @@
+I[17:42:02.624] Ubuntu clangd version 14.0.0-1ubuntu1.1
+I[17:42:02.624] Features: linux+grpc
+I[17:42:02.624] PID: 20047
+I[17:42:02.624] Working directory: /home/louis/MAA/ysyx-workbench
+I[17:42:02.624] argv[0]: /usr/bin/clangd
+I[17:42:02.624] argv[1]: --compile-commands-dir=/home/louis/MAA/ysyx-workbench/build/
+I[17:42:02.624] argv[2]: --background-index
+I[17:42:02.624] argv[3]: --completion-style=detailed
+I[17:42:02.624] argv[4]: --header-insertion=never
+I[17:42:02.624] argv[5]: -log=info
+E[17:42:02.624] Path specified by --compile-commands-dir does not exist. The argument will be ignored.
+I[17:42:02.624] Starting LSP over stdin/stdout
+I[17:42:02.625] <-- initialize(0)
+I[17:42:02.626] --> reply:initialize(0) 1 ms
+I[17:42:02.627] <-- initialized
+I[17:42:02.633] <-- textDocument/didOpen
+I[17:42:02.633] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/cpu/cpu-exec.c
+I[17:42:02.634] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/cpu/cpu-exec.c version 1 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/cpu]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/cpu/cpu-exec.c
+I[17:42:02.635] --> textDocument/clangd.fileStatus
+I[17:42:02.648] --> workspace/semanticTokens/refresh(0)
+I[17:42:02.648] --> textDocument/clangd.fileStatus
+I[17:42:02.649] <-- reply(0)
+I[17:42:02.659] --> textDocument/publishDiagnostics
+I[17:42:02.659] --> textDocument/clangd.fileStatus
+I[17:42:02.675] <-- textDocument/documentSymbol(1)
+I[17:42:02.675] --> reply:textDocument/documentSymbol(1) 0 ms
+I[17:42:02.675] --> textDocument/clangd.fileStatus
+I[17:42:02.743] <-- textDocument/documentLink(2)
+I[17:42:02.743] <-- clangd/inlayHints(3)
+I[17:42:02.744] <-- textDocument/semanticTokens/full(4)
+I[17:42:02.744] --> reply:textDocument/documentLink(2) 0 ms
+I[17:42:02.744] --> reply:clangd/inlayHints(3) 0 ms
+I[17:42:02.744] --> reply:textDocument/semanticTokens/full(4) 0 ms
+I[17:42:02.744] --> textDocument/clangd.fileStatus
+I[17:42:02.792] <-- textDocument/hover(5)
+I[17:42:02.792] --> reply:textDocument/hover(5) 0 ms
+I[17:42:02.792] --> textDocument/clangd.fileStatus
+I[17:42:02.840] <-- textDocument/codeAction(6)
+I[17:42:02.840] --> reply:textDocument/codeAction(6) 0 ms
+I[17:42:02.840] --> textDocument/clangd.fileStatus
+I[17:42:02.888] <-- clangd/inlayHints(7)
+I[17:42:02.888] --> reply:clangd/inlayHints(7) 0 ms
+I[17:42:02.888] --> textDocument/clangd.fileStatus
+I[17:42:02.967] <-- textDocument/documentSymbol(8)
+I[17:42:02.968] --> reply:textDocument/documentSymbol(8) 0 ms
+I[17:42:02.968] --> textDocument/clangd.fileStatus
+I[17:42:03.139] <-- textDocument/hover(9)
+I[17:42:03.140] --> reply:textDocument/hover(9) 0 ms
+I[17:42:03.140] --> textDocument/clangd.fileStatus
+I[17:42:03.201] <-- clangd/inlayHints(10)
+I[17:42:03.201] --> reply:clangd/inlayHints(10) 0 ms
+I[17:42:03.201] --> textDocument/clangd.fileStatus
+I[17:42:03.441] <-- clangd/inlayHints(11)
+I[17:42:03.441] --> reply:clangd/inlayHints(11) 0 ms
+I[17:42:03.441] --> textDocument/clangd.fileStatus
+I[17:42:03.935] <-- clangd/inlayHints(12)
+I[17:42:03.936] --> reply:clangd/inlayHints(12) 0 ms
+I[17:42:03.936] --> textDocument/clangd.fileStatus
+I[17:42:04.422] <-- clangd/inlayHints(13)
+I[17:42:04.422] --> reply:clangd/inlayHints(13) 0 ms
+I[17:42:04.422] --> textDocument/clangd.fileStatus
+I[17:42:04.469] <-- clangd/inlayHints(14)
+I[17:42:04.469] --> reply:clangd/inlayHints(14) 0 ms
+I[17:42:04.469] --> textDocument/clangd.fileStatus
+I[17:42:09.408] <-- clangd/inlayHints(15)
+I[17:42:09.409] --> reply:clangd/inlayHints(15) 0 ms
+I[17:42:09.409] --> textDocument/clangd.fileStatus
+I[17:42:09.734] <-- clangd/inlayHints(16)
+I[17:42:09.734] --> reply:clangd/inlayHints(16) 0 ms
+I[17:42:09.734] --> textDocument/clangd.fileStatus
+I[17:42:10.190] <-- clangd/inlayHints(17)
+I[17:42:10.190] --> reply:clangd/inlayHints(17) 0 ms
+I[17:42:10.190] --> textDocument/clangd.fileStatus
+I[17:42:10.489] <-- clangd/inlayHints(18)
+I[17:42:10.489] --> reply:clangd/inlayHints(18) 0 ms
+I[17:42:10.489] --> textDocument/clangd.fileStatus
+I[17:42:11.061] <-- clangd/inlayHints(19)
+I[17:42:11.061] --> reply:clangd/inlayHints(19) 0 ms
+I[17:42:11.062] --> textDocument/clangd.fileStatus
+I[17:42:11.740] <-- clangd/inlayHints(20)
+I[17:42:11.740] --> reply:clangd/inlayHints(20) 0 ms
+I[17:42:11.740] --> textDocument/clangd.fileStatus
+I[17:42:12.051] <-- clangd/inlayHints(21)
+I[17:42:12.051] --> reply:clangd/inlayHints(21) 0 ms
+I[17:42:12.051] --> textDocument/clangd.fileStatus
+I[17:42:13.439] <-- clangd/inlayHints(22)
+I[17:42:13.439] --> reply:clangd/inlayHints(22) 0 ms
+I[17:42:13.439] --> textDocument/clangd.fileStatus
+I[17:42:14.143] <-- clangd/inlayHints(23)
+I[17:42:14.143] --> reply:clangd/inlayHints(23) 0 ms
+I[17:42:14.143] --> textDocument/clangd.fileStatus
+I[17:42:14.195] <-- clangd/inlayHints(24)
+I[17:42:14.196] --> reply:clangd/inlayHints(24) 0 ms
+I[17:42:14.196] --> textDocument/clangd.fileStatus
+I[17:42:14.616] <-- clangd/inlayHints(25)
+I[17:42:14.617] --> reply:clangd/inlayHints(25) 0 ms
+I[17:42:14.617] --> textDocument/clangd.fileStatus
+I[17:42:14.937] <-- clangd/inlayHints(26)
+I[17:42:14.937] --> reply:clangd/inlayHints(26) 0 ms
+I[17:42:14.937] --> textDocument/clangd.fileStatus
+I[17:42:15.246] <-- clangd/inlayHints(27)
+I[17:42:15.246] --> reply:clangd/inlayHints(27) 0 ms
+I[17:42:15.246] --> textDocument/clangd.fileStatus
+I[17:42:15.990] <-- clangd/inlayHints(28)
+I[17:42:15.990] --> reply:clangd/inlayHints(28) 0 ms
+I[17:42:15.990] --> textDocument/clangd.fileStatus
+I[17:42:16.732] <-- clangd/inlayHints(29)
+I[17:42:16.732] --> reply:clangd/inlayHints(29) 0 ms
+I[17:42:16.732] --> textDocument/clangd.fileStatus
+I[17:42:16.844] <-- clangd/inlayHints(30)
+I[17:42:16.844] --> reply:clangd/inlayHints(30) 0 ms
+I[17:42:16.844] --> textDocument/clangd.fileStatus
+I[17:42:17.683] <-- clangd/inlayHints(31)
+I[17:42:17.683] --> reply:clangd/inlayHints(31) 0 ms
+I[17:42:17.683] --> textDocument/clangd.fileStatus
+I[17:42:18.501] <-- clangd/inlayHints(32)
+I[17:42:18.502] --> reply:clangd/inlayHints(32) 0 ms
+I[17:42:18.502] --> textDocument/clangd.fileStatus
+I[17:42:18.546] <-- clangd/inlayHints(33)
+I[17:42:18.546] --> reply:clangd/inlayHints(33) 0 ms
+I[17:42:18.546] --> textDocument/clangd.fileStatus
+I[17:42:18.607] <-- clangd/inlayHints(34)
+I[17:42:18.607] --> reply:clangd/inlayHints(34) 0 ms
+I[17:42:18.607] --> textDocument/clangd.fileStatus
+I[17:42:19.011] <-- clangd/inlayHints(35)
+I[17:42:19.011] --> reply:clangd/inlayHints(35) 0 ms
+I[17:42:19.011] --> textDocument/clangd.fileStatus
+I[17:42:19.062] <-- clangd/inlayHints(36)
+I[17:42:19.063] --> reply:clangd/inlayHints(36) 0 ms
+I[17:42:19.063] --> textDocument/clangd.fileStatus
+I[17:42:19.512] <-- clangd/inlayHints(37)
+I[17:42:19.513] --> reply:clangd/inlayHints(37) 0 ms
+I[17:42:19.513] --> textDocument/clangd.fileStatus
+I[17:42:19.560] <-- clangd/inlayHints(38)
+I[17:42:19.560] --> reply:clangd/inlayHints(38) 0 ms
+I[17:42:19.560] --> textDocument/clangd.fileStatus
+I[17:42:20.136] <-- clangd/inlayHints(39)
+I[17:42:20.137] --> reply:clangd/inlayHints(39) 0 ms
+I[17:42:20.137] --> textDocument/clangd.fileStatus
+I[17:42:20.203] <-- clangd/inlayHints(40)
+I[17:42:20.203] --> reply:clangd/inlayHints(40) 0 ms
+I[17:42:20.203] --> textDocument/clangd.fileStatus
+I[17:42:20.809] <-- clangd/inlayHints(41)
+I[17:42:20.809] --> reply:clangd/inlayHints(41) 0 ms
+I[17:42:20.809] --> textDocument/clangd.fileStatus
+I[17:42:21.171] <-- clangd/inlayHints(42)
+I[17:42:21.171] --> reply:clangd/inlayHints(42) 0 ms
+I[17:42:21.171] --> textDocument/clangd.fileStatus
+I[17:42:26.061] <-- textDocument/didClose
+I[17:42:26.061] --> textDocument/publishDiagnostics
+I[17:42:26.089] <-- textDocument/didOpen
+I[17:42:26.090] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c
+I[17:42:26.090] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c version 1 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c
+I[17:42:26.091] --> textDocument/clangd.fileStatus
+I[17:42:26.103] --> workspace/semanticTokens/refresh(1)
+I[17:42:26.103] --> textDocument/clangd.fileStatus
+I[17:42:26.103] --> textDocument/clangd.fileStatus
+I[17:42:26.114] <-- reply(1)
+I[17:42:26.114] <-- textDocument/codeAction(43)
+I[17:42:26.114] <-- textDocument/documentSymbol(44)
+I[17:42:26.119] --> textDocument/publishDiagnostics
+I[17:42:26.119] --> reply:textDocument/codeAction(43) 5 ms
+I[17:42:26.119] --> reply:textDocument/documentSymbol(44) 5 ms
+I[17:42:26.119] --> textDocument/clangd.fileStatus
+I[17:42:26.125] <-- textDocument/semanticTokens/full(45)
+I[17:42:26.125] --> reply:textDocument/semanticTokens/full(45) 0 ms
+I[17:42:26.125] --> textDocument/clangd.fileStatus
+I[17:42:26.129] <-- textDocument/documentLink(46)
+I[17:42:26.129] <-- clangd/inlayHints(47)
+I[17:42:26.130] --> reply:textDocument/documentLink(46) 0 ms
+I[17:42:26.130] --> reply:clangd/inlayHints(47) 0 ms
+I[17:42:26.130] --> textDocument/clangd.fileStatus
+I[17:42:26.424] <-- textDocument/codeAction(48)
+I[17:42:26.424] <-- textDocument/documentSymbol(49)
+I[17:42:26.424] --> reply:textDocument/codeAction(48) 0 ms
+I[17:42:26.425] --> reply:textDocument/documentSymbol(49) 0 ms
+I[17:42:26.425] --> textDocument/clangd.fileStatus
+I[17:42:26.518] <-- clangd/inlayHints(50)
+I[17:42:26.518] --> reply:clangd/inlayHints(50) 0 ms
+I[17:42:26.518] --> textDocument/clangd.fileStatus
+I[17:42:26.592] <-- textDocument/semanticTokens/full/delta(51)
+I[17:42:26.592] --> reply:textDocument/semanticTokens/full/delta(51) 0 ms
+I[17:42:26.592] --> textDocument/clangd.fileStatus
+I[17:42:26.837] <-- clangd/inlayHints(52)
+I[17:42:26.837] --> reply:clangd/inlayHints(52) 0 ms
+I[17:42:26.837] --> textDocument/clangd.fileStatus
+I[17:42:26.962] <-- clangd/inlayHints(53)
+I[17:42:26.962] --> reply:clangd/inlayHints(53) 0 ms
+I[17:42:26.962] --> textDocument/clangd.fileStatus
+I[17:42:27.260] <-- clangd/inlayHints(54)
+I[17:42:27.261] --> reply:clangd/inlayHints(54) 0 ms
+I[17:42:27.261] --> textDocument/clangd.fileStatus
+I[17:42:28.130] <-- clangd/inlayHints(55)
+I[17:42:28.130] --> reply:clangd/inlayHints(55) 0 ms
+I[17:42:28.130] --> textDocument/clangd.fileStatus
+I[17:42:28.475] <-- clangd/inlayHints(56)
+I[17:42:28.475] --> reply:clangd/inlayHints(56) 0 ms
+I[17:42:28.475] --> textDocument/clangd.fileStatus
+I[17:42:29.075] <-- clangd/inlayHints(57)
+I[17:42:29.075] --> reply:clangd/inlayHints(57) 0 ms
+I[17:42:29.075] --> textDocument/clangd.fileStatus
+I[17:42:29.601] <-- clangd/inlayHints(58)
+I[17:42:29.601] --> reply:clangd/inlayHints(58) 0 ms
+I[17:42:29.601] --> textDocument/clangd.fileStatus
+I[17:42:29.684] <-- clangd/inlayHints(59)
+I[17:42:29.684] --> reply:clangd/inlayHints(59) 0 ms
+I[17:42:29.684] --> textDocument/clangd.fileStatus
+I[17:42:30.358] <-- clangd/inlayHints(60)
+I[17:42:30.358] --> reply:clangd/inlayHints(60) 0 ms
+I[17:42:30.358] --> textDocument/clangd.fileStatus
+I[17:42:31.690] <-- clangd/inlayHints(61)
+I[17:42:31.690] --> reply:clangd/inlayHints(61) 0 ms
+I[17:42:31.691] --> textDocument/clangd.fileStatus
+I[17:42:31.731] <-- clangd/inlayHints(62)
+I[17:42:31.731] --> reply:clangd/inlayHints(62) 0 ms
+I[17:42:31.731] --> textDocument/clangd.fileStatus
+I[17:42:32.586] <-- clangd/inlayHints(63)
+I[17:42:32.586] --> reply:clangd/inlayHints(63) 0 ms
+I[17:42:32.586] --> textDocument/clangd.fileStatus
+I[17:42:34.363] <-- clangd/inlayHints(64)
+I[17:42:34.363] --> reply:clangd/inlayHints(64) 0 ms
+I[17:42:34.363] --> textDocument/clangd.fileStatus
+I[17:42:34.484] <-- clangd/inlayHints(65)
+I[17:42:34.484] --> reply:clangd/inlayHints(65) 0 ms
+I[17:42:34.484] --> textDocument/clangd.fileStatus
+I[17:42:34.820] <-- clangd/inlayHints(66)
+I[17:42:34.821] --> reply:clangd/inlayHints(66) 0 ms
+I[17:42:34.821] --> textDocument/clangd.fileStatus
+I[17:42:35.398] <-- clangd/inlayHints(67)
+I[17:42:35.399] --> reply:clangd/inlayHints(67) 0 ms
+I[17:42:35.399] --> textDocument/clangd.fileStatus
+I[17:42:35.811] <-- clangd/inlayHints(68)
+I[17:42:35.811] --> reply:clangd/inlayHints(68) 0 ms
+I[17:42:35.811] --> textDocument/clangd.fileStatus
+I[17:42:36.224] <-- clangd/inlayHints(69)
+I[17:42:36.224] --> reply:clangd/inlayHints(69) 0 ms
+I[17:42:36.224] --> textDocument/clangd.fileStatus
+I[17:42:36.711] <-- clangd/inlayHints(70)
+I[17:42:36.711] --> reply:clangd/inlayHints(70) 0 ms
+I[17:42:36.712] --> textDocument/clangd.fileStatus
+I[17:42:37.070] <-- clangd/inlayHints(71)
+I[17:42:37.071] --> reply:clangd/inlayHints(71) 0 ms
+I[17:42:37.071] --> textDocument/clangd.fileStatus
+I[17:42:37.109] <-- clangd/inlayHints(72)
+I[17:42:37.109] --> reply:clangd/inlayHints(72) 0 ms
+I[17:42:37.109] --> textDocument/clangd.fileStatus
+I[17:42:37.686] <-- clangd/inlayHints(73)
+I[17:42:37.686] --> reply:clangd/inlayHints(73) 0 ms
+I[17:42:37.687] --> textDocument/clangd.fileStatus
+I[17:42:38.185] <-- clangd/inlayHints(74)
+I[17:42:38.185] --> reply:clangd/inlayHints(74) 0 ms
+I[17:42:38.185] --> textDocument/clangd.fileStatus
+I[17:42:38.226] <-- clangd/inlayHints(75)
+I[17:42:38.226] --> reply:clangd/inlayHints(75) 0 ms
+I[17:42:38.226] --> textDocument/clangd.fileStatus
+I[17:42:39.390] <-- clangd/inlayHints(76)
+I[17:42:39.390] --> reply:clangd/inlayHints(76) 0 ms
+I[17:42:39.390] --> textDocument/clangd.fileStatus
+I[17:42:40.699] <-- clangd/inlayHints(77)
+I[17:42:40.699] --> reply:clangd/inlayHints(77) 0 ms
+I[17:42:40.699] --> textDocument/clangd.fileStatus
+I[17:42:40.742] <-- clangd/inlayHints(78)
+I[17:42:40.742] --> reply:clangd/inlayHints(78) 0 ms
+I[17:42:40.742] --> textDocument/clangd.fileStatus
+I[17:42:40.798] <-- clangd/inlayHints(79)
+I[17:42:40.798] --> reply:clangd/inlayHints(79) 0 ms
+I[17:42:40.798] --> textDocument/clangd.fileStatus
+I[17:42:40.854] <-- clangd/inlayHints(80)
+I[17:42:40.854] --> reply:clangd/inlayHints(80) 0 ms
+I[17:42:40.854] --> textDocument/clangd.fileStatus
+I[17:42:41.365] <-- clangd/inlayHints(81)
+I[17:42:41.365] --> reply:clangd/inlayHints(81) 0 ms
+I[17:42:41.365] --> textDocument/clangd.fileStatus
+I[17:42:41.414] <-- clangd/inlayHints(82)
+I[17:42:41.414] --> reply:clangd/inlayHints(82) 0 ms
+I[17:42:41.414] --> textDocument/clangd.fileStatus
+I[17:42:41.461] <-- clangd/inlayHints(83)
+I[17:42:41.461] --> reply:clangd/inlayHints(83) 0 ms
+I[17:42:41.461] --> textDocument/clangd.fileStatus
+I[17:43:12.954] <-- clangd/inlayHints(84)
+I[17:43:12.954] --> reply:clangd/inlayHints(84) 0 ms
+I[17:43:12.955] --> textDocument/clangd.fileStatus
+I[17:43:41.075] <-- textDocument/hover(85)
+I[17:43:41.076] --> reply:textDocument/hover(85) 0 ms
+I[17:43:41.076] --> textDocument/clangd.fileStatus
+I[17:43:41.584] <-- textDocument/codeAction(86)
+I[17:43:41.584] --> reply:textDocument/codeAction(86) 0 ms
+I[17:43:41.584] --> textDocument/clangd.fileStatus
+I[17:43:42.022] <-- clangd/inlayHints(87)
+I[17:43:42.023] --> reply:clangd/inlayHints(87) 0 ms
+I[17:43:42.023] --> textDocument/clangd.fileStatus
+I[17:43:42.239] <-- textDocument/hover(88)
+I[17:43:42.239] --> reply:textDocument/hover(88) 0 ms
+I[17:43:42.239] --> textDocument/clangd.fileStatus
+I[17:43:43.302] <-- clangd/inlayHints(89)
+I[17:43:43.302] --> reply:clangd/inlayHints(89) 0 ms
+I[17:43:43.302] --> textDocument/clangd.fileStatus
+I[17:43:43.516] <-- textDocument/codeAction(90)
+I[17:43:43.516] --> reply:textDocument/codeAction(90) 0 ms
+I[17:43:43.516] --> textDocument/clangd.fileStatus
+I[17:43:46.183] <-- textDocument/codeAction(91)
+I[17:43:46.183] --> reply:textDocument/codeAction(91) 0 ms
+I[17:43:46.183] --> textDocument/clangd.fileStatus
+I[17:43:48.498] <-- textDocument/hover(92)
+I[17:43:48.499] --> reply:textDocument/hover(92) 0 ms
+I[17:43:48.499] --> textDocument/clangd.fileStatus
+I[17:43:48.669] <-- clangd/inlayHints(93)
+I[17:43:48.669] --> reply:clangd/inlayHints(93) 0 ms
+I[17:43:48.669] --> textDocument/clangd.fileStatus
+I[17:43:51.204] <-- textDocument/hover(94)
+I[17:43:51.205] --> reply:textDocument/hover(94) 0 ms
+I[17:43:51.205] --> textDocument/clangd.fileStatus
+I[17:43:51.402] <-- textDocument/definition(95)
+I[17:43:51.402] --> reply:textDocument/definition(95) 0 ms
+I[17:43:51.402] --> textDocument/clangd.fileStatus
+I[17:43:51.893] <-- textDocument/documentHighlight(96)
+I[17:43:51.893] --> reply:textDocument/documentHighlight(96) 0 ms
+I[17:43:51.893] --> textDocument/clangd.fileStatus
+I[17:43:51.990] <-- textDocument/definition(97)
+I[17:43:51.991] --> reply:textDocument/definition(97) 0 ms
+I[17:43:51.991] --> textDocument/clangd.fileStatus
+I[17:43:52.005] <-- textDocument/references(98)
+I[17:43:52.005] --> reply:textDocument/references(98) 0 ms
+I[17:43:52.005] --> textDocument/clangd.fileStatus
+I[17:43:52.276] <-- textDocument/codeAction(99)
+I[17:43:52.276] --> reply:textDocument/codeAction(99) 0 ms
+I[17:43:52.276] --> textDocument/clangd.fileStatus
+I[17:43:52.935] <-- clangd/inlayHints(100)
+I[17:43:52.935] --> reply:clangd/inlayHints(100) 0 ms
+I[17:43:52.936] --> textDocument/clangd.fileStatus
+I[17:43:52.982] <-- clangd/inlayHints(101)
+I[17:43:52.982] --> reply:clangd/inlayHints(101) 0 ms
+I[17:43:52.982] --> textDocument/clangd.fileStatus
+I[17:43:53.031] <-- clangd/inlayHints(102)
+I[17:43:53.032] --> reply:clangd/inlayHints(102) 0 ms
+I[17:43:53.032] --> textDocument/clangd.fileStatus
+I[17:43:53.438] <-- clangd/inlayHints(103)
+I[17:43:53.438] --> reply:clangd/inlayHints(103) 0 ms
+I[17:43:53.438] --> textDocument/clangd.fileStatus
+I[17:43:53.495] <-- clangd/inlayHints(104)
+I[17:43:53.495] --> reply:clangd/inlayHints(104) 0 ms
+I[17:43:53.495] --> textDocument/clangd.fileStatus
+I[17:43:54.074] <-- clangd/inlayHints(105)
+I[17:43:54.075] --> reply:clangd/inlayHints(105) 0 ms
+I[17:43:54.075] --> textDocument/clangd.fileStatus
+I[17:43:54.113] <-- clangd/inlayHints(106)
+I[17:43:54.113] --> reply:clangd/inlayHints(106) 0 ms
+I[17:43:54.113] --> textDocument/clangd.fileStatus
+I[17:43:54.656] <-- clangd/inlayHints(107)
+I[17:43:54.656] --> reply:clangd/inlayHints(107) 0 ms
+I[17:43:54.657] --> textDocument/clangd.fileStatus
+I[17:43:54.706] <-- clangd/inlayHints(108)
+I[17:43:54.706] --> reply:clangd/inlayHints(108) 0 ms
+I[17:43:54.706] --> textDocument/clangd.fileStatus
+I[17:43:56.343] <-- clangd/inlayHints(109)
+I[17:43:56.344] --> reply:clangd/inlayHints(109) 0 ms
+I[17:43:56.344] --> textDocument/clangd.fileStatus
+I[17:43:56.556] <-- textDocument/codeAction(110)
+I[17:43:56.556] --> reply:textDocument/codeAction(110) 0 ms
+I[17:43:56.556] --> textDocument/clangd.fileStatus
+I[17:43:57.192] <-- clangd/inlayHints(111)
+I[17:43:57.192] --> reply:clangd/inlayHints(111) 0 ms
+I[17:43:57.192] --> textDocument/clangd.fileStatus
+I[17:43:57.406] <-- textDocument/codeAction(112)
+I[17:43:57.407] --> reply:textDocument/codeAction(112) 0 ms
+I[17:43:57.407] --> textDocument/clangd.fileStatus
+I[17:43:58.608] <-- clangd/inlayHints(113)
+I[17:43:58.608] --> reply:clangd/inlayHints(113) 0 ms
+I[17:43:58.608] --> textDocument/clangd.fileStatus
+I[17:43:58.650] <-- clangd/inlayHints(114)
+I[17:43:58.651] --> reply:clangd/inlayHints(114) 0 ms
+I[17:43:58.651] --> textDocument/clangd.fileStatus
+I[17:44:04.157] <-- clangd/inlayHints(115)
+I[17:44:04.157] --> reply:clangd/inlayHints(115) 0 ms
+I[17:44:04.157] --> textDocument/clangd.fileStatus
+I[17:44:04.230] <-- clangd/inlayHints(116)
+I[17:44:04.231] --> reply:clangd/inlayHints(116) 0 ms
+I[17:44:04.231] --> textDocument/clangd.fileStatus
+I[17:44:04.298] <-- clangd/inlayHints(117)
+I[17:44:04.298] --> reply:clangd/inlayHints(117) 0 ms
+I[17:44:04.298] --> textDocument/clangd.fileStatus
+I[17:44:05.267] <-- clangd/inlayHints(118)
+I[17:44:05.267] --> reply:clangd/inlayHints(118) 0 ms
+I[17:44:05.267] --> textDocument/clangd.fileStatus
+I[17:44:05.356] <-- clangd/inlayHints(119)
+I[17:44:05.357] --> reply:clangd/inlayHints(119) 0 ms
+I[17:44:05.357] --> textDocument/clangd.fileStatus
+I[17:44:13.490] <-- clangd/inlayHints(120)
+I[17:44:13.490] --> reply:clangd/inlayHints(120) 0 ms
+I[17:44:13.490] --> textDocument/clangd.fileStatus
+I[17:44:13.539] <-- clangd/inlayHints(121)
+I[17:44:13.540] --> reply:clangd/inlayHints(121) 0 ms
+I[17:44:13.540] --> textDocument/clangd.fileStatus
+I[17:44:13.604] <-- clangd/inlayHints(122)
+I[17:44:13.605] --> reply:clangd/inlayHints(122) 0 ms
+I[17:44:13.605] --> textDocument/clangd.fileStatus
+I[17:44:13.658] <-- clangd/inlayHints(123)
+I[17:44:13.658] --> reply:clangd/inlayHints(123) 0 ms
+I[17:44:13.658] --> textDocument/clangd.fileStatus
+I[17:44:13.710] <-- clangd/inlayHints(124)
+I[17:44:13.710] --> reply:clangd/inlayHints(124) 0 ms
+I[17:44:13.710] --> textDocument/clangd.fileStatus
+I[17:44:13.770] <-- clangd/inlayHints(125)
+I[17:44:13.770] --> reply:clangd/inlayHints(125) 0 ms
+I[17:44:13.770] --> textDocument/clangd.fileStatus
+I[17:44:13.813] <-- clangd/inlayHints(126)
+I[17:44:13.813] --> reply:clangd/inlayHints(126) 0 ms
+I[17:44:13.813] --> textDocument/clangd.fileStatus
+I[17:44:13.852] <-- clangd/inlayHints(127)
+I[17:44:13.852] --> reply:clangd/inlayHints(127) 0 ms
+I[17:44:13.852] --> textDocument/clangd.fileStatus
+I[17:44:13.891] <-- clangd/inlayHints(128)
+I[17:44:13.891] --> reply:clangd/inlayHints(128) 0 ms
+I[17:44:13.891] --> textDocument/clangd.fileStatus
+I[17:44:14.490] <-- clangd/inlayHints(129)
+I[17:44:14.490] --> reply:clangd/inlayHints(129) 0 ms
+I[17:44:14.490] --> textDocument/clangd.fileStatus
+I[17:44:15.234] <-- clangd/inlayHints(130)
+I[17:44:15.234] --> reply:clangd/inlayHints(130) 0 ms
+I[17:44:15.234] --> textDocument/clangd.fileStatus
+I[17:44:15.714] <-- clangd/inlayHints(131)
+I[17:44:15.714] --> reply:clangd/inlayHints(131) 0 ms
+I[17:44:15.714] --> textDocument/clangd.fileStatus
+I[17:44:16.097] <-- clangd/inlayHints(132)
+I[17:44:16.097] --> reply:clangd/inlayHints(132) 0 ms
+I[17:44:16.097] --> textDocument/clangd.fileStatus
+I[17:44:16.772] <-- clangd/inlayHints(133)
+I[17:44:16.772] --> reply:clangd/inlayHints(133) 0 ms
+I[17:44:16.773] --> textDocument/clangd.fileStatus
+I[17:44:16.870] <-- clangd/inlayHints(134)
+I[17:44:16.870] --> reply:clangd/inlayHints(134) 0 ms
+I[17:44:16.870] --> textDocument/clangd.fileStatus
+I[17:44:22.555] <-- textDocument/codeAction(135)
+I[17:44:22.555] --> reply:textDocument/codeAction(135) 0 ms
+I[17:44:22.555] --> textDocument/clangd.fileStatus
+I[17:44:22.869] <-- textDocument/codeAction(136)
+I[17:44:22.869] --> reply:textDocument/codeAction(136) 0 ms
+I[17:44:22.869] --> textDocument/clangd.fileStatus
+I[17:44:24.297] <-- textDocument/codeAction(137)
+I[17:44:24.297] --> reply:textDocument/codeAction(137) 0 ms
+I[17:44:24.297] --> textDocument/clangd.fileStatus
+I[17:44:36.215] <-- textDocument/didClose
+I[17:44:36.215] --> textDocument/publishDiagnostics
+I[17:44:36.250] <-- textDocument/didOpen
+I[17:44:36.251] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/utils/disasm.cc
+I[17:44:36.251] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/utils/disasm.cc version 1 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/utils]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/utils/disasm.cc
+I[17:44:36.253] --> textDocument/clangd.fileStatus
+I[17:44:36.270] <-- textDocument/codeAction(138)
+I[17:44:36.270] <-- textDocument/documentSymbol(139)
+I[17:44:36.425] <-- textDocument/semanticTokens/full(140)
+I[17:44:36.429] <-- textDocument/documentLink(141)
+I[17:44:36.432] <-- clangd/inlayHints(142)
+I[17:44:36.530] <-- textDocument/codeAction(143)
+I[17:44:36.531] <-- $/cancelRequest
+I[17:44:36.565] <-- textDocument/documentSymbol(144)
+I[17:44:37.051] <-- $/cancelRequest
+I[17:44:37.051] <-- clangd/inlayHints(145)
+I[17:44:37.508] --> workspace/semanticTokens/refresh(2)
+I[17:44:37.508] --> textDocument/clangd.fileStatus
+I[17:44:37.509] <-- reply(2)
+I[17:44:37.607] --> textDocument/publishDiagnostics
+I[17:44:37.608] --> reply:textDocument/codeAction(138) 1337 ms, error: Task was cancelled.
+I[17:44:37.608] --> reply:textDocument/documentSymbol(139) 1337 ms
+I[17:44:37.608] --> reply:textDocument/semanticTokens/full(140) 1183 ms
+[Error - 5:44:37 PM] Request textDocument/codeAction failed.
+[object Object]
+I[17:44:37.608] --> reply:textDocument/documentLink(141) 1178 ms
+I[17:44:37.608] --> reply:clangd/inlayHints(142) 1175 ms, error: Task was cancelled.
+I[17:44:37.608] --> reply:textDocument/codeAction(143) 1078 ms
+I[17:44:37.608] --> reply:textDocument/documentSymbol(144) 1043 ms
+I[17:44:37.609] --> reply:clangd/inlayHints(145) 558 ms
+I[17:44:37.610] --> textDocument/clangd.fileStatus
+I[17:44:37.690] <-- clangd/inlayHints(146)
+I[17:44:37.691] --> reply:clangd/inlayHints(146) 1 ms
+I[17:44:37.691] --> textDocument/clangd.fileStatus
+I[17:44:38.076] <-- textDocument/semanticTokens/full/delta(147)
+I[17:44:38.076] --> reply:textDocument/semanticTokens/full/delta(147) 0 ms
+I[17:44:38.076] --> textDocument/clangd.fileStatus
+I[17:44:44.619] <-- clangd/inlayHints(148)
+I[17:44:44.620] --> reply:clangd/inlayHints(148) 1 ms
+I[17:44:44.620] --> textDocument/clangd.fileStatus
+I[17:45:42.023] <-- textDocument/didClose
+I[17:45:42.023] --> textDocument/publishDiagnostics
+I[17:53:05.925] <-- textDocument/didOpen
+I[17:53:05.926] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c
+I[17:53:05.926] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c version 1 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c
+I[17:53:05.928] --> textDocument/clangd.fileStatus
+I[17:53:05.945] <-- textDocument/codeAction(149)
+I[17:53:05.945] <-- textDocument/documentSymbol(150)
+I[17:53:06.003] <-- textDocument/semanticTokens/full(151)
+I[17:53:06.008] <-- textDocument/documentLink(152)
+I[17:53:06.019] <-- clangd/inlayHints(153)
+I[17:53:06.039] --> workspace/semanticTokens/refresh(3)
+I[17:53:06.039] --> textDocument/clangd.fileStatus
+I[17:53:06.040] <-- reply(3)
+I[17:53:06.049] --> textDocument/publishDiagnostics
+I[17:53:06.049] --> reply:textDocument/codeAction(149) 104 ms
+I[17:53:06.049] --> reply:textDocument/documentSymbol(150) 104 ms
+I[17:53:06.049] --> reply:textDocument/semanticTokens/full(151) 46 ms
+I[17:53:06.049] --> reply:textDocument/documentLink(152) 41 ms
+I[17:53:06.049] --> reply:clangd/inlayHints(153) 30 ms
+I[17:53:06.049] --> textDocument/clangd.fileStatus
+I[17:53:06.266] <-- textDocument/documentSymbol(154)
+I[17:53:06.266] --> reply:textDocument/documentSymbol(154) 0 ms
+I[17:53:06.266] --> textDocument/clangd.fileStatus
+I[17:53:06.304] <-- textDocument/codeAction(155)
+I[17:53:06.304] --> reply:textDocument/codeAction(155) 0 ms
+I[17:53:06.304] --> textDocument/clangd.fileStatus
+I[17:53:06.515] <-- textDocument/semanticTokens/full/delta(156)
+I[17:53:06.515] --> reply:textDocument/semanticTokens/full/delta(156) 0 ms
+I[17:53:06.515] --> textDocument/clangd.fileStatus
+I[17:53:07.167] <-- textDocument/hover(157)
+I[17:53:07.168] --> reply:textDocument/hover(157) 0 ms
+I[17:53:07.168] --> textDocument/clangd.fileStatus
+I[17:53:07.612] <-- textDocument/didChange
+I[17:53:07.613] --> textDocument/clangd.fileStatus
+I[17:53:07.663] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c
+I[17:53:07.663] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c version 2 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c
+I[17:53:07.664] --> textDocument/clangd.fileStatus
+I[17:53:07.664] --> textDocument/clangd.fileStatus
+I[17:53:07.664] --> textDocument/clangd.fileStatus
+I[17:53:07.672] --> textDocument/publishDiagnostics
+I[17:53:07.672] --> textDocument/clangd.fileStatus
+I[17:53:07.798] <-- textDocument/formatting(158)
+I[17:53:07.815] --> reply:textDocument/formatting(158) 16 ms
+I[17:53:07.851] <-- textDocument/didChange
+I[17:53:07.851] --> textDocument/clangd.fileStatus
+I[17:53:07.901] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c
+I[17:53:07.902] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c version 3 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c
+I[17:53:07.903] --> textDocument/clangd.fileStatus
+I[17:53:07.903] --> textDocument/clangd.fileStatus
+I[17:53:07.905] <-- clangd/inlayHints(159)
+I[17:53:07.905] --> textDocument/clangd.fileStatus
+I[17:53:07.911] <-- textDocument/didSave
+I[17:53:07.911] File version went from 3 to 3
+I[17:53:07.915] --> reply:clangd/inlayHints(159) 9 ms
+I[17:53:07.915] --> textDocument/clangd.fileStatus
+I[17:53:07.961] --> textDocument/clangd.fileStatus
+I[17:53:07.961] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c
+I[17:53:07.961] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c version 3 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c
+I[17:53:07.962] --> textDocument/clangd.fileStatus
+I[17:53:07.972] --> workspace/semanticTokens/refresh(4)
+I[17:53:07.972] --> textDocument/clangd.fileStatus
+I[17:53:07.972] --> textDocument/clangd.fileStatus
+I[17:53:07.973] <-- reply(4)
+I[17:53:07.975] <-- textDocument/semanticTokens/full/delta(160)
+I[17:53:07.980] --> textDocument/publishDiagnostics
+I[17:53:07.981] --> reply:textDocument/semanticTokens/full/delta(160) 6 ms
+I[17:53:07.981] --> textDocument/clangd.fileStatus
+I[17:53:08.207] <-- textDocument/documentSymbol(161)
+I[17:53:08.208] --> reply:textDocument/documentSymbol(161) 0 ms
+I[17:53:08.208] --> textDocument/clangd.fileStatus
+I[17:53:08.235] <-- textDocument/codeAction(162)
+I[17:53:08.235] --> reply:textDocument/codeAction(162) 0 ms
+I[17:53:08.235] --> textDocument/clangd.fileStatus
+I[17:53:08.374] <-- textDocument/documentSymbol(163)
+I[17:53:08.375] --> reply:textDocument/documentSymbol(163) 0 ms
+I[17:53:08.375] --> textDocument/clangd.fileStatus
+I[17:53:09.350] <-- textDocument/documentLink(164)
+I[17:53:09.350] --> reply:textDocument/documentLink(164) 0 ms
+I[17:53:09.350] --> textDocument/clangd.fileStatus
+I[17:53:14.229] <-- clangd/inlayHints(165)
+I[17:53:14.230] --> reply:clangd/inlayHints(165) 0 ms
+I[17:53:14.230] --> textDocument/clangd.fileStatus
+I[17:53:14.273] <-- clangd/inlayHints(166)
+I[17:53:14.273] --> reply:clangd/inlayHints(166) 0 ms
+I[17:53:14.273] --> textDocument/clangd.fileStatus
+I[17:53:19.703] <-- clangd/inlayHints(167)
+I[17:53:19.703] --> reply:clangd/inlayHints(167) 0 ms
+I[17:53:19.704] --> textDocument/clangd.fileStatus
+I[17:53:19.772] <-- clangd/inlayHints(168)
+I[17:53:19.772] --> reply:clangd/inlayHints(168) 0 ms
+I[17:53:19.772] --> textDocument/clangd.fileStatus
+I[17:53:19.823] <-- clangd/inlayHints(169)
+I[17:53:19.823] --> reply:clangd/inlayHints(169) 0 ms
+I[17:53:19.824] --> textDocument/clangd.fileStatus
+I[17:53:19.864] <-- clangd/inlayHints(170)
+I[17:53:19.864] --> reply:clangd/inlayHints(170) 0 ms
+I[17:53:19.864] --> textDocument/clangd.fileStatus
+I[17:53:20.905] <-- clangd/inlayHints(171)
+I[17:53:20.905] --> reply:clangd/inlayHints(171) 0 ms
+I[17:53:20.905] --> textDocument/clangd.fileStatus
+I[17:53:21.294] <-- clangd/inlayHints(172)
+I[17:53:21.294] --> reply:clangd/inlayHints(172) 0 ms
+I[17:53:21.294] --> textDocument/clangd.fileStatus
+I[17:53:21.814] <-- clangd/inlayHints(173)
+I[17:53:21.814] --> reply:clangd/inlayHints(173) 0 ms
+I[17:53:21.814] --> textDocument/clangd.fileStatus
+I[17:53:21.954] <-- clangd/inlayHints(174)
+I[17:53:21.954] --> reply:clangd/inlayHints(174) 0 ms
+I[17:53:21.954] --> textDocument/clangd.fileStatus
+I[17:53:23.001] <-- clangd/inlayHints(175)
+I[17:53:23.002] --> reply:clangd/inlayHints(175) 0 ms
+I[17:53:23.002] --> textDocument/clangd.fileStatus
+I[17:53:23.284] <-- clangd/inlayHints(176)
+I[17:53:23.284] --> reply:clangd/inlayHints(176) 0 ms
+I[17:53:23.284] --> textDocument/clangd.fileStatus
+I[17:53:23.553] <-- clangd/inlayHints(177)
+I[17:53:23.553] --> reply:clangd/inlayHints(177) 0 ms
+I[17:53:23.553] --> textDocument/clangd.fileStatus
+I[17:53:23.816] <-- clangd/inlayHints(178)
+I[17:53:23.816] --> reply:clangd/inlayHints(178) 0 ms
+I[17:53:23.817] --> textDocument/clangd.fileStatus
+I[17:53:24.310] <-- clangd/inlayHints(179)
+I[17:53:24.310] --> reply:clangd/inlayHints(179) 0 ms
+I[17:53:24.310] --> textDocument/clangd.fileStatus
+I[17:53:24.357] <-- clangd/inlayHints(180)
+I[17:53:24.357] --> reply:clangd/inlayHints(180) 0 ms
+I[17:53:24.357] --> textDocument/clangd.fileStatus
+I[17:53:24.407] <-- clangd/inlayHints(181)
+I[17:53:24.407] --> reply:clangd/inlayHints(181) 0 ms
+I[17:53:24.407] --> textDocument/clangd.fileStatus
+I[17:53:24.738] <-- clangd/inlayHints(182)
+I[17:53:24.738] --> reply:clangd/inlayHints(182) 0 ms
+I[17:53:24.739] --> textDocument/clangd.fileStatus
+I[17:53:25.059] <-- clangd/inlayHints(183)
+I[17:53:25.059] --> reply:clangd/inlayHints(183) 0 ms
+I[17:53:25.060] --> textDocument/clangd.fileStatus
+I[17:53:25.392] <-- textDocument/hover(184)
+I[17:53:25.392] --> reply:textDocument/hover(184) 0 ms
+I[17:53:25.392] --> textDocument/clangd.fileStatus
+I[17:53:25.554] <-- clangd/inlayHints(185)
+I[17:53:25.554] --> reply:clangd/inlayHints(185) 0 ms
+I[17:53:25.554] --> textDocument/clangd.fileStatus
+I[17:53:25.835] <-- clangd/inlayHints(186)
+I[17:53:25.836] --> reply:clangd/inlayHints(186) 0 ms
+I[17:53:25.836] --> textDocument/clangd.fileStatus
+I[17:53:30.512] <-- textDocument/didOpen
+I[17:53:30.512] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:30.512] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 1 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:30.513] --> textDocument/clangd.fileStatus
+I[17:53:30.533] <-- textDocument/codeAction(187)
+I[17:53:30.534] <-- textDocument/documentSymbol(188)
+I[17:53:30.561] <-- textDocument/semanticTokens/full(189)
+I[17:53:30.564] <-- textDocument/documentLink(190)
+I[17:53:30.564] <-- clangd/inlayHints(191)
+I[17:53:30.605] --> workspace/semanticTokens/refresh(5)
+I[17:53:30.606] --> textDocument/clangd.fileStatus
+I[17:53:30.606] <-- reply(5)
+I[17:53:30.619] --> textDocument/publishDiagnostics
+I[17:53:30.619] --> reply:textDocument/codeAction(187) 85 ms
+I[17:53:30.620] --> reply:textDocument/documentSymbol(188) 85 ms
+I[17:53:30.620] --> reply:textDocument/semanticTokens/full(189) 59 ms
+I[17:53:30.620] --> reply:textDocument/documentLink(190) 55 ms
+I[17:53:30.620] --> reply:clangd/inlayHints(191) 55 ms
+I[17:53:30.620] --> textDocument/clangd.fileStatus
+I[17:53:30.827] <-- textDocument/documentSymbol(192)
+I[17:53:30.827] --> reply:textDocument/documentSymbol(192) 0 ms
+I[17:53:30.827] --> textDocument/clangd.fileStatus
+I[17:53:30.873] <-- textDocument/hover(193)
+I[17:53:30.873] <-- textDocument/codeAction(194)
+I[17:53:30.873] --> reply:textDocument/hover(193) 0 ms
+I[17:53:30.873] --> reply:textDocument/codeAction(194) 0 ms
+I[17:53:30.873] --> textDocument/clangd.fileStatus
+I[17:53:30.942] <-- clangd/inlayHints(195)
+I[17:53:30.942] --> reply:clangd/inlayHints(195) 0 ms
+I[17:53:30.942] --> textDocument/clangd.fileStatus
+I[17:53:31.088] <-- textDocument/semanticTokens/full/delta(196)
+I[17:53:31.089] --> reply:textDocument/semanticTokens/full/delta(196) 0 ms
+I[17:53:31.089] --> textDocument/clangd.fileStatus
+I[17:53:31.177] <-- clangd/inlayHints(197)
+I[17:53:31.177] --> reply:clangd/inlayHints(197) 0 ms
+I[17:53:31.177] --> textDocument/clangd.fileStatus
+I[17:53:31.456] <-- clangd/inlayHints(198)
+I[17:53:31.456] --> reply:clangd/inlayHints(198) 0 ms
+I[17:53:31.456] --> textDocument/clangd.fileStatus
+I[17:53:31.698] <-- clangd/inlayHints(199)
+I[17:53:31.698] --> reply:clangd/inlayHints(199) 0 ms
+I[17:53:31.699] --> textDocument/clangd.fileStatus
+I[17:53:32.147] <-- clangd/inlayHints(200)
+I[17:53:32.147] --> reply:clangd/inlayHints(200) 0 ms
+I[17:53:32.147] --> textDocument/clangd.fileStatus
+I[17:53:33.169] <-- textDocument/codeAction(201)
+I[17:53:33.169] --> reply:textDocument/codeAction(201) 0 ms
+I[17:53:33.169] --> textDocument/clangd.fileStatus
+I[17:53:33.329] <-- textDocument/didChange
+I[17:53:33.329] --> textDocument/clangd.fileStatus
+I[17:53:33.379] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:33.379] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 2 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:33.380] --> textDocument/clangd.fileStatus
+I[17:53:33.380] --> textDocument/clangd.fileStatus
+I[17:53:33.380] --> textDocument/clangd.fileStatus
+I[17:53:33.386] --> textDocument/publishDiagnostics
+I[17:53:33.387] --> textDocument/clangd.fileStatus
+I[17:53:33.651] <-- textDocument/codeAction(202)
+I[17:53:33.651] --> reply:textDocument/codeAction(202) 0 ms
+I[17:53:33.651] --> textDocument/clangd.fileStatus
+I[17:53:33.686] <-- textDocument/documentSymbol(203)
+I[17:53:33.687] --> reply:textDocument/documentSymbol(203) 0 ms
+I[17:53:33.687] --> textDocument/clangd.fileStatus
+I[17:53:33.710] <-- textDocument/documentSymbol(204)
+I[17:53:33.710] --> reply:textDocument/documentSymbol(204) 0 ms
+I[17:53:33.711] --> textDocument/clangd.fileStatus
+I[17:53:33.779] <-- textDocument/semanticTokens/full/delta(205)
+I[17:53:33.780] --> reply:textDocument/semanticTokens/full/delta(205) 0 ms
+I[17:53:33.780] --> textDocument/clangd.fileStatus
+I[17:53:34.582] <-- clangd/inlayHints(206)
+I[17:53:34.582] --> reply:clangd/inlayHints(206) 0 ms
+I[17:53:34.583] --> textDocument/clangd.fileStatus
+I[17:53:34.832] <-- textDocument/documentLink(207)
+I[17:53:34.832] --> reply:textDocument/documentLink(207) 0 ms
+I[17:53:34.832] --> textDocument/clangd.fileStatus
+I[17:53:36.131] <-- textDocument/didChange
+I[17:53:36.131] --> textDocument/clangd.fileStatus
+I[17:53:36.152] <-- textDocument/completion(208)
+I[17:53:36.166] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[17:53:36.166] Code complete: 5 results from Sema, 100 from Index, 0 matched, 0 from identifiers, 100 returned (incomplete).
+I[17:53:36.173] --> reply:textDocument/completion(208) 20 ms
+I[17:53:36.181] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:36.182] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 3 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:36.184] --> textDocument/clangd.fileStatus
+I[17:53:36.184] --> textDocument/clangd.fileStatus
+I[17:53:36.185] --> textDocument/clangd.fileStatus
+I[17:53:36.206] --> textDocument/publishDiagnostics
+I[17:53:36.207] --> textDocument/clangd.fileStatus
+I[17:53:36.237] <-- textDocument/didChange
+I[17:53:36.237] --> textDocument/clangd.fileStatus
+I[17:53:36.239] <-- textDocument/completion(209)
+I[17:53:36.249] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[17:53:36.250] Code complete: 0 results from Sema, 87 from Index, 0 matched, 0 from identifiers, 87 returned.
+I[17:53:36.252] --> reply:textDocument/completion(209) 13 ms
+I[17:53:36.287] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:36.287] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 4 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:36.288] --> textDocument/clangd.fileStatus
+I[17:53:36.288] --> textDocument/clangd.fileStatus
+I[17:53:36.289] --> textDocument/clangd.fileStatus
+I[17:53:36.298] --> textDocument/publishDiagnostics
+I[17:53:36.298] --> textDocument/clangd.fileStatus
+I[17:53:36.332] <-- textDocument/didChange
+I[17:53:36.332] --> textDocument/clangd.fileStatus
+I[17:53:36.333] <-- textDocument/completion(210)
+I[17:53:36.337] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[17:53:36.337] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:36.337] --> reply:textDocument/completion(210) 4 ms
+I[17:53:36.382] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:36.382] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 5 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:36.384] --> textDocument/clangd.fileStatus
+I[17:53:36.384] --> textDocument/clangd.fileStatus
+I[17:53:36.384] --> textDocument/clangd.fileStatus
+I[17:53:36.391] --> textDocument/publishDiagnostics
+I[17:53:36.391] --> textDocument/clangd.fileStatus
+I[17:53:36.537] <-- textDocument/didChange
+I[17:53:36.537] --> textDocument/clangd.fileStatus
+I[17:53:36.553] <-- textDocument/completion(211)
+I[17:53:36.561] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[17:53:36.561] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:36.561] --> reply:textDocument/completion(211) 8 ms
+I[17:53:36.581] <-- textDocument/semanticTokens/full/delta(212)
+I[17:53:36.581] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:36.582] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 6 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:36.584] --> textDocument/clangd.fileStatus
+I[17:53:36.601] --> reply:textDocument/semanticTokens/full/delta(212) 20 ms
+I[17:53:36.601] Skipping rebuild of the AST for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c, inputs are the same.
+I[17:53:36.603] --> textDocument/publishDiagnostics
+I[17:53:36.604] --> textDocument/clangd.fileStatus
+I[17:53:36.863] <-- textDocument/codeAction(213)
+I[17:53:36.863] --> reply:textDocument/codeAction(213) 0 ms
+I[17:53:36.863] --> textDocument/clangd.fileStatus
+I[17:53:36.889] <-- textDocument/documentSymbol(214)
+I[17:53:36.889] --> reply:textDocument/documentSymbol(214) 0 ms
+I[17:53:36.890] --> textDocument/clangd.fileStatus
+I[17:53:36.917] <-- textDocument/documentSymbol(215)
+I[17:53:36.918] --> reply:textDocument/documentSymbol(215) 0 ms
+I[17:53:36.918] --> textDocument/clangd.fileStatus
+I[17:53:37.789] <-- clangd/inlayHints(216)
+I[17:53:37.789] --> reply:clangd/inlayHints(216) 0 ms
+I[17:53:37.789] --> textDocument/clangd.fileStatus
+I[17:53:38.039] <-- textDocument/documentLink(217)
+I[17:53:38.039] --> reply:textDocument/documentLink(217) 0 ms
+I[17:53:38.039] --> textDocument/clangd.fileStatus
+I[17:53:38.059] <-- textDocument/didChange
+I[17:53:38.059] --> textDocument/clangd.fileStatus
+I[17:53:38.075] <-- textDocument/completion(218)
+I[17:53:38.083] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[17:53:38.083] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:38.083] --> reply:textDocument/completion(218) 7 ms
+I[17:53:38.109] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:38.110] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 7 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:38.112] --> textDocument/clangd.fileStatus
+I[17:53:38.113] --> textDocument/clangd.fileStatus
+I[17:53:38.113] --> textDocument/clangd.fileStatus
+I[17:53:38.131] --> textDocument/publishDiagnostics
+I[17:53:38.132] --> textDocument/clangd.fileStatus
+I[17:53:38.369] <-- textDocument/didChange
+I[17:53:38.370] --> textDocument/clangd.fileStatus
+I[17:53:38.386] <-- textDocument/completion(219)
+I[17:53:38.393] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[17:53:38.394] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:38.394] --> reply:textDocument/completion(219) 8 ms
+I[17:53:38.411] <-- textDocument/documentSymbol(220)
+I[17:53:38.411] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:38.411] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 8 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:38.413] --> textDocument/clangd.fileStatus
+I[17:53:38.425] <-- $/cancelRequest
+I[17:53:38.434] --> reply:textDocument/documentSymbol(220) 23 ms
+I[17:53:38.434] Skipping rebuild of the AST for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c, inputs are the same.
+I[17:53:38.435] --> textDocument/publishDiagnostics
+I[17:53:38.436] --> textDocument/clangd.fileStatus
+I[17:53:38.510] <-- textDocument/semanticTokens/full/delta(221)
+I[17:53:38.510] --> reply:textDocument/semanticTokens/full/delta(221) 0 ms
+I[17:53:38.511] --> textDocument/clangd.fileStatus
+I[17:53:38.590] <-- textDocument/didChange
+I[17:53:38.590] --> textDocument/clangd.fileStatus
+I[17:53:38.603] <-- textDocument/completion(222)
+I[17:53:38.608] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[17:53:38.608] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:38.608] --> reply:textDocument/completion(222) 4 ms
+I[17:53:38.640] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:38.641] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 9 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:38.643] --> textDocument/clangd.fileStatus
+I[17:53:38.643] --> textDocument/clangd.fileStatus
+I[17:53:38.643] --> textDocument/clangd.fileStatus
+I[17:53:38.656] <-- textDocument/didChange
+I[17:53:38.660] --> textDocument/publishDiagnostics
+I[17:53:38.660] --> textDocument/clangd.fileStatus
+I[17:53:38.669] <-- textDocument/completion(223)
+I[17:53:38.677] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[17:53:38.677] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:38.677] --> reply:textDocument/completion(223) 7 ms
+I[17:53:38.706] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:38.706] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 10 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:38.708] --> textDocument/clangd.fileStatus
+I[17:53:38.708] --> textDocument/clangd.fileStatus
+I[17:53:38.709] --> textDocument/clangd.fileStatus
+I[17:53:38.723] --> textDocument/publishDiagnostics
+I[17:53:38.723] --> textDocument/clangd.fileStatus
+I[17:53:38.978] <-- textDocument/codeAction(224)
+I[17:53:38.978] --> reply:textDocument/codeAction(224) 0 ms
+I[17:53:38.978] --> textDocument/clangd.fileStatus
+I[17:53:39.008] <-- textDocument/documentSymbol(225)
+I[17:53:39.009] --> reply:textDocument/documentSymbol(225) 0 ms
+I[17:53:39.009] --> textDocument/clangd.fileStatus
+I[17:53:39.036] <-- textDocument/documentSymbol(226)
+I[17:53:39.036] --> reply:textDocument/documentSymbol(226) 0 ms
+I[17:53:39.037] --> textDocument/clangd.fileStatus
+I[17:53:39.041] <-- textDocument/semanticTokens/full/delta(227)
+I[17:53:39.041] --> reply:textDocument/semanticTokens/full/delta(227) 0 ms
+I[17:53:39.041] --> textDocument/clangd.fileStatus
+I[17:53:39.061] <-- textDocument/didChange
+I[17:53:39.061] --> textDocument/clangd.fileStatus
+I[17:53:39.076] <-- textDocument/completion(228)
+I[17:53:39.084] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[17:53:39.084] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:39.084] --> reply:textDocument/completion(228) 8 ms
+I[17:53:39.111] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:39.111] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 11 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:39.114] --> textDocument/clangd.fileStatus
+I[17:53:39.114] --> textDocument/clangd.fileStatus
+I[17:53:39.114] --> textDocument/clangd.fileStatus
+I[17:53:39.129] <-- textDocument/didChange
+I[17:53:39.131] --> textDocument/publishDiagnostics
+I[17:53:39.132] --> textDocument/clangd.fileStatus
+I[17:53:39.144] <-- textDocument/completion(229)
+I[17:53:39.148] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[17:53:39.148] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:39.148] --> reply:textDocument/completion(229) 3 ms
+I[17:53:39.179] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:39.180] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 12 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:39.182] --> textDocument/clangd.fileStatus
+I[17:53:39.182] --> textDocument/clangd.fileStatus
+I[17:53:39.183] --> textDocument/clangd.fileStatus
+I[17:53:39.199] --> textDocument/publishDiagnostics
+I[17:53:39.199] --> textDocument/clangd.fileStatus
+I[17:53:39.454] <-- textDocument/codeAction(230)
+I[17:53:39.454] --> reply:textDocument/codeAction(230) 0 ms
+I[17:53:39.454] --> textDocument/clangd.fileStatus
+I[17:53:39.480] <-- textDocument/documentSymbol(231)
+I[17:53:39.481] --> reply:textDocument/documentSymbol(231) 0 ms
+I[17:53:39.481] --> textDocument/clangd.fileStatus
+I[17:53:39.508] <-- textDocument/documentSymbol(232)
+I[17:53:39.509] --> reply:textDocument/documentSymbol(232) 0 ms
+I[17:53:39.509] --> textDocument/clangd.fileStatus
+I[17:53:39.511] <-- textDocument/semanticTokens/full/delta(233)
+I[17:53:39.512] --> reply:textDocument/semanticTokens/full/delta(233) 0 ms
+I[17:53:39.512] --> textDocument/clangd.fileStatus
+I[17:53:39.884] <-- textDocument/didChange
+I[17:53:39.884] --> textDocument/clangd.fileStatus
+I[17:53:39.887] <-- textDocument/completion(234)
+I[17:53:39.895] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:39.895] --> reply:textDocument/completion(234) 8 ms
+I[17:53:39.934] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:39.935] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 13 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:39.937] --> textDocument/clangd.fileStatus
+I[17:53:39.937] --> textDocument/clangd.fileStatus
+I[17:53:39.938] --> textDocument/clangd.fileStatus
+I[17:53:39.954] --> textDocument/publishDiagnostics
+I[17:53:39.954] --> textDocument/clangd.fileStatus
+I[17:53:40.091] <-- textDocument/didChange
+I[17:53:40.091] --> textDocument/clangd.fileStatus
+I[17:53:40.106] <-- textDocument/completion(235)
+I[17:53:40.113] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:40.113] --> reply:textDocument/completion(235) 6 ms
+I[17:53:40.141] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:40.142] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 14 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:40.143] --> textDocument/clangd.fileStatus
+I[17:53:40.144] --> textDocument/clangd.fileStatus
+I[17:53:40.144] --> textDocument/clangd.fileStatus
+I[17:53:40.159] --> textDocument/publishDiagnostics
+I[17:53:40.160] --> textDocument/clangd.fileStatus
+I[17:53:40.335] <-- textDocument/semanticTokens/full/delta(236)
+I[17:53:40.335] --> reply:textDocument/semanticTokens/full/delta(236) 0 ms
+I[17:53:40.335] --> textDocument/clangd.fileStatus
+I[17:53:40.362] <-- textDocument/didChange
+I[17:53:40.362] --> textDocument/clangd.fileStatus
+I[17:53:40.377] <-- textDocument/completion(237)
+I[17:53:40.384] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:40.384] --> reply:textDocument/completion(237) 6 ms
+I[17:53:40.412] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:40.412] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 15 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:40.415] --> textDocument/clangd.fileStatus
+I[17:53:40.415] --> textDocument/clangd.fileStatus
+I[17:53:40.415] --> textDocument/clangd.fileStatus
+I[17:53:40.432] --> textDocument/publishDiagnostics
+I[17:53:40.433] --> textDocument/clangd.fileStatus
+I[17:53:40.441] <-- textDocument/didChange
+I[17:53:40.441] --> textDocument/clangd.fileStatus
+I[17:53:40.457] <-- textDocument/completion(238)
+I[17:53:40.461] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:40.461] --> reply:textDocument/completion(238) 3 ms
+I[17:53:40.491] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:40.491] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 16 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:40.493] --> textDocument/clangd.fileStatus
+I[17:53:40.493] --> textDocument/clangd.fileStatus
+I[17:53:40.494] --> textDocument/clangd.fileStatus
+I[17:53:40.509] --> textDocument/publishDiagnostics
+I[17:53:40.509] --> textDocument/clangd.fileStatus
+I[17:53:40.763] <-- textDocument/codeAction(239)
+I[17:53:40.764] --> reply:textDocument/codeAction(239) 0 ms
+I[17:53:40.764] --> textDocument/clangd.fileStatus
+I[17:53:40.793] <-- textDocument/documentSymbol(240)
+I[17:53:40.793] --> reply:textDocument/documentSymbol(240) 0 ms
+I[17:53:40.794] --> textDocument/clangd.fileStatus
+I[17:53:40.812] <-- textDocument/semanticTokens/full/delta(241)
+I[17:53:40.813] --> reply:textDocument/semanticTokens/full/delta(241) 0 ms
+I[17:53:40.813] --> textDocument/clangd.fileStatus
+I[17:53:40.830] <-- textDocument/documentSymbol(242)
+I[17:53:40.831] --> reply:textDocument/documentSymbol(242) 0 ms
+I[17:53:40.831] --> textDocument/clangd.fileStatus
+I[17:53:40.837] <-- textDocument/didChange
+I[17:53:40.837] --> textDocument/clangd.fileStatus
+I[17:53:40.853] <-- textDocument/completion(243)
+I[17:53:40.859] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:40.859] --> reply:textDocument/completion(243) 6 ms
+I[17:53:40.880] <-- textDocument/didChange
+I[17:53:40.880] --> textDocument/clangd.fileStatus
+I[17:53:40.891] <-- textDocument/completion(244)
+I[17:53:40.896] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:40.896] --> reply:textDocument/completion(244) 4 ms
+I[17:53:40.930] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:40.930] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 18 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:40.932] --> textDocument/clangd.fileStatus
+I[17:53:40.932] --> textDocument/clangd.fileStatus
+I[17:53:40.932] --> textDocument/clangd.fileStatus
+I[17:53:40.947] --> textDocument/publishDiagnostics
+I[17:53:40.948] --> textDocument/clangd.fileStatus
+I[17:53:41.201] <-- textDocument/codeAction(245)
+I[17:53:41.201] --> reply:textDocument/codeAction(245) 0 ms
+I[17:53:41.202] --> textDocument/clangd.fileStatus
+I[17:53:41.231] <-- textDocument/documentSymbol(246)
+I[17:53:41.232] --> reply:textDocument/documentSymbol(246) 0 ms
+I[17:53:41.232] --> textDocument/clangd.fileStatus
+I[17:53:41.257] <-- textDocument/documentSymbol(247)
+I[17:53:41.258] --> reply:textDocument/documentSymbol(247) 0 ms
+I[17:53:41.258] --> textDocument/clangd.fileStatus
+I[17:53:41.287] <-- textDocument/semanticTokens/full/delta(248)
+I[17:53:41.287] --> reply:textDocument/semanticTokens/full/delta(248) 0 ms
+I[17:53:41.287] --> textDocument/clangd.fileStatus
+I[17:53:41.817] <-- textDocument/didChange
+I[17:53:41.817] --> textDocument/clangd.fileStatus
+I[17:53:41.840] <-- textDocument/didChange
+I[17:53:41.840] --> textDocument/clangd.fileStatus
+I[17:53:41.890] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:41.890] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 20 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:41.892] --> textDocument/clangd.fileStatus
+I[17:53:41.892] --> textDocument/clangd.fileStatus
+I[17:53:41.892] --> textDocument/clangd.fileStatus
+I[17:53:41.909] --> textDocument/publishDiagnostics
+I[17:53:41.910] --> textDocument/clangd.fileStatus
+I[17:53:41.938] <-- textDocument/didChange
+I[17:53:41.938] --> textDocument/clangd.fileStatus
+I[17:53:41.989] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:41.989] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 21 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:41.991] --> textDocument/clangd.fileStatus
+I[17:53:41.991] --> textDocument/clangd.fileStatus
+I[17:53:41.992] --> textDocument/clangd.fileStatus
+I[17:53:42.009] --> textDocument/publishDiagnostics
+I[17:53:42.009] --> textDocument/clangd.fileStatus
+I[17:53:42.263] <-- textDocument/codeAction(249)
+I[17:53:42.264] --> reply:textDocument/codeAction(249) 0 ms
+I[17:53:42.264] --> textDocument/clangd.fileStatus
+I[17:53:42.267] <-- textDocument/semanticTokens/full/delta(250)
+I[17:53:42.268] --> reply:textDocument/semanticTokens/full/delta(250) 0 ms
+I[17:53:42.268] --> textDocument/clangd.fileStatus
+I[17:53:42.290] <-- textDocument/documentSymbol(251)
+I[17:53:42.290] --> reply:textDocument/documentSymbol(251) 0 ms
+I[17:53:42.290] --> textDocument/clangd.fileStatus
+I[17:53:42.318] <-- textDocument/documentSymbol(252)
+I[17:53:42.319] --> reply:textDocument/documentSymbol(252) 0 ms
+I[17:53:42.319] --> textDocument/clangd.fileStatus
+I[17:53:43.042] <-- textDocument/didChange
+I[17:53:43.042] --> textDocument/clangd.fileStatus
+I[17:53:43.059] <-- textDocument/completion(253)
+I[17:53:43.067] Code complete: sema context Expression, query scopes [] (AnyScope=true), expected type <none>
+I[17:53:43.068] Code complete: 1 results from Sema, 100 from Index, 0 matched, 0 from identifiers, 100 returned (incomplete).
+I[17:53:43.070] --> reply:textDocument/completion(253) 10 ms
+I[17:53:43.092] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:43.092] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 22 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:43.094] --> textDocument/clangd.fileStatus
+I[17:53:43.094] --> textDocument/clangd.fileStatus
+I[17:53:43.095] --> textDocument/clangd.fileStatus
+I[17:53:43.111] --> textDocument/publishDiagnostics
+I[17:53:43.112] --> textDocument/clangd.fileStatus
+I[17:53:43.193] <-- textDocument/didChange
+I[17:53:43.193] --> textDocument/clangd.fileStatus
+I[17:53:43.194] <-- textDocument/completion(254)
+I[17:53:43.199] Code complete: sema context Expression, query scopes [] (AnyScope=true), expected type <none>
+I[17:53:43.199] Code complete: 0 results from Sema, 88 from Index, 0 matched, 0 from identifiers, 88 returned.
+I[17:53:43.200] --> reply:textDocument/completion(254) 5 ms
+I[17:53:43.243] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:43.244] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 23 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:43.245] --> textDocument/clangd.fileStatus
+I[17:53:43.245] --> textDocument/clangd.fileStatus
+I[17:53:43.246] --> textDocument/clangd.fileStatus
+I[17:53:43.260] --> textDocument/publishDiagnostics
+I[17:53:43.260] --> textDocument/clangd.fileStatus
+I[17:53:43.327] <-- textDocument/didChange
+I[17:53:43.327] --> textDocument/clangd.fileStatus
+I[17:53:43.328] <-- textDocument/completion(255)
+I[17:53:43.337] Code complete: sema context Expression, query scopes [] (AnyScope=true), expected type <none>
+I[17:53:43.337] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:43.337] --> reply:textDocument/completion(255) 9 ms
+I[17:53:43.377] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:43.377] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 24 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:43.379] --> textDocument/clangd.fileStatus
+I[17:53:43.380] --> textDocument/clangd.fileStatus
+I[17:53:43.380] --> textDocument/clangd.fileStatus
+I[17:53:43.401] --> textDocument/publishDiagnostics
+I[17:53:43.401] --> textDocument/clangd.fileStatus
+I[17:53:43.492] <-- textDocument/semanticTokens/full/delta(256)
+I[17:53:43.493] --> reply:textDocument/semanticTokens/full/delta(256) 0 ms
+I[17:53:43.493] --> textDocument/clangd.fileStatus
+I[17:53:43.536] <-- textDocument/didChange
+I[17:53:43.536] --> textDocument/clangd.fileStatus
+I[17:53:43.552] <-- textDocument/completion(257)
+I[17:53:43.556] Code complete: sema context Expression, query scopes [] (AnyScope=true), expected type <none>
+I[17:53:43.556] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:43.556] --> reply:textDocument/completion(257) 4 ms
+I[17:53:43.586] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:43.586] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 25 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:43.589] --> textDocument/clangd.fileStatus
+I[17:53:43.589] --> textDocument/clangd.fileStatus
+I[17:53:43.589] --> textDocument/clangd.fileStatus
+I[17:53:43.607] --> textDocument/publishDiagnostics
+I[17:53:43.607] --> textDocument/clangd.fileStatus
+I[17:53:43.862] <-- textDocument/codeAction(258)
+I[17:53:43.862] --> reply:textDocument/codeAction(258) 0 ms
+I[17:53:43.862] --> textDocument/clangd.fileStatus
+I[17:53:43.888] <-- textDocument/documentSymbol(259)
+I[17:53:43.888] --> reply:textDocument/documentSymbol(259) 0 ms
+I[17:53:43.888] --> textDocument/clangd.fileStatus
+I[17:53:43.915] <-- textDocument/documentSymbol(260)
+I[17:53:43.915] --> reply:textDocument/documentSymbol(260) 0 ms
+I[17:53:43.916] --> textDocument/clangd.fileStatus
+I[17:53:43.986] <-- textDocument/semanticTokens/full/delta(261)
+I[17:53:43.987] --> reply:textDocument/semanticTokens/full/delta(261) 0 ms
+I[17:53:43.987] --> textDocument/clangd.fileStatus
+I[17:53:44.516] <-- textDocument/didChange
+I[17:53:44.516] --> textDocument/clangd.fileStatus
+I[17:53:44.533] <-- textDocument/completion(262)
+I[17:53:44.542] Code complete: sema context Expression, query scopes [] (AnyScope=true), expected type <none>
+I[17:53:44.542] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:44.542] --> reply:textDocument/completion(262) 8 ms
+I[17:53:44.566] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:44.567] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 26 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:44.569] --> textDocument/clangd.fileStatus
+I[17:53:44.569] --> textDocument/clangd.fileStatus
+I[17:53:44.570] --> textDocument/clangd.fileStatus
+I[17:53:44.587] --> textDocument/publishDiagnostics
+I[17:53:44.588] --> textDocument/clangd.fileStatus
+I[17:53:44.842] <-- textDocument/codeAction(263)
+I[17:53:44.843] --> reply:textDocument/codeAction(263) 0 ms
+I[17:53:44.843] --> textDocument/clangd.fileStatus
+I[17:53:44.868] <-- textDocument/documentSymbol(264)
+I[17:53:44.868] --> reply:textDocument/documentSymbol(264) 0 ms
+I[17:53:44.869] --> textDocument/clangd.fileStatus
+I[17:53:44.895] <-- textDocument/documentSymbol(265)
+I[17:53:44.896] --> reply:textDocument/documentSymbol(265) 0 ms
+I[17:53:44.896] --> textDocument/clangd.fileStatus
+I[17:53:44.966] <-- textDocument/semanticTokens/full/delta(266)
+I[17:53:44.967] --> reply:textDocument/semanticTokens/full/delta(266) 0 ms
+I[17:53:44.967] --> textDocument/clangd.fileStatus
+I[17:53:45.235] <-- textDocument/didChange
+I[17:53:45.235] --> textDocument/clangd.fileStatus
+I[17:53:45.250] <-- textDocument/completion(267)
+I[17:53:45.258] Code complete: sema context Expression, query scopes [] (AnyScope=true), expected type <none>
+I[17:53:45.259] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:45.259] --> reply:textDocument/completion(267) 8 ms
+I[17:53:45.285] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:45.285] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 27 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:45.287] --> textDocument/clangd.fileStatus
+I[17:53:45.287] --> textDocument/clangd.fileStatus
+I[17:53:45.288] --> textDocument/clangd.fileStatus
+I[17:53:45.307] --> textDocument/publishDiagnostics
+I[17:53:45.308] --> textDocument/clangd.fileStatus
+I[17:53:45.516] <-- textDocument/didChange
+I[17:53:45.516] --> textDocument/clangd.fileStatus
+I[17:53:45.532] <-- textDocument/completion(268)
+I[17:53:45.536] Code complete: sema context Expression, query scopes [] (AnyScope=true), expected type <none>
+I[17:53:45.536] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:45.536] --> reply:textDocument/completion(268) 3 ms
+I[17:53:45.566] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:45.566] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 28 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:45.568] --> textDocument/clangd.fileStatus
+I[17:53:45.568] --> textDocument/clangd.fileStatus
+I[17:53:45.569] --> textDocument/clangd.fileStatus
+I[17:53:45.584] --> textDocument/publishDiagnostics
+I[17:53:45.585] --> textDocument/clangd.fileStatus
+I[17:53:45.619] <-- textDocument/didChange
+I[17:53:45.619] --> textDocument/clangd.fileStatus
+I[17:53:45.633] <-- textDocument/completion(269)
+I[17:53:45.637] Code complete: sema context Expression, query scopes [] (AnyScope=true), expected type <none>
+I[17:53:45.637] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:45.637] --> reply:textDocument/completion(269) 4 ms
+I[17:53:45.667] <-- textDocument/didChange
+I[17:53:45.667] --> textDocument/clangd.fileStatus
+I[17:53:45.683] <-- textDocument/completion(270)
+I[17:53:45.685] <-- textDocument/semanticTokens/full/delta(271)
+I[17:53:45.685] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:45.685] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 30 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:45.687] --> textDocument/clangd.fileStatus
+I[17:53:45.690] Code complete: sema context Expression, query scopes [] (AnyScope=true), expected type <none>
+I[17:53:45.690] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:53:45.690] --> reply:textDocument/completion(270) 7 ms
+I[17:53:45.703] --> reply:textDocument/semanticTokens/full/delta(271) 18 ms
+I[17:53:45.703] Skipping rebuild of the AST for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c, inputs are the same.
+I[17:53:45.705] --> textDocument/publishDiagnostics
+I[17:53:45.706] --> textDocument/clangd.fileStatus
+I[17:53:45.960] <-- textDocument/codeAction(272)
+I[17:53:45.960] --> reply:textDocument/codeAction(272) 0 ms
+I[17:53:45.960] --> textDocument/clangd.fileStatus
+I[17:53:46.018] <-- textDocument/documentSymbol(273)
+I[17:53:46.019] --> reply:textDocument/documentSymbol(273) 0 ms
+I[17:53:46.019] --> textDocument/clangd.fileStatus
+I[17:53:46.046] <-- textDocument/documentSymbol(274)
+I[17:53:46.047] --> reply:textDocument/documentSymbol(274) 0 ms
+I[17:53:46.047] --> textDocument/clangd.fileStatus
+I[17:53:46.215] <-- textDocument/didChange
+I[17:53:46.215] --> textDocument/clangd.fileStatus
+I[17:53:46.265] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:46.266] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 31 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:46.268] --> textDocument/clangd.fileStatus
+I[17:53:46.268] --> textDocument/clangd.fileStatus
+I[17:53:46.269] --> textDocument/clangd.fileStatus
+I[17:53:46.287] --> textDocument/publishDiagnostics
+I[17:53:46.288] --> textDocument/clangd.fileStatus
+I[17:53:46.567] <-- textDocument/codeAction(275)
+I[17:53:46.567] <-- textDocument/documentSymbol(276)
+I[17:53:46.567] --> reply:textDocument/codeAction(275) 0 ms
+I[17:53:46.568] --> reply:textDocument/documentSymbol(276) 0 ms
+I[17:53:46.568] --> textDocument/clangd.fileStatus
+I[17:53:46.568] <-- textDocument/formatting(277)
+I[17:53:46.572] --> reply:textDocument/formatting(277) 3 ms
+I[17:53:46.582] <-- textDocument/didChange
+I[17:53:46.582] --> textDocument/clangd.fileStatus
+I[17:53:46.609] <-- textDocument/didSave
+I[17:53:46.609] File version went from 32 to 32
+I[17:53:46.609] File version went from 3 to 3
+I[17:53:46.609] --> textDocument/clangd.fileStatus
+I[17:53:46.610] --> textDocument/clangd.fileStatus
+I[17:53:46.660] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:46.660] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c
+I[17:53:46.660] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c version 3 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c
+I[17:53:46.660] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 32 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:53:46.662] --> textDocument/clangd.fileStatus
+I[17:53:46.662] --> textDocument/clangd.fileStatus
+I[17:53:46.662] --> textDocument/clangd.fileStatus
+I[17:53:46.662] --> textDocument/clangd.fileStatus
+I[17:53:46.662] --> textDocument/clangd.fileStatus
+I[17:53:46.662] --> textDocument/clangd.fileStatus
+I[17:53:46.665] <-- textDocument/semanticTokens/full/delta(278)
+I[17:53:46.665] --> textDocument/clangd.fileStatus
+I[17:53:46.679] --> reply:textDocument/semanticTokens/full/delta(278) 14 ms
+I[17:53:46.679] --> textDocument/clangd.fileStatus
+I[17:53:46.796] --> workspace/semanticTokens/refresh(6)
+I[17:53:46.796] --> textDocument/clangd.fileStatus
+I[17:53:46.797] <-- reply(6)
+I[17:53:46.798] <-- textDocument/semanticTokens/full/delta(279)
+I[17:53:46.810] --> textDocument/publishDiagnostics
+I[17:53:46.812] --> reply:textDocument/semanticTokens/full/delta(279) 13 ms
+I[17:53:46.812] --> textDocument/clangd.fileStatus
+I[17:53:46.932] <-- textDocument/documentSymbol(280)
+I[17:53:46.933] --> reply:textDocument/documentSymbol(280) 0 ms
+I[17:53:46.933] --> textDocument/clangd.fileStatus
+I[17:53:47.004] <-- textDocument/documentSymbol(281)
+I[17:53:47.005] --> reply:textDocument/documentSymbol(281) 0 ms
+I[17:53:47.005] --> textDocument/clangd.fileStatus
+I[17:53:47.065] <-- textDocument/codeAction(282)
+I[17:53:47.065] --> reply:textDocument/codeAction(282) 0 ms
+I[17:53:47.065] --> textDocument/clangd.fileStatus
+I[17:53:47.832] <-- clangd/inlayHints(283)
+I[17:53:47.832] --> reply:clangd/inlayHints(283) 0 ms
+I[17:53:47.833] --> textDocument/clangd.fileStatus
+I[17:53:48.082] <-- textDocument/documentLink(284)
+I[17:53:48.082] --> reply:textDocument/documentLink(284) 0 ms
+I[17:53:48.082] --> textDocument/clangd.fileStatus
+I[17:53:52.724] <-- clangd/inlayHints(285)
+I[17:53:52.725] --> reply:clangd/inlayHints(285) 0 ms
+I[17:53:52.725] --> textDocument/clangd.fileStatus
+I[17:53:52.766] <-- clangd/inlayHints(286)
+I[17:53:52.766] --> reply:clangd/inlayHints(286) 0 ms
+I[17:53:52.766] --> textDocument/clangd.fileStatus
+I[17:53:53.197] <-- clangd/inlayHints(287)
+I[17:53:53.197] --> reply:clangd/inlayHints(287) 0 ms
+I[17:53:53.197] --> textDocument/clangd.fileStatus
+I[17:53:53.240] <-- clangd/inlayHints(288)
+I[17:53:53.240] --> reply:clangd/inlayHints(288) 0 ms
+I[17:53:53.240] --> textDocument/clangd.fileStatus
+I[17:53:55.182] <-- clangd/inlayHints(289)
+I[17:53:55.182] --> reply:clangd/inlayHints(289) 0 ms
+I[17:53:55.182] --> textDocument/clangd.fileStatus
+I[17:53:55.278] <-- clangd/inlayHints(290)
+I[17:53:55.279] --> reply:clangd/inlayHints(290) 0 ms
+I[17:53:55.279] --> textDocument/clangd.fileStatus
+I[17:53:56.253] <-- clangd/inlayHints(291)
+I[17:53:56.254] --> reply:clangd/inlayHints(291) 0 ms
+I[17:53:56.254] --> textDocument/clangd.fileStatus
+I[17:53:56.303] <-- clangd/inlayHints(292)
+I[17:53:56.303] --> reply:clangd/inlayHints(292) 0 ms
+I[17:53:56.303] --> textDocument/clangd.fileStatus
+I[17:53:56.357] <-- clangd/inlayHints(293)
+I[17:53:56.357] --> reply:clangd/inlayHints(293) 0 ms
+I[17:53:56.357] --> textDocument/clangd.fileStatus
+I[17:53:56.640] <-- clangd/inlayHints(294)
+I[17:53:56.641] --> reply:clangd/inlayHints(294) 0 ms
+I[17:53:56.641] --> textDocument/clangd.fileStatus
+I[17:53:57.086] <-- clangd/inlayHints(295)
+I[17:53:57.087] --> reply:clangd/inlayHints(295) 0 ms
+I[17:53:57.087] --> textDocument/clangd.fileStatus
+I[17:53:57.586] <-- clangd/inlayHints(296)
+I[17:53:57.586] --> reply:clangd/inlayHints(296) 0 ms
+I[17:53:57.586] --> textDocument/clangd.fileStatus
+I[17:53:57.626] <-- clangd/inlayHints(297)
+I[17:53:57.626] --> reply:clangd/inlayHints(297) 0 ms
+I[17:53:57.627] --> textDocument/clangd.fileStatus
+I[17:53:58.015] <-- clangd/inlayHints(298)
+I[17:53:58.016] --> reply:clangd/inlayHints(298) 0 ms
+I[17:53:58.016] --> textDocument/clangd.fileStatus
+I[17:53:58.323] <-- clangd/inlayHints(299)
+I[17:53:58.323] --> reply:clangd/inlayHints(299) 0 ms
+I[17:53:58.323] --> textDocument/clangd.fileStatus
+I[17:53:58.634] <-- clangd/inlayHints(300)
+I[17:53:58.634] --> reply:clangd/inlayHints(300) 0 ms
+I[17:53:58.634] --> textDocument/clangd.fileStatus
+I[17:54:16.456] <-- textDocument/documentHighlight(301)
+I[17:54:16.456] --> reply:textDocument/documentHighlight(301) 0 ms
+I[17:54:16.456] --> textDocument/clangd.fileStatus
+I[17:54:16.779] <-- textDocument/codeAction(302)
+I[17:54:16.779] --> reply:textDocument/codeAction(302) 0 ms
+I[17:54:16.779] --> textDocument/clangd.fileStatus
+I[17:54:16.839] <-- textDocument/hover(303)
+I[17:54:16.839] --> reply:textDocument/hover(303) 0 ms
+I[17:54:16.839] --> textDocument/clangd.fileStatus
+I[17:54:16.977] <-- textDocument/codeAction(304)
+I[17:54:16.977] --> reply:textDocument/codeAction(304) 0 ms
+I[17:54:16.977] --> textDocument/clangd.fileStatus
+I[17:54:17.830] <-- textDocument/codeAction(305)
+I[17:54:17.830] --> reply:textDocument/codeAction(305) 0 ms
+I[17:54:17.830] --> textDocument/clangd.fileStatus
+I[17:54:17.946] <-- textDocument/didChange
+I[17:54:17.946] --> textDocument/clangd.fileStatus
+I[17:54:17.997] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:54:17.997] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 33 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:54:17.999] --> textDocument/clangd.fileStatus
+I[17:54:17.999] --> textDocument/clangd.fileStatus
+I[17:54:17.999] --> textDocument/clangd.fileStatus
+I[17:54:18.013] --> textDocument/publishDiagnostics
+I[17:54:18.013] --> textDocument/clangd.fileStatus
+I[17:54:18.092] <-- textDocument/didChange
+I[17:54:18.092] --> textDocument/clangd.fileStatus
+I[17:54:18.143] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:54:18.143] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 34 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:54:18.144] --> textDocument/clangd.fileStatus
+I[17:54:18.144] --> textDocument/clangd.fileStatus
+I[17:54:18.144] --> textDocument/clangd.fileStatus
+I[17:54:18.162] --> textDocument/publishDiagnostics
+I[17:54:18.163] --> textDocument/clangd.fileStatus
+I[17:54:18.235] <-- textDocument/didChange
+I[17:54:18.235] --> textDocument/clangd.fileStatus
+I[17:54:18.285] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:54:18.285] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 35 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:54:18.288] --> textDocument/clangd.fileStatus
+I[17:54:18.288] --> textDocument/clangd.fileStatus
+I[17:54:18.288] --> textDocument/clangd.fileStatus
+I[17:54:18.306] --> textDocument/publishDiagnostics
+I[17:54:18.307] --> textDocument/clangd.fileStatus
+I[17:54:18.323] <-- textDocument/didChange
+I[17:54:18.323] --> textDocument/clangd.fileStatus
+I[17:54:18.373] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:54:18.374] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 36 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:54:18.376] --> textDocument/clangd.fileStatus
+I[17:54:18.376] --> textDocument/clangd.fileStatus
+I[17:54:18.377] --> textDocument/clangd.fileStatus
+I[17:54:18.385] --> textDocument/publishDiagnostics
+I[17:54:18.385] --> textDocument/clangd.fileStatus
+I[17:54:18.396] <-- textDocument/semanticTokens/full/delta(306)
+I[17:54:18.397] --> reply:textDocument/semanticTokens/full/delta(306) 0 ms
+I[17:54:18.397] --> textDocument/clangd.fileStatus
+I[17:54:18.640] <-- textDocument/codeAction(307)
+I[17:54:18.640] --> reply:textDocument/codeAction(307) 0 ms
+I[17:54:18.640] --> textDocument/clangd.fileStatus
+I[17:54:18.674] <-- textDocument/documentSymbol(308)
+I[17:54:18.675] --> reply:textDocument/documentSymbol(308) 0 ms
+I[17:54:18.675] --> textDocument/clangd.fileStatus
+I[17:54:18.712] <-- textDocument/documentSymbol(309)
+I[17:54:18.713] --> reply:textDocument/documentSymbol(309) 0 ms
+I[17:54:18.713] --> textDocument/clangd.fileStatus
+I[17:54:18.811] <-- textDocument/didChange
+I[17:54:18.811] --> textDocument/clangd.fileStatus
+I[17:54:18.826] <-- textDocument/completion(310)
+I[17:54:18.836] Code complete: sema context Expression, query scopes [] (AnyScope=true), expected type <none>
+I[17:54:18.836] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:54:18.836] --> reply:textDocument/completion(310) 10 ms
+I[17:54:18.861] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:54:18.861] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 37 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:54:18.864] --> textDocument/clangd.fileStatus
+I[17:54:18.864] --> textDocument/clangd.fileStatus
+I[17:54:18.864] --> textDocument/clangd.fileStatus
+I[17:54:18.880] --> textDocument/publishDiagnostics
+I[17:54:18.881] --> textDocument/clangd.fileStatus
+I[17:54:19.084] <-- textDocument/didChange
+I[17:54:19.084] --> textDocument/clangd.fileStatus
+I[17:54:19.099] <-- textDocument/completion(311)
+I[17:54:19.104] Code complete: sema context Expression, query scopes [] (AnyScope=true), expected type <none>
+I[17:54:19.105] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:54:19.105] --> reply:textDocument/completion(311) 5 ms
+I[17:54:19.134] <-- textDocument/didChange
+I[17:54:19.134] --> textDocument/clangd.fileStatus
+I[17:54:19.149] <-- textDocument/completion(312)
+I[17:54:19.157] Code complete: sema context Expression, query scopes [] (AnyScope=true), expected type <none>
+I[17:54:19.157] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:54:19.157] --> reply:textDocument/completion(312) 7 ms
+I[17:54:19.162] <-- textDocument/documentSymbol(313)
+I[17:54:19.162] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:54:19.162] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 39 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:54:19.165] --> textDocument/clangd.fileStatus
+I[17:54:19.184] --> reply:textDocument/documentSymbol(313) 21 ms
+I[17:54:19.184] Skipping rebuild of the AST for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c, inputs are the same.
+I[17:54:19.185] <-- $/cancelRequest
+I[17:54:19.186] --> textDocument/publishDiagnostics
+I[17:54:19.186] --> textDocument/clangd.fileStatus
+I[17:54:19.261] <-- textDocument/semanticTokens/full/delta(314)
+I[17:54:19.262] --> reply:textDocument/semanticTokens/full/delta(314) 0 ms
+I[17:54:19.262] --> textDocument/clangd.fileStatus
+I[17:54:19.395] <-- textDocument/didChange
+I[17:54:19.395] --> textDocument/clangd.fileStatus
+I[17:54:19.409] <-- textDocument/completion(315)
+I[17:54:19.418] Code complete: sema context Expression, query scopes [] (AnyScope=true), expected type <none>
+I[17:54:19.418] Code complete: 0 results from Sema, 0 from Index, 0 matched, 0 from identifiers, 0 returned.
+I[17:54:19.418] --> reply:textDocument/completion(315) 9 ms
+I[17:54:19.445] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:54:19.446] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 40 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:54:19.448] --> textDocument/clangd.fileStatus
+I[17:54:19.448] --> textDocument/clangd.fileStatus
+I[17:54:19.449] --> textDocument/clangd.fileStatus
+I[17:54:19.466] --> textDocument/publishDiagnostics
+I[17:54:19.467] --> textDocument/clangd.fileStatus
+I[17:54:19.722] <-- textDocument/codeAction(316)
+I[17:54:19.722] --> reply:textDocument/codeAction(316) 0 ms
+I[17:54:19.722] --> textDocument/clangd.fileStatus
+I[17:54:19.747] <-- textDocument/documentSymbol(317)
+I[17:54:19.747] --> reply:textDocument/documentSymbol(317) 0 ms
+I[17:54:19.747] --> textDocument/clangd.fileStatus
+I[17:54:19.774] <-- textDocument/documentSymbol(318)
+I[17:54:19.774] --> reply:textDocument/documentSymbol(318) 0 ms
+I[17:54:19.775] --> textDocument/clangd.fileStatus
+I[17:54:19.840] <-- textDocument/formatting(319)
+I[17:54:19.846] <-- textDocument/semanticTokens/full/delta(320)
+I[17:54:19.846] --> reply:textDocument/formatting(319) 5 ms
+I[17:54:19.846] --> reply:textDocument/semanticTokens/full/delta(320) 0 ms
+I[17:54:19.846] --> textDocument/clangd.fileStatus
+I[17:54:19.872] <-- textDocument/didSave
+I[17:54:19.872] File version went from 40 to 40
+I[17:54:19.872] File version went from 3 to 3
+I[17:54:19.872] --> textDocument/clangd.fileStatus
+I[17:54:19.872] --> textDocument/clangd.fileStatus
+I[17:54:19.922] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:54:19.922] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c
+I[17:54:19.923] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 40 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[17:54:19.923] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c version 3 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/monitor.c
+I[17:54:19.924] --> textDocument/clangd.fileStatus
+I[17:54:19.924] --> textDocument/clangd.fileStatus
+I[17:54:19.924] --> textDocument/clangd.fileStatus
+I[17:54:19.924] --> textDocument/clangd.fileStatus
+I[17:54:19.925] --> textDocument/clangd.fileStatus
+I[17:54:19.925] --> textDocument/clangd.fileStatus
+I[17:54:19.925] --> textDocument/clangd.fileStatus
+I[17:54:19.925] --> textDocument/clangd.fileStatus
+I[17:54:20.648] <-- clangd/inlayHints(321)
+I[17:54:20.648] --> reply:clangd/inlayHints(321) 0 ms
+I[17:54:20.648] --> textDocument/clangd.fileStatus
+I[17:54:20.896] <-- textDocument/documentLink(322)
+I[17:54:20.897] --> reply:textDocument/documentLink(322) 0 ms
+I[17:54:20.897] --> textDocument/clangd.fileStatus
+I[17:54:23.097] <-- clangd/inlayHints(323)
+I[17:54:23.097] --> reply:clangd/inlayHints(323) 0 ms
+I[17:54:23.097] --> textDocument/clangd.fileStatus
+I[17:54:26.705] <-- clangd/inlayHints(324)
+I[17:54:26.705] --> reply:clangd/inlayHints(324) 0 ms
+I[17:54:26.705] --> textDocument/clangd.fileStatus
+I[17:54:30.158] <-- textDocument/documentHighlight(325)
+I[17:54:30.159] --> reply:textDocument/documentHighlight(325) 0 ms
+I[17:54:30.159] --> textDocument/clangd.fileStatus
+I[17:54:58.334] <-- textDocument/codeAction(326)
+I[17:54:58.335] --> reply:textDocument/codeAction(326) 0 ms
+I[17:54:58.335] --> textDocument/clangd.fileStatus
+I[17:54:58.378] <-- textDocument/documentLink(327)
+I[17:54:58.378] --> reply:textDocument/documentLink(327) 0 ms
+I[17:54:58.378] --> textDocument/clangd.fileStatus
+I[17:54:58.391] <-- clangd/inlayHints(328)
+I[17:54:58.392] --> reply:clangd/inlayHints(328) 0 ms
+I[17:54:58.392] --> textDocument/clangd.fileStatus
+I[17:54:58.596] <-- textDocument/codeAction(329)
+I[17:54:58.596] --> reply:textDocument/codeAction(329) 0 ms
+I[17:54:58.596] --> textDocument/clangd.fileStatus
+I[17:54:58.659] <-- textDocument/documentSymbol(330)
+I[17:54:58.660] --> reply:textDocument/documentSymbol(330) 0 ms
+I[17:54:58.660] --> textDocument/clangd.fileStatus
+I[17:54:58.762] <-- textDocument/semanticTokens/full/delta(331)
+I[17:54:58.763] --> reply:textDocument/semanticTokens/full/delta(331) 0 ms
+I[17:54:58.763] --> textDocument/clangd.fileStatus
+I[17:54:58.804] <-- clangd/inlayHints(332)
+I[17:54:58.805] --> reply:clangd/inlayHints(332) 0 ms
+I[17:54:58.805] --> textDocument/clangd.fileStatus
+I[17:54:59.157] <-- clangd/inlayHints(333)
+I[17:54:59.157] --> reply:clangd/inlayHints(333) 0 ms
+I[17:54:59.157] --> textDocument/clangd.fileStatus
+I[17:54:59.757] <-- clangd/inlayHints(334)
+I[17:54:59.758] --> reply:clangd/inlayHints(334) 0 ms
+I[17:54:59.758] --> textDocument/clangd.fileStatus
+I[17:54:59.806] <-- clangd/inlayHints(335)
+I[17:54:59.806] --> reply:clangd/inlayHints(335) 0 ms
+I[17:54:59.806] --> textDocument/clangd.fileStatus
+I[17:55:00.357] <-- clangd/inlayHints(336)
+I[17:55:00.357] --> reply:clangd/inlayHints(336) 0 ms
+I[17:55:00.357] --> textDocument/clangd.fileStatus
+I[17:55:00.424] <-- clangd/inlayHints(337)
+I[17:55:00.424] --> reply:clangd/inlayHints(337) 0 ms
+I[17:55:00.424] --> textDocument/clangd.fileStatus
+I[17:55:01.010] <-- clangd/inlayHints(338)
+I[17:55:01.010] --> reply:clangd/inlayHints(338) 0 ms
+I[17:55:01.010] --> textDocument/clangd.fileStatus
+I[17:55:01.503] <-- textDocument/codeAction(339)
+I[17:55:01.503] --> reply:textDocument/codeAction(339) 0 ms
+I[17:55:01.503] --> textDocument/clangd.fileStatus
+I[17:55:01.532] <-- textDocument/documentLink(340)
+I[17:55:01.532] --> reply:textDocument/documentLink(340) 0 ms
+I[17:55:01.532] --> textDocument/clangd.fileStatus
+I[17:55:01.537] <-- textDocument/documentHighlight(341)
+I[17:55:01.537] --> reply:textDocument/documentHighlight(341) 0 ms
+I[17:55:01.537] --> textDocument/clangd.fileStatus
+I[17:55:01.557] <-- clangd/inlayHints(342)
+I[17:55:01.557] --> reply:clangd/inlayHints(342) 0 ms
+I[17:55:01.557] --> textDocument/clangd.fileStatus
+I[17:55:01.745] <-- textDocument/codeAction(343)
+I[17:55:01.745] --> reply:textDocument/codeAction(343) 0 ms
+I[17:55:01.745] --> textDocument/clangd.fileStatus
+I[17:55:01.793] <-- textDocument/documentSymbol(344)
+I[17:55:01.793] --> reply:textDocument/documentSymbol(344) 0 ms
+I[17:55:01.793] --> textDocument/clangd.fileStatus
+I[17:55:01.938] <-- textDocument/semanticTokens/full/delta(345)
+I[17:55:01.938] --> reply:textDocument/semanticTokens/full/delta(345) 0 ms
+I[17:55:01.938] --> textDocument/clangd.fileStatus
+I[17:55:02.077] <-- textDocument/hover(346)
+I[17:55:02.078] --> reply:textDocument/hover(346) 0 ms
+I[17:55:02.078] --> textDocument/clangd.fileStatus
+I[17:55:03.504] <-- clangd/inlayHints(347)
+I[17:55:03.505] --> reply:clangd/inlayHints(347) 0 ms
+I[17:55:03.505] --> textDocument/clangd.fileStatus
+I[17:55:03.575] <-- clangd/inlayHints(348)
+I[17:55:03.575] --> reply:clangd/inlayHints(348) 0 ms
+I[17:55:03.575] --> textDocument/clangd.fileStatus
+I[17:55:03.974] <-- clangd/inlayHints(349)
+I[17:55:03.974] --> reply:clangd/inlayHints(349) 0 ms
+I[17:55:03.974] --> textDocument/clangd.fileStatus
+I[17:55:04.017] <-- clangd/inlayHints(350)
+I[17:55:04.017] --> reply:clangd/inlayHints(350) 0 ms
+I[17:55:04.017] --> textDocument/clangd.fileStatus
+I[17:55:04.062] <-- clangd/inlayHints(351)
+I[17:55:04.063] --> reply:clangd/inlayHints(351) 0 ms
+I[17:55:04.063] --> textDocument/clangd.fileStatus
+I[17:55:04.108] <-- clangd/inlayHints(352)
+I[17:55:04.108] --> reply:clangd/inlayHints(352) 0 ms
+I[17:55:04.108] --> textDocument/clangd.fileStatus
+I[17:55:04.398] <-- clangd/inlayHints(353)
+I[17:55:04.398] --> reply:clangd/inlayHints(353) 0 ms
+I[17:55:04.398] --> textDocument/clangd.fileStatus
+I[17:55:06.167] <-- textDocument/documentHighlight(354)
+I[17:55:06.168] --> reply:textDocument/documentHighlight(354) 0 ms
+I[17:55:06.168] --> textDocument/clangd.fileStatus
+I[17:55:06.174] <-- textDocument/codeAction(355)
+I[17:55:06.174] --> reply:textDocument/codeAction(355) 0 ms
+I[17:55:06.174] --> textDocument/clangd.fileStatus
+I[17:55:06.225] <-- textDocument/documentLink(356)
+I[17:55:06.226] --> reply:textDocument/documentLink(356) 0 ms
+I[17:55:06.226] --> textDocument/clangd.fileStatus
+I[17:55:06.238] <-- clangd/inlayHints(357)
+I[17:55:06.238] --> reply:clangd/inlayHints(357) 0 ms
+I[17:55:06.238] --> textDocument/clangd.fileStatus
+I[17:55:06.429] <-- textDocument/codeAction(358)
+I[17:55:06.429] --> reply:textDocument/codeAction(358) 0 ms
+I[17:55:06.429] --> textDocument/clangd.fileStatus
+I[17:55:06.472] <-- textDocument/documentSymbol(359)
+I[17:55:06.472] --> reply:textDocument/documentSymbol(359) 0 ms
+I[17:55:06.473] --> textDocument/clangd.fileStatus
+I[17:55:06.612] <-- textDocument/semanticTokens/full/delta(360)
+I[17:55:06.613] --> reply:textDocument/semanticTokens/full/delta(360) 0 ms
+I[17:55:06.613] --> textDocument/clangd.fileStatus
+I[17:55:07.308] <-- clangd/inlayHints(361)
+I[17:55:07.308] --> reply:clangd/inlayHints(361) 0 ms
+I[17:55:07.308] --> textDocument/clangd.fileStatus
+I[17:55:07.396] <-- clangd/inlayHints(362)
+I[17:55:07.397] --> reply:clangd/inlayHints(362) 0 ms
+I[17:55:07.397] --> textDocument/clangd.fileStatus
+I[17:55:07.467] <-- clangd/inlayHints(363)
+I[17:55:07.467] --> reply:clangd/inlayHints(363) 0 ms
+I[17:55:07.467] --> textDocument/clangd.fileStatus
+I[17:55:08.195] <-- clangd/inlayHints(364)
+I[17:55:08.195] --> reply:clangd/inlayHints(364) 0 ms
+I[17:55:08.195] --> textDocument/clangd.fileStatus
+I[17:55:08.689] <-- clangd/inlayHints(365)
+I[17:55:08.690] --> reply:clangd/inlayHints(365) 0 ms
+I[17:55:08.690] --> textDocument/clangd.fileStatus
+I[17:55:08.923] <-- clangd/inlayHints(366)
+I[17:55:08.923] --> reply:clangd/inlayHints(366) 0 ms
+I[17:55:08.923] --> textDocument/clangd.fileStatus
+I[17:55:09.207] <-- clangd/inlayHints(367)
+I[17:55:09.207] --> reply:clangd/inlayHints(367) 0 ms
+I[17:55:09.207] --> textDocument/clangd.fileStatus
+I[17:55:09.462] <-- clangd/inlayHints(368)
+I[17:55:09.462] --> reply:clangd/inlayHints(368) 0 ms
+I[17:55:09.462] --> textDocument/clangd.fileStatus
+I[17:55:09.801] <-- textDocument/hover(369)
+I[17:55:09.801] --> reply:textDocument/hover(369) 0 ms
+I[17:55:09.802] --> textDocument/clangd.fileStatus
+I[17:55:10.244] <-- clangd/inlayHints(370)
+I[17:55:10.244] --> reply:clangd/inlayHints(370) 0 ms
+I[17:55:10.244] --> textDocument/clangd.fileStatus
+I[17:55:10.293] <-- clangd/inlayHints(371)
+I[17:55:10.293] --> reply:clangd/inlayHints(371) 0 ms
+I[17:55:10.293] --> textDocument/clangd.fileStatus
+I[17:55:11.517] <-- clangd/inlayHints(372)
+I[17:55:11.517] --> reply:clangd/inlayHints(372) 0 ms
+I[17:55:11.517] --> textDocument/clangd.fileStatus
+I[17:55:11.974] <-- clangd/inlayHints(373)
+I[17:55:11.974] --> reply:clangd/inlayHints(373) 0 ms
+I[17:55:11.974] --> textDocument/clangd.fileStatus
+I[17:55:13.362] <-- clangd/inlayHints(374)
+I[17:55:13.363] --> reply:clangd/inlayHints(374) 0 ms
+I[17:55:13.363] --> textDocument/clangd.fileStatus
+I[17:55:14.344] <-- clangd/inlayHints(375)
+I[17:55:14.345] --> reply:clangd/inlayHints(375) 0 ms
+I[17:55:14.345] --> textDocument/clangd.fileStatus
+I[17:55:14.404] <-- clangd/inlayHints(376)
+I[17:55:14.404] --> reply:clangd/inlayHints(376) 0 ms
+I[17:55:14.404] --> textDocument/clangd.fileStatus
+I[17:55:15.531] <-- textDocument/hover(377)
+I[17:55:15.531] --> reply:textDocument/hover(377) 0 ms
+I[17:55:15.532] --> textDocument/clangd.fileStatus
+I[17:55:16.661] <-- textDocument/codeAction(378)
+I[17:55:16.662] --> reply:textDocument/codeAction(378) 0 ms
+I[17:55:16.662] --> textDocument/clangd.fileStatus
+I[17:55:16.848] <-- textDocument/hover(379)
+I[17:55:16.848] --> reply:textDocument/hover(379) 0 ms
+I[17:55:16.848] --> textDocument/clangd.fileStatus
+I[17:55:16.975] <-- textDocument/definition(380)
+I[17:55:16.975] --> reply:textDocument/definition(380) 0 ms
+I[17:55:16.975] --> textDocument/clangd.fileStatus
+I[17:55:17.213] <-- textDocument/documentHighlight(381)
+I[17:55:17.213] --> reply:textDocument/documentHighlight(381) 0 ms
+I[17:55:17.213] --> textDocument/clangd.fileStatus
+I[17:55:17.291] <-- textDocument/definition(382)
+I[17:55:17.292] --> reply:textDocument/definition(382) 0 ms
+I[17:55:17.292] --> textDocument/clangd.fileStatus
+I[17:55:17.338] <-- textDocument/documentHighlight(383)
+I[17:55:17.338] --> reply:textDocument/documentHighlight(383) 0 ms
+I[17:55:17.338] --> textDocument/clangd.fileStatus
+I[17:55:17.344] <-- textDocument/codeAction(384)
+I[17:55:17.344] --> reply:textDocument/codeAction(384) 0 ms
+I[17:55:17.344] --> textDocument/clangd.fileStatus
+I[17:55:17.381] <-- textDocument/documentLink(385)
+I[17:55:17.382] --> reply:textDocument/documentLink(385) 0 ms
+I[17:55:17.382] --> textDocument/clangd.fileStatus
+I[17:55:17.393] <-- clangd/inlayHints(386)
+I[17:55:17.393] --> reply:clangd/inlayHints(386) 0 ms
+I[17:55:17.393] --> textDocument/clangd.fileStatus
+I[17:55:17.577] <-- textDocument/definition(387)
+I[17:55:17.577] --> reply:textDocument/definition(387) 0 ms
+I[17:55:17.577] --> textDocument/clangd.fileStatus
+I[17:55:17.600] <-- textDocument/codeAction(388)
+I[17:55:17.600] --> reply:textDocument/codeAction(388) 0 ms
+I[17:55:17.600] --> textDocument/clangd.fileStatus
+I[17:55:17.650] <-- textDocument/documentSymbol(389)
+I[17:55:17.651] --> reply:textDocument/documentSymbol(389) 0 ms
+I[17:55:17.651] --> textDocument/clangd.fileStatus
+I[17:55:17.781] <-- textDocument/hover(390)
+I[17:55:17.781] <-- textDocument/semanticTokens/full/delta(391)
+I[17:55:17.781] --> reply:textDocument/hover(390) 0 ms
+I[17:55:17.782] --> reply:textDocument/semanticTokens/full/delta(391) 0 ms
+I[17:55:17.782] --> textDocument/clangd.fileStatus
+I[17:55:18.837] <-- clangd/inlayHints(392)
+I[17:55:18.837] --> reply:clangd/inlayHints(392) 0 ms
+I[17:55:18.838] --> textDocument/clangd.fileStatus
+I[17:55:18.897] <-- clangd/inlayHints(393)
+I[17:55:18.898] --> reply:clangd/inlayHints(393) 0 ms
+I[17:55:18.898] --> textDocument/clangd.fileStatus
+I[17:55:20.253] <-- clangd/inlayHints(394)
+I[17:55:20.253] --> reply:clangd/inlayHints(394) 0 ms
+I[17:55:20.253] --> textDocument/clangd.fileStatus
+I[17:55:20.362] <-- clangd/inlayHints(395)
+I[17:55:20.363] --> reply:clangd/inlayHints(395) 0 ms
+I[17:55:20.363] --> textDocument/clangd.fileStatus
+I[17:55:37.555] <-- clangd/inlayHints(396)
+I[17:55:37.555] --> reply:clangd/inlayHints(396) 0 ms
+I[17:55:37.555] --> textDocument/clangd.fileStatus
+I[17:55:37.625] <-- clangd/inlayHints(397)
+I[17:55:37.625] --> reply:clangd/inlayHints(397) 0 ms
+I[17:55:37.625] --> textDocument/clangd.fileStatus
+I[17:55:37.764] <-- textDocument/documentHighlight(398)
+I[17:55:37.764] --> reply:textDocument/documentHighlight(398) 0 ms
+I[17:55:37.764] --> textDocument/clangd.fileStatus
+I[17:55:37.765] <-- $/cancelRequest
+I[17:55:38.016] <-- textDocument/codeAction(399)
+I[17:55:38.016] --> reply:textDocument/codeAction(399) 0 ms
+I[17:55:38.016] --> textDocument/clangd.fileStatus

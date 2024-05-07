@@ -1,0 +1,17 @@
+TOPNAME := top
+
+VSRCDIR := ./vsrc
+CSRCDIR := ./csrc
+CSRC := $(wildcard $(VSRCDIR)/*.cpp)
+VSRC := $(wildcard $(CSRCDIR)/*.v)
+
+all:
+	@echo "Write this Makefile by your self."
+
+sim:
+	$(call git_commit, "sim RTL") # DO NOT REMOVE THIS LINE!!!
+	bear -- verilator --cc --exe --build --trace -j 0 -Wall $(VSRC) $(CSRC)
+	./obj_dir/V$(TOPNAME)
+	gdkwave waveform.vcd
+
+include ../Makefile

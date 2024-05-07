@@ -1,0 +1,23 @@
+{
+    "toolChain": "custom",
+    "prjName": {
+        "PL": "template"
+    },
+    "arch": {
+        "prjPath": "",
+        "hardware": {
+            "src": "",
+            "sim": "",
+            "data": ""
+        },
+        "software": {
+            "src": "",
+            "data": ""
+        }
+    },
+    "soc": {
+        "core": "none"
+    },
+    "enableShowLog": false,
+    "device": "none"
+}

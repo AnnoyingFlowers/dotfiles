@@ -1,0 +1,38 @@
+[Launch - 08:35:55] <vlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 08:35:55] <vlog lsp manager> default build-in linter has been activated
+[Launch - 08:35:55] <vhdl lsp manager> detect linter setting changes, switch from default to default.
+[Info - 08:35:55] <vhdl lsp manager> default build-in linter has been activated
+[Launch - 08:35:55] <svlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 08:35:55] <svlog lsp manager> default build-in linter has been activated
+[Launch - 08:35:55] <vlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 08:35:55] <vlog lsp manager> default build-in linter has been activated
+[Launch - 08:35:55] <vhdl lsp manager> detect linter setting changes, switch from default to default.
+[Info - 08:35:55] <vhdl lsp manager> default build-in linter has been activated
+[Launch - 08:35:55] <svlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 08:35:55] <svlog lsp manager> default build-in linter has been activated
+[Launch - 08:35:55] <vlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 08:35:55] <vlog lsp manager> default build-in linter has been activated
+[Launch - 08:35:55] <vhdl lsp manager> detect linter setting changes, switch from default to default.
+[Info - 08:35:55] <vhdl lsp manager> default build-in linter has been activated
+[Launch - 08:35:55] <svlog lsp manager> detect linter setting changes, switch from default to default.
+[Info - 08:35:55] <svlog lsp manager> default build-in linter has been activated
+[Launch - 08:35:55] <vlog lsp manager> finish initialization of vlog linter. Linter name: default
+[Launch - 08:35:55] <vhdl lsp manager> finish initialization of vhdl linter. Linter name: default
+[Launch - 08:35:55] <svlog lsp manager> finish initialization of svlog linter. Linter name: default
+[Info - 09:36:27] <vlog hover> get port info rst
+[Info - 09:39:16] <vlog hover> get port info overflow
+[Info - 09:39:16] <vlog hover> get port info data
+[Info - 09:39:59] <vlog hover> get port info ps2_data
+[Info - 09:40:31] <vlog hover> get port info ready
+[Info - 09:40:37] <vlog hover> get port info ready
+[Info - 09:40:38] <vlog hover> get port info data
+[Info - 09:40:44] <vlog hover> get port info data
+[Info - 09:40:45] <vlog hover> get port info nextdata_n
+[Info - 09:40:45] <vlog hover> get port info nextdata_n
+[Info - 09:40:46] <vlog hover> get port info nextdata_n
+[Info - 09:40:49] <vlog hover> get port info nextdata_n
+[Info - 09:40:57] <vlog hover> get port info data
+[Info - 09:40:59] <vlog hover> get port info ready
+[Info - 09:40:59] <vlog hover> get port info nextdata_n
+[Info - 10:27:45] <vlog hover> get port info ps2_clk
+[Info - 10:27:45] <vlog hover> get port info ps2_clk

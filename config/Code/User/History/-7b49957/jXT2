@@ -1,0 +1,41 @@
+feat: Update ex42
+
+- finish ex42 and bonus
+- add ignore to build files, e.g. *.o *.a
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa0
+# Your branch is up to date with 'origin/pa0'.
+#
+# Changes to be committed:
+#	modified:   .gitignore
+#	modified:   C-Programming/.vscode/launch.json
+#	deleted:    C-Programming/ex33/liblcthw/build/liblcthw.a
+#	deleted:    C-Programming/ex33/liblcthw/src/lcthw/list.o
+#	deleted:    C-Programming/ex33/liblcthw/src/lcthw/list_algos.o
+#	new file:   C-Programming/ex42/liblcthw/Makefile
+#	new file:   C-Programming/ex42/liblcthw/src/lcthw/darray.c
+#	new file:   C-Programming/ex42/liblcthw/src/lcthw/darray.h
+#	new file:   C-Programming/ex42/liblcthw/src/lcthw/dbg.h
+#	new file:   C-Programming/ex42/liblcthw/src/lcthw/list.c
+#	new file:   C-Programming/ex42/liblcthw/src/lcthw/list.h
+#	new file:   C-Programming/ex42/liblcthw/src/lcthw/list_algos.c
+#	new file:   C-Programming/ex42/liblcthw/src/lcthw/list_algos.h
+#	new file:   C-Programming/ex42/liblcthw/src/lcthw/queue.h
+#	new file:   C-Programming/ex42/liblcthw/src/lcthw/stack.h
+#	new file:   C-Programming/ex42/liblcthw/tests/darray_tests
+#	new file:   C-Programming/ex42/liblcthw/tests/darray_tests.c
+#	renamed:    C-Programming/ex33/liblcthw/tests/list_algos_tests -> C-Programming/ex42/liblcthw/tests/list_algos_tests
+#	new file:   C-Programming/ex42/liblcthw/tests/list_algos_tests.c
+#	renamed:    C-Programming/ex33/liblcthw/tests/list_tests -> C-Programming/ex42/liblcthw/tests/list_tests
+#	new file:   C-Programming/ex42/liblcthw/tests/list_tests.c
+#	new file:   C-Programming/ex42/liblcthw/tests/list_tests.tst
+#	new file:   C-Programming/ex42/liblcthw/tests/minunit.h
+#	new file:   C-Programming/ex42/liblcthw/tests/queue_tests
+#	new file:   C-Programming/ex42/liblcthw/tests/queue_tests.c
+#	new file:   C-Programming/ex42/liblcthw/tests/runtests.sh
+#	new file:   C-Programming/ex42/liblcthw/tests/stack_tests
+#	new file:   C-Programming/ex42/liblcthw/tests/stack_tests.c
+#	renamed:    C-Programming/ex33/liblcthw/tests/tests.log -> C-Programming/ex42/liblcthw/tests/tests.log
+#

@@ -1,0 +1,71 @@
+I[18:36:03.732] Ubuntu clangd version 14.0.0-1ubuntu1.1
+I[18:36:03.732] Features: linux+grpc
+I[18:36:03.732] PID: 39809
+I[18:36:03.732] Working directory: /home/louis/MAA/ysyx-workbench
+I[18:36:03.732] argv[0]: /usr/bin/clangd
+I[18:36:03.732] argv[1]: --compile-commands-dir=/home/louis/MAA/ysyx-workbench/build/
+I[18:36:03.732] argv[2]: --background-index
+I[18:36:03.732] argv[3]: --completion-style=detailed
+I[18:36:03.732] argv[4]: --header-insertion=never
+I[18:36:03.732] argv[5]: -log=info
+E[18:36:03.732] Path specified by --compile-commands-dir does not exist. The argument will be ignored.
+I[18:36:03.732] Starting LSP over stdin/stdout
+I[18:36:03.733] <-- initialize(0)
+I[18:36:03.734] --> reply:initialize(0) 1 ms
+I[18:36:03.747] <-- initialized
+I[18:36:03.759] <-- textDocument/didOpen
+I[18:36:03.761] Failed to find compilation database for /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[18:36:03.761] ASTWorker building file /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c version 1 with command clangd fallback
+[/home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb]
+/usr/bin/clang -resource-dir=/usr/lib/llvm-14/lib/clang/14.0.0 -- /home/louis/MAA/ysyx-workbench/nemu/src/monitor/sdb/sdb.c
+I[18:36:03.762] --> textDocument/clangd.fileStatus
+I[18:36:03.807] --> workspace/semanticTokens/refresh(0)
+I[18:36:03.807] --> textDocument/clangd.fileStatus
+I[18:36:03.808] <-- reply(0)
+I[18:36:03.817] --> textDocument/publishDiagnostics
+I[18:36:03.817] --> textDocument/clangd.fileStatus
+I[18:36:04.009] <-- textDocument/documentLink(1)
+I[18:36:04.009] <-- clangd/inlayHints(2)
+I[18:36:04.009] --> reply:textDocument/documentLink(1) 0 ms
+I[18:36:04.010] --> reply:clangd/inlayHints(2) 0 ms
+I[18:36:04.010] --> textDocument/clangd.fileStatus
+I[18:36:04.097] <-- textDocument/semanticTokens/full(3)
+I[18:36:04.098] --> reply:textDocument/semanticTokens/full(3) 0 ms
+I[18:36:04.098] --> textDocument/clangd.fileStatus
+I[18:36:04.259] <-- textDocument/documentSymbol(4)
+I[18:36:04.260] --> reply:textDocument/documentSymbol(4) 0 ms
+I[18:36:04.260] --> textDocument/clangd.fileStatus
+I[18:36:04.483] <-- textDocument/codeAction(5)
+I[18:36:04.483] --> reply:textDocument/codeAction(5) 0 ms
+I[18:36:04.483] --> textDocument/clangd.fileStatus
+I[18:36:04.501] <-- textDocument/codeAction(6)
+I[18:36:04.501] --> reply:textDocument/codeAction(6) 0 ms
+I[18:36:04.501] --> textDocument/clangd.fileStatus
+I[18:36:04.562] <-- textDocument/documentLink(7)
+I[18:36:04.562] --> reply:textDocument/documentLink(7) 0 ms
+I[18:36:04.562] --> textDocument/clangd.fileStatus
+I[18:36:04.657] <-- $/setTrace
+I[18:36:04.657] unhandled notification $/setTrace
+I[18:36:04.820] <-- $/setTrace
+I[18:36:04.820] unhandled notification $/setTrace
+I[18:36:04.895] <-- textDocument/codeAction(8)
+I[18:36:04.895] <-- $/cancelRequest
+I[18:36:04.895] <-- textDocument/codeAction(9)
+I[18:36:04.895] --> reply:textDocument/codeAction(8) 0 ms, error: Task was cancelled.
+I[18:36:04.895] --> reply:textDocument/codeAction(9) 0 ms
+I[18:36:04.895] --> textDocument/clangd.fileStatus
+[Error - 6:36:04 PM] Request textDocument/codeAction failed.
+[object Object]
+I[18:36:05.052] <-- $/setTrace
+I[18:36:05.052] unhandled notification $/setTrace
+I[18:36:05.121] <-- $/setTrace
+I[18:36:05.121] unhandled notification $/setTrace
+I[18:36:05.173] <-- textDocument/documentSymbol(10)
+I[18:36:05.174] --> reply:textDocument/documentSymbol(10) 0 ms
+I[18:36:05.174] --> textDocument/clangd.fileStatus
+I[18:36:05.227] <-- clangd/inlayHints(11)
+I[18:36:05.227] --> reply:clangd/inlayHints(11) 0 ms
+I[18:36:05.227] --> textDocument/clangd.fileStatus
+I[18:36:05.585] <-- textDocument/codeAction(12)
+I[18:36:05.585] --> reply:textDocument/codeAction(12) 0 ms
+I[18:36:05.585] --> textDocument/clangd.fileStatus

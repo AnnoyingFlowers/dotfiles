@@ -1,0 +1,11 @@
+style: 优化sdb的几个命令
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa1
+# Your branch is ahead of 'backup/pa1' by 2 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   nemu/src/monitor/sdb/sdb.c
+#

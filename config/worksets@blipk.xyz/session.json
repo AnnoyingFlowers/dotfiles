@@ -1,0 +1,98 @@
+{
+ "SessionName": "Default",
+ "Default": "Primary",
+ "Options": {
+  "ShowNotifications": true,
+  "ShowHelpers": true,
+  "IsolateWorkspaces": true,
+  "ShowPanelIndicator": false,
+  "ShowWorkspaceOverlay": true,
+  "CliSwitch": "",
+  "DebugMode": true,
+  "HideAppList": false,
+  "DisableWallpaperManagement": false,
+  "ReverseMenu": false
+ },
+ "Worksets": [
+  {
+   "WorksetName": "Primary",
+   "WindowData": null,
+   "FavApps": [
+    {
+     "name": "google-chrome.desktop",
+     "displayName": "Google Chrome",
+     "icon": "google-chrome",
+     "exec": "/usr/bin/google-chrome-stable %U"
+    },
+    {
+     "name": "org.gnome.Nautilus.desktop",
+     "displayName": "Files",
+     "icon": "org.gnome.Nautilus",
+     "exec": "nautilus --new-window %U"
+    },
+    {
+     "name": "org.gnome.Terminal.desktop",
+     "displayName": "Terminal",
+     "icon": "org.gnome.Terminal",
+     "exec": "gnome-terminal"
+    },
+    {
+     "name": "code.desktop",
+     "displayName": "Visual Studio Code",
+     "icon": "vscode",
+     "exec": "/usr/share/code/code --unity-launch %F"
+    },
+    {
+     "name": "steam.desktop",
+     "displayName": "Steam",
+     "icon": "steam",
+     "exec": "/usr/bin/steam %U"
+    },
+    {
+     "name": "org.gnome.Todo.desktop",
+     "displayName": "To Do",
+     "icon": "org.gnome.Todo",
+     "exec": "gnome-todo"
+    }
+   ],
+   "BackgroundImage": "file:///usr/share/backgrounds/warty-final-ubuntu.png",
+   "BackgroundImageDark": "file:///usr/share/backgrounds/warty-final-ubuntu.png",
+   "BackgroundStyle": "zoom",
+   "BackgroundStyleDark": "ZOOM"
+  }
+ ],
+ "workspaceMaps": {
+  "Workspace0": {
+   "defaultWorkset": "Primary",
+   "currentWorkset": "Primary"
+  },
+  "Workspace1": {
+   "defaultWorkset": "",
+   "currentWorkset": ""
+  },
+  "Workspace2": {
+   "defaultWorkset": "",
+   "currentWorkset": ""
+  },
+  "Workspace3": {
+   "defaultWorkset": "",
+   "currentWorkset": ""
+  },
+  "Workspace4": {
+   "defaultWorkset": "",
+   "currentWorkset": ""
+  },
+  "Workspace5": {
+   "defaultWorkset": "",
+   "currentWorkset": ""
+  },
+  "Workspace6": {
+   "defaultWorkset": "",
+   "currentWorkset": ""
+  },
+  "Workspace7": {
+   "defaultWorkset": "",
+   "currentWorkset": ""
+  }
+ }
+}

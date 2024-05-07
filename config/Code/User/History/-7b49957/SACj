@@ -1,0 +1,36 @@
+feat: Review C Language - Exercise 2~16
+
+- modify Makefile in order to compile *.c to the
+path build
+- update .gitignore to ignore build files
+- complete exercise 2~16
+- update exercise 17 and not finished
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	new file:   .gitignore
+#	modified:   C-Programming/.clang-format
+#	modified:   C-Programming/Makefile
+#	new file:   C-Programming/db.dat
+#	deleted:    C-Programming/ex1
+#	modified:   C-Programming/ex1.c
+#	new file:   C-Programming/ex10.c
+#	new file:   C-Programming/ex11.c
+#	new file:   C-Programming/ex12.c
+#	new file:   C-Programming/ex13.c
+#	new file:   C-Programming/ex14.c
+#	new file:   C-Programming/ex15.c
+#	new file:   C-Programming/ex16.c
+#	new file:   C-Programming/ex16_sub.c
+#	new file:   C-Programming/ex17.c
+#	deleted:    C-Programming/ex3
+#	modified:   C-Programming/ex3.c
+#	new file:   C-Programming/ex4.c
+#	new file:   C-Programming/ex5.c
+#	new file:   C-Programming/ex6.c
+#	new file:   C-Programming/ex7.c
+#	new file:   C-Programming/ex8.c
+#	new file:   C-Programming/ex9.c
+#

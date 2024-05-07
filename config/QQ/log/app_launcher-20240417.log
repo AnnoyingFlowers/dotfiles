@@ -1,0 +1,21 @@
+[4/17/2024, 11:14:59 PM][INFO] 不存在 /home/louis/.config/QQ/versions/config.json，将自动创建。内容为：
+{
+  "baseVersion": "3.2.7-22961",
+  "curVersion": "3.2.7-22961",
+  "prevVersion": "",
+  "onErrorVersions": [],
+  "buildId": "22961"
+}
+[4/17/2024, 11:14:59 PM][INFO] /home/louis/.config/QQ/versions/3.2.7-22961.zip 不存在，无法执行解压操作
+[4/17/2024, 11:14:59 PM][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[4/17/2024, 11:15:00 PM][INFO] 
+---------- 华丽的分割线 ----------
+
+
+[4/17/2024, 11:17:47 PM][INFO] /home/louis/.config/QQ/versions/config.json 存在
+[4/17/2024, 11:17:47 PM][INFO] /home/louis/.config/QQ/versions/3.2.7-22961.zip 不存在，无法执行解压操作
+[4/17/2024, 11:17:47 PM][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[4/17/2024, 11:17:47 PM][INFO] 
+---------- 华丽的分割线 ----------
+
+

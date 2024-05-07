@@ -1,0 +1,34 @@
+[
+    {
+        "arguments": [
+            "/usr/lib/ccache/g++",
+            "-I.",
+            "-I/home/louis/gits/verilator/include",
+            "-I/home/louis/gits/verilator/include/vltstd",
+            "-DVM_COVERAGE=1",
+            "-DVM_SC=0",
+            "-DVM_TRACE=1",
+            "-DVM_TRACE_FST=0",
+            "-DVM_TRACE_VCD=1",
+            "-faligned-new",
+            "-fcf-protection=none",
+            "-Wno-bool-operation",
+            "-Wno-sign-compare",
+            "-Wno-uninitialized",
+            "-Wno-unused-but-set-variable",
+            "-Wno-unused-parameter",
+            "-Wno-unused-variable",
+            "-Wno-shadow",
+            "-DVL_DEBUG=1",
+            "-Os",
+            "-fstrict-aliasing",
+            "-c",
+            "-o",
+            "sim_main.o",
+            "../sim_main.cpp"
+        ],
+        "directory": "/home/louis/gits/verilator/examples/make_tracing_c/obj_dir",
+        "file": "/home/louis/gits/verilator/examples/make_tracing_c/sim_main.cpp",
+        "output": "/home/louis/gits/verilator/examples/make_tracing_c/obj_dir/sim_main.o"
+    }
+]

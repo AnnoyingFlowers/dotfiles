@@ -1,0 +1,16 @@
+[Info - 14:30:46] tcl lsp is ready
+[Info - 14:30:46] lsp for tcl is ready
+[Info - 14:30:46] finish initialise opeParam
+[Info - 14:30:46] libManage finish process, add 0 files, del 0 files
+[Debug - 14:30:46] <getPrjHardwareFiles> search folders: 
+[Debug - 14:30:46] /home/louis/gits/ysyx
+[Info - 14:30:46] finish collect 51 hdl files
+[Info - 14:30:47] finish analyse 51 hdl files, find 11 unsolved instances
+[Info - 14:30:47] create pl
+[Info - 14:30:47] Following folders are tracked: 
+[Info - 14:30:47] /home/louis/gits/ysyx
+[Info - 14:30:47] /home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/lib/common
+[Launch - 14:30:47] Digital-IDE has launched, Version: 0.3.2
+[Launch - 14:30:47] OS: linux
+[Warn - 18:10:24] error happen when create moduleFile /home/louis/gits/ysyx/ysyx-workbench/nemu/tools/spike-diff/repo/spike_dasm/spike_dasm_option_parser.cc
+[Warn - 18:10:27] error happen when create moduleFile /home/louis/gits/ysyx/ysyx-workbench/nemu/tools/spike-diff/repo/build/conf65496

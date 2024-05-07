@@ -1,0 +1,54 @@
+[2024-05-04 03:30:21.208] [     12ms] [/home/louis/gits/ysyx/ysyx-workbench/.git] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: this operation must be run in a work tree
+
+
+[2024-05-04 03:33:12.180] [     10ms] [/home/louis/gits/ysyx/.git] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: this operation must be run in a work tree
+
+
+[2024-05-04 04:21:42.881] [     13ms] [/usr/lib/llvm-14/lib/clang/14.0.0/include] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2024-05-04 05:09:27.020] [     11ms] [/usr/riscv64-linux-gnu/include] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2024-05-04 09:02:59.695] [     12ms] [/usr/include] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2024-05-04 14:20:42.593] [     20ms] [/usr/include] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2024-05-04 14:30:13.560] [     12ms] [/usr/include] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2024-05-05 05:48:40.425] [     17ms] [/usr/riscv64-linux-gnu/include] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2024-05-05 07:11:23.406] [     13ms] [/home/louis/gits/ysyx/ysyx-workbench/am-kernels/.git] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: this operation must be run in a work tree
+
+

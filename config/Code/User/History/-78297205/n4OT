@@ -1,0 +1,35 @@
+# make program uses the Makefile description and the last-modification
+# times of the files to decide which of the files need to be updated.
+
+# make exits with a status of zero if all makefiles were successfully 
+# parsed and no targets that were built failed.
+# a status of one will be returned if the -q flag was used and make 
+# determines that a target needs to be rebuilt.
+# a status of two will be returned if any errors were encountered.
+
+CC := gcc
+CFLAGS := -Wall -g
+# -Wall enables all the warnings
+# -g produce debugging info in the operating system's native format.
+# GDB can work with this debugginig info, but others may crash.
+
+BUILDDIR := build
+
+SRCS := $(wildcard *.c)
+EXES := $(patsubst %.c,%.out,$(SRCS))
+
+.PHONY: all clean
+
+# 目标: 依赖
+# <tab>命令
+all: $(EXES)
+
+$(EXES): $(patsubst %.out,%.c,$@)
+	mkdir -p $(BUILDDIR)
+	$(CC) $(CFLAGS) $< -o $(BUILDDIR)/$@
+
+$(BUILDDIR):
+	
+
+clean:
+	rm -rf $(BUILDDIR)

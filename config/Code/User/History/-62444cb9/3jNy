@@ -1,0 +1,17 @@
+feat: 新增sdb功能
+
++ 单步执行
++ 打印寄存器
++ 扫描内存
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa1
+# Your branch is ahead of 'backup/pa1' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   nemu/include/isa.h
+#	modified:   nemu/src/isa/riscv32/reg.c
+#	modified:   nemu/src/monitor/sdb/sdb.c
+#

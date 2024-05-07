@@ -1,0 +1,22 @@
+feat: 实现监视点
+
+* 修复监视点创建或删除会造成段错误的问题
++ 实现监视点
++ 实现sdb的info w, p, w, d, x功能
++ Kconfig添加watchpoint相关选项
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa1
+# Your branch is ahead of 'backup/pa1' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   nemu/Kconfig
+#	modified:   nemu/src/cpu/cpu-exec.c
+#	modified:   nemu/src/isa/riscv32/reg.c
+#	modified:   nemu/src/monitor/sdb/expr.c
+#	modified:   nemu/src/monitor/sdb/sdb.c
+#	modified:   nemu/src/monitor/sdb/watchpoint.c
+#

@@ -1,0 +1,25 @@
+feat: 在npc中实现addi
+
++ 未使用行为建模
++ 只用了提供的模板
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa2
+# Your branch is up to date with 'backup/pa2'.
+#
+# Changes to be committed:
+#	modified:   npc/Makefile
+#	modified:   npc/csrc/main.cpp
+#	new file:   npc/csrc/paddr.cpp
+#	new file:   npc/csrc/paddr.h
+#	new file:   npc/vsrc/ALU.v
+#	new file:   npc/vsrc/Decode.v
+#	new file:   npc/vsrc/MuxKey.v
+#	new file:   npc/vsrc/MuxKeyInternal.v
+#	new file:   npc/vsrc/MuxKeyWithDefault.v
+#	new file:   npc/vsrc/Reg.v
+#	new file:   npc/vsrc/RegisterFile.v
+#	deleted:    npc/vsrc/light.v
+#	modified:   npc/vsrc/top.v
+#

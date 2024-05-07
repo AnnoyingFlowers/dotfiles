@@ -1,0 +1,17 @@
+2024-05-07 13:50:52.626 [info] Added views:terminal in terminal
+2024-05-07 13:50:52.626 [info] Added views:workbench.scm in workbench.view.scm
+2024-05-07 13:50:52.626 [info] Added views:workbench.view.search in workbench.view.search
+2024-05-07 13:50:52.626 [info] Added views:workbench.panel.markers.view in workbench.views.service.panel.692bb822-87c8-46b5-bedd-3b27ee91cc88
+2024-05-07 13:50:52.626 [info] Added views:workbench.panel.output in workbench.views.service.panel.1292a660-e57a-483d-9c80-dacad33af3b5
+2024-05-07 13:50:52.626 [info] Added views:timeline in workbench.view.explorer
+2024-05-07 13:50:52.626 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2024-05-07 13:50:53.400 [info] Added views:gitlens.views.home,gitlens.views.workspaces,gitlens.views.account in workbench.view.extension.gitlens
+2024-05-07 13:50:53.400 [info] Added views:gitlens.views.commitDetails,gitlens.views.lineHistory,gitlens.views.fileHistory,gitlens.views.searchAndCompare in workbench.view.extension.gitlensInspect
+2024-05-07 13:50:53.401 [info] Added views:gitlens.views.commits,gitlens.views.branches,gitlens.views.remotes,gitlens.views.stashes,gitlens.views.tags,gitlens.views.contributors in workbench.view.scm
+2024-05-07 13:50:53.402 [info] Added views:digital-ide-treeView-arch,digital-ide-treeView-tool,digital-ide-treeView-hardware in workbench.view.extension.TreeView
+2024-05-07 13:50:53.531 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2024-05-07 13:50:53.712 [info] Added views:workbench.panel.repl.view in workbench.views.service.panel.7803469e-9bcc-4f72-968b-0aad5d5d3695
+2024-05-07 13:50:56.844 [info] Added views:gitlens.views.drafts in workbench.view.extension.gitlens
+2024-05-07 13:50:57.725 [info] Added views:gitlens.views.graph,gitlens.views.graphDetails in workbench.view.extension.gitlensPanel
+2024-05-07 13:50:57.726 [info] Added views:gitlens.views.timeline in workbench.view.extension.gitlensInspect
+2024-05-07 13:50:57.728 [info] Added views:gitlens.views.worktrees in workbench.view.scm

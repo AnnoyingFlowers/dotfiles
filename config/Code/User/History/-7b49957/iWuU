@@ -1,0 +1,13 @@
+feat: review C programming - exercise 0~2
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa0
+# Changes to be committed:
+#	new file:   C-Programming/Makefile
+#	new file:   C-Programming/ex1
+#	new file:   C-Programming/ex1.c
+#	new file:   C-Programming/ex3
+#	new file:   C-Programming/ex3.c
+#	deleted:    C-Programming/main.cpp
+#

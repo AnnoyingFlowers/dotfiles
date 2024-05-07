@@ -1,0 +1,26 @@
+feat: 更新数电exp07，未完成
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa0
+# Your branch is up to date with 'backup/pa0'.
+#
+# Changes to be committed:
+#	modified:   dlco-test/exp-template/csrc/main.cpp
+#	new file:   dlco-test/exp07/.gitignore
+#	new file:   dlco-test/exp07/Makefile
+#	new file:   dlco-test/exp07/constr/top.nxdc
+#	new file:   dlco-test/exp07/csrc/main.cpp
+#	new file:   dlco-test/exp07/test/Makefile
+#	new file:   dlco-test/exp07/test/keyboard_sim.v
+#	new file:   dlco-test/exp07/test/main.cpp
+#	new file:   dlco-test/exp07/test/ps2_keyboard_model.v
+#	new file:   dlco-test/exp07/vsrc/MuxKey.v
+#	new file:   dlco-test/exp07/vsrc/MuxKeyInternal.v
+#	new file:   dlco-test/exp07/vsrc/MuxKeyWithDefault.v
+#	new file:   dlco-test/exp07/vsrc/hex7seg.v
+#	new file:   dlco-test/exp07/vsrc/kbd_ctrl.v
+#	new file:   dlco-test/exp07/vsrc/key2ascii.v
+#	new file:   dlco-test/exp07/vsrc/ps2_keyboard.v
+#	new file:   dlco-test/exp07/vsrc/top.v
+#

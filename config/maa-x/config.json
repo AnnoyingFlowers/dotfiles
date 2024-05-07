@@ -1,0 +1,1177 @@
+{
+  "libPath": "/home/louis/.config/maa-x/core",
+  "resource": {
+    "lastUpdate": 20240505164736,
+    "stageActivity": {
+      "Official": {
+        "sideStoryStage": [
+          {
+            "Display": "SSReopen-OD",
+            "Value": "SSReopen-OD",
+            "Drop": "代理1~8",
+            "MinimumRequired": "v4.28.6",
+            "Activity": {
+              "Tip": "SideStory「源石尘行动」复刻",
+              "StageName": "OD",
+              "UtcStartTime": "2024/03/21 16:00:00",
+              "UtcExpireTime": "2024/03/31 03:59:59",
+              "TimeZone": 8
+            }
+          },
+          {
+            "Display": "14-16 磨难",
+            "Value": "14-16-HARD",
+            "Drop": "30063",
+            "MinimumRequired": "v4.28.6",
+            "Activity": {
+              "Tip": "主题曲 EP 14「慈悲灯塔」限时掉落",
+              "StageName": "主题曲 EP 14「慈悲灯塔」限时掉落",
+              "UtcStartTime": "2024/05/01 16:00:00",
+              "UtcExpireTime": "2024/05/15 03:59:59",
+              "TimeZone": 8
+            }
+          },
+          {
+            "Display": "14-16 标准",
+            "Value": "14-16",
+            "Drop": "30063",
+            "MinimumRequired": "v4.28.6",
+            "Activity": {
+              "Tip": "主题曲 EP 14「慈悲灯塔」限时掉落",
+              "StageName": "主题曲 EP 14「慈悲灯塔」限时掉落",
+              "UtcStartTime": "2024/05/01 16:00:00",
+              "UtcExpireTime": "2024/05/15 03:59:59",
+              "TimeZone": 8
+            }
+          },
+          {
+            "Display": "14-20 磨难",
+            "Value": "14-20-HARD",
+            "Drop": "30053",
+            "MinimumRequired": "v4.28.6",
+            "Activity": {
+              "Tip": "主题曲 EP 14「慈悲灯塔」限时掉落",
+              "StageName": "主题曲 EP 14「慈悲灯塔」限时掉落",
+              "UtcStartTime": "2024/05/01 16:00:00",
+              "UtcExpireTime": "2024/05/15 03:59:59",
+              "TimeZone": 8
+            }
+          },
+          {
+            "Display": "14-20 标准",
+            "Value": "14-20",
+            "Drop": "30053",
+            "MinimumRequired": "v4.28.6",
+            "Activity": {
+              "Tip": "主题曲 EP 14「慈悲灯塔」限时掉落",
+              "StageName": "主题曲 EP 14「慈悲灯塔」限时掉落",
+              "UtcStartTime": "2024/05/01 16:00:00",
+              "UtcExpireTime": "2024/05/15 03:59:59",
+              "TimeZone": 8
+            }
+          },
+          {
+            "Display": "14-15 磨难",
+            "Value": "14-15-HARD",
+            "Drop": "31053",
+            "MinimumRequired": "v4.28.6",
+            "Activity": {
+              "Tip": "主题曲 EP 14「慈悲灯塔」限时掉落",
+              "StageName": "主题曲 EP 14「慈悲灯塔」限时掉落",
+              "UtcStartTime": "2024/05/01 16:00:00",
+              "UtcExpireTime": "2024/05/15 03:59:59",
+              "TimeZone": 8
+            }
+          },
+          {
+            "Display": "14-15 标准",
+            "Value": "14-15",
+            "Drop": "31053",
+            "MinimumRequired": "v4.28.6",
+            "Activity": {
+              "Tip": "主题曲 EP 14「慈悲灯塔」限时掉落",
+              "StageName": "主题曲 EP 14「慈悲灯塔」限时掉落",
+              "UtcStartTime": "2024/05/01 16:00:00",
+              "UtcExpireTime": "2024/05/15 03:59:59",
+              "TimeZone": 8
+            }
+          }
+        ],
+        "resourceCollection": {
+          "Tip": "“资源收集”限时全天开放",
+          "UtcStartTime": "2024/03/28 16:00:00",
+          "UtcExpireTime": "2024/05/01 03:59:59",
+          "TimeZone": 8,
+          "IsResourceCollection": true
+        }
+      },
+      "YoStarJP": {
+        "sideStoryStage": [
+          {
+            "Display": "ZT-7",
+            "Value": "ZT-7",
+            "Drop": "30043",
+            "MinimumRequired": "v5.2.0",
+            "Activity": {
+              "Tip": "サイドストーリー「ツヴィリングトゥルムの黄金」",
+              "StageName": "ZT",
+              "UtcStartTime": "2024/04/30 16:00:00",
+              "UtcExpireTime": "2024/05/21 03:59:59",
+              "TimeZone": 9
+            }
+          },
+          {
+            "Display": "ZT-8",
+            "Value": "ZT-8",
+            "Drop": "30063",
+            "MinimumRequired": "v5.2.0",
+            "Activity": {
+              "Tip": "サイドストーリー「ツヴィリングトゥルムの黄金」",
+              "StageName": "ZT",
+              "UtcStartTime": "2024/04/30 16:00:00",
+              "UtcExpireTime": "2024/05/21 03:59:59",
+              "TimeZone": 9
+            }
+          },
+          {
+            "Display": "ZT-9",
+            "Value": "ZT-9",
+            "Drop": "30073",
+            "MinimumRequired": "v5.2.0",
+            "Activity": {
+              "Tip": "サイドストーリー「ツヴィリングトゥルムの黄金」",
+              "StageName": "ZT",
+              "UtcStartTime": "2024/04/30 16:00:00",
+              "UtcExpireTime": "2024/05/21 03:59:59",
+              "TimeZone": 9
+            }
+          }
+        ],
+        "resourceCollection": {
+          "Tip": "「資源調達」全ステージ開放",
+          "UtcStartTime": "2023/10/01 16:00:00",
+          "UtcExpireTime": "2023/10/15 03:59:59",
+          "TimeZone": 9,
+          "IsResourceCollection": true
+        }
+      },
+      "YoStarKR": {
+        "sideStoryStage": [
+          {
+            "Display": "ZT-7",
+            "Value": "ZT-7",
+            "Drop": "30043",
+            "MinimumRequired": "v5.2.0",
+            "Activity": {
+              "Tip": "SideStory - 츠빌링슈튀르메의 가을",
+              "StageName": "ZT",
+              "UtcStartTime": "2024/04/30 16:00:00",
+              "UtcExpireTime": "2024/05/21 03:59:59",
+              "TimeZone": 9
+            }
+          },
+          {
+            "Display": "ZT-8",
+            "Value": "ZT-8",
+            "Drop": "30063",
+            "MinimumRequired": "v5.2.0",
+            "Activity": {
+              "Tip": "SideStory - 츠빌링슈튀르메의 가을",
+              "StageName": "ZT",
+              "UtcStartTime": "2024/04/30 16:00:00",
+              "UtcExpireTime": "2024/05/21 03:59:59",
+              "TimeZone": 9
+            }
+          },
+          {
+            "Display": "ZT-9",
+            "Value": "ZT-9",
+            "Drop": "30073",
+            "MinimumRequired": "v5.2.0",
+            "Activity": {
+              "Tip": "SideStory - 츠빌링슈튀르메의 가을",
+              "StageName": "ZT",
+              "UtcStartTime": "2024/04/30 16:00:00",
+              "UtcExpireTime": "2024/05/21 03:59:59",
+              "TimeZone": 9
+            }
+          }
+        ],
+        "resourceCollection": {
+          "Tip": "[자원 수집] 제한 시간 상시 오픈",
+          "UtcStartTime": "2023/10/01 16:00:00",
+          "UtcExpireTime": "2023/10/15 03:59:59",
+          "TimeZone": 9,
+          "IsResourceCollection": true
+        }
+      },
+      "YoStarEN": {
+        "sideStoryStage": [
+          {
+            "Display": "ZT-7",
+            "Value": "ZT-7",
+            "Drop": "30043",
+            "MinimumRequired": "v5.2.0",
+            "Activity": {
+              "Tip": "Zwillingstürme im Herbst",
+              "StageName": "ZT",
+              "UtcStartTime": "2024/04/30 10:00:00",
+              "UtcExpireTime": "2024/05/21 03:59:59",
+              "TimeZone": -7
+            }
+          },
+          {
+            "Display": "ZT-8",
+            "Value": "ZT-8",
+            "Drop": "30063",
+            "MinimumRequired": "v5.2.0",
+            "Activity": {
+              "Tip": "Zwillingstürme im Herbst",
+              "StageName": "ZT",
+              "UtcStartTime": "2024/04/30 10:00:00",
+              "UtcExpireTime": "2024/05/21 03:59:59",
+              "TimeZone": -7
+            }
+          },
+          {
+            "Display": "ZT-9",
+            "Value": "ZT-9",
+            "Drop": "30073",
+            "MinimumRequired": "v5.2.0",
+            "Activity": {
+              "Tip": "Zwillingstürme im Herbst",
+              "StageName": "ZT",
+              "UtcStartTime": "2024/04/30 10:00:00",
+              "UtcExpireTime": "2024/05/21 03:59:59",
+              "TimeZone": -7
+            }
+          }
+        ],
+        "resourceCollection": {
+          "Tip": "SUPPLIES & CHIPS EVERYDAY ACCESS",
+          "UtcStartTime": "2023/10/01 10:00:00",
+          "UtcExpireTime": "2023/10/15 03:59:59",
+          "TimeZone": -7,
+          "IsResourceCollection": true
+        }
+      },
+      "txwy": {
+        "sideStoryStage": [
+          {
+            "Display": "HE-6",
+            "Value": "HE-6",
+            "Drop": "30013",
+            "MinimumRequired": "v5.2.0",
+            "Activity": {
+              "Tip": "SideStory「空想花庭」",
+              "StageName": "HE",
+              "UtcStartTime": "2024/04/25 16:00:00",
+              "UtcExpireTime": "2024/05/09 03:59:59",
+              "TimeZone": 8
+            }
+          },
+          {
+            "Display": "HE-7",
+            "Value": "HE-7",
+            "Drop": "31013",
+            "MinimumRequired": "v5.2.0",
+            "Activity": {
+              "Tip": "SideStory「空想花庭」",
+              "StageName": "HE",
+              "UtcStartTime": "2024/04/25 16:00:00",
+              "UtcExpireTime": "2024/05/09 03:59:59",
+              "TimeZone": 8
+            }
+          },
+          {
+            "Display": "HE-8",
+            "Value": "HE-8",
+            "Drop": "30103",
+            "MinimumRequired": "v5.2.0",
+            "Activity": {
+              "Tip": "SideStory「空想花庭」",
+              "StageName": "HE",
+              "UtcStartTime": "2024/04/25 16:00:00",
+              "UtcExpireTime": "2024/05/09 03:59:59",
+              "TimeZone": 8
+            }
+          }
+        ],
+        "resourceCollection": {
+          "Tip": "「資源收集」限時全天開放",
+          "UtcStartTime": "2024/02/06 16:00:00",
+          "UtcExpireTime": "2024/02/20 03:59:59",
+          "TimeZone": 8,
+          "IsResourceCollection": true
+        }
+      }
+    }
+  },
+  "setting": {
+    "report_to_penguin": false,
+    "penguinReportId": "",
+    "yituliuReportId": "",
+    "clientType": "CN",
+    "version": {
+      "core": {
+        "current": "v5.2.2"
+      },
+      "ui": {
+        "current": "2.0.0-beta.14"
+      }
+    },
+    "_locale": "ZhCN",
+    "monsters": false,
+    "touchMode": "maatouch",
+    "hintCoreNotInstalled": true,
+    "componentDir": "/home/louis/.config/maa-x"
+  },
+  "component": {
+    "Maa Core": {
+      "componentStatus": "installed",
+      "installerStatus": "done",
+      "installerProgress": 0,
+      "installMirror": "GitHub"
+    },
+    "Android Platform Tools": {
+      "componentStatus": "installed",
+      "installerStatus": "done",
+      "installerProgress": 0,
+      "installMirror": "Google"
+    },
+    "Maa App": {
+      "componentStatus": "installed",
+      "installerStatus": "done",
+      "installerProgress": 0,
+      "installMirror": "GitHub"
+    }
+  },
+  "theme": {
+    "theme": "maa-light",
+    "systemTheme": "maa-light",
+    "themeColorOpacity": 1,
+    "bgFollowTheme": false,
+    "acrylic": false,
+    "bgLight": {
+      "opacity": 1
+    },
+    "bgDark": {
+      "opacity": 1
+    }
+  },
+  "device": {
+    "devices": [
+      {
+        "status": "connected",
+        "config": "General",
+        "adbPath": "/home/louis/.config/maa-x/platform-tools/adb",
+        "uuid": "72a65d3ee74d83ae",
+        "address": "127.0.0.1:5555",
+        "name": "General",
+        "pid": ""
+      }
+    ],
+    "lastUpdate": 1714703584244
+  },
+  "tasks": {
+    "deviceTasks": {
+      "72a65d3ee74d83ae": {
+        "currentId": 1,
+        "groups": [
+          {
+            "id": 1,
+            "name": "New Task Group #1",
+            "tasks": [
+              {
+                "name": "Emulator",
+                "task_id": -1,
+                "title": "启动模拟器",
+                "status": "idle",
+                "enable": false,
+                "configurations": {
+                  "delay": 300
+                },
+                "results": {},
+                "progress": 0,
+                "showResult": false
+              },
+              {
+                "name": "StartUp",
+                "task_id": 7,
+                "title": "开始唤醒",
+                "status": "idle",
+                "enable": true,
+                "configurations": {
+                  "client_type": "Official",
+                  "start_game_enabled": true
+                },
+                "results": {},
+                "progress": 0,
+                "showResult": false
+              },
+              {
+                "name": "Recruit",
+                "task_id": 8,
+                "title": "自动公招",
+                "status": "idle",
+                "enable": true,
+                "configurations": {
+                  "refresh": true,
+                  "select": [
+                    3,
+                    4,
+                    5,
+                    6
+                  ],
+                  "confirm": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "times": 4,
+                  "set_time": true,
+                  "expedite": false,
+                  "expedite_times": 0,
+                  "skip_robot": false,
+                  "recruitment_time": {
+                    "3": 540,
+                    "4": 540,
+                    "5": 540
+                  },
+                  "report_to_penguin": false,
+                  "report_to_yituliu": false
+                },
+                "results": {},
+                "progress": 0,
+                "showResult": false
+              },
+              {
+                "name": "Infrast",
+                "task_id": 9,
+                "title": "基建换班",
+                "status": "idle",
+                "enable": true,
+                "configurations": {
+                  "mode": 0,
+                  "filename": "",
+                  "plan_index": 0,
+                  "facility": [
+                    "Mfg",
+                    "Trade",
+                    "Power",
+                    "Control",
+                    "Reception",
+                    "Office",
+                    "Dorm"
+                  ],
+                  "drones": "PureGold",
+                  "threshold": 0.3,
+                  "replenish": false,
+                  "dorm_trust_enabled": true,
+                  "dorm_notstationed_enabled": true
+                },
+                "results": {},
+                "progress": 0,
+                "showResult": false
+              },
+              {
+                "name": "Fight",
+                "task_id": 10,
+                "title": "代理作战",
+                "status": "idle",
+                "enable": true,
+                "configurations": {
+                  "stage": "14-16-HARD",
+                  "medicine": 0,
+                  "stone": 0,
+                  "times": 999,
+                  "drops": {},
+                  "report_to_penguin": false,
+                  "server": "CN",
+                  "client_type": "Official",
+                  "DrGrandet": false
+                },
+                "results": {
+                  "fightInfo": [
+                    {
+                      "drops": [
+                        {
+                          "dropType": "EXP_LMB_DROP",
+                          "itemId": "4001",
+                          "itemName": "龙门币",
+                          "quantity": 72
+                        },
+                        {
+                          "dropType": "NORMAL_DROP",
+                          "itemId": "30012",
+                          "itemName": "固源岩",
+                          "quantity": 1
+                        },
+                        {
+                          "dropType": "EXTRA_DROP",
+                          "itemId": "2001",
+                          "itemName": "基础作战记录",
+                          "quantity": 1
+                        },
+                        {
+                          "dropType": "EXTRA_DROP",
+                          "itemId": "30041",
+                          "itemName": "异铁碎片",
+                          "quantity": 1
+                        }
+                      ],
+                      "stage": {
+                        "stageCode": "1-7",
+                        "stageId": "main_01-07"
+                      },
+                      "stars": 3,
+                      "stats": [
+                        {
+                          "addQuantity": 1,
+                          "itemId": "30041",
+                          "itemName": "异铁碎片",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 1,
+                          "itemId": "2001",
+                          "itemName": "基础作战记录",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 1,
+                          "itemId": "30012",
+                          "itemName": "固源岩",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 72,
+                          "itemId": "4001",
+                          "itemName": "龙门币",
+                          "quantity": 72
+                        }
+                      ],
+                      "reported": false,
+                      "report_error": false
+                    },
+                    {
+                      "drops": [
+                        {
+                          "dropType": "EXP_LMB_DROP",
+                          "itemId": "4001",
+                          "itemName": "龙门币",
+                          "quantity": 72
+                        },
+                        {
+                          "dropType": "NORMAL_DROP",
+                          "itemId": "30012",
+                          "itemName": "固源岩",
+                          "quantity": 1
+                        },
+                        {
+                          "dropType": "EXTRA_DROP",
+                          "itemId": "2001",
+                          "itemName": "基础作战记录",
+                          "quantity": 1
+                        }
+                      ],
+                      "stage": {
+                        "stageCode": "1-7",
+                        "stageId": "main_01-07"
+                      },
+                      "stars": 3,
+                      "stats": [
+                        {
+                          "addQuantity": 0,
+                          "itemId": "30041",
+                          "itemName": "异铁碎片",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 1,
+                          "itemId": "2001",
+                          "itemName": "基础作战记录",
+                          "quantity": 2
+                        },
+                        {
+                          "addQuantity": 1,
+                          "itemId": "30012",
+                          "itemName": "固源岩",
+                          "quantity": 2
+                        },
+                        {
+                          "addQuantity": 72,
+                          "itemId": "4001",
+                          "itemName": "龙门币",
+                          "quantity": 144
+                        }
+                      ],
+                      "reported": false,
+                      "report_error": false
+                    },
+                    {
+                      "drops": [
+                        {
+                          "dropType": "EXP_LMB_DROP",
+                          "itemId": "4001",
+                          "itemName": "龙门币",
+                          "quantity": 72
+                        },
+                        {
+                          "dropType": "NORMAL_DROP",
+                          "itemId": "30012",
+                          "itemName": "固源岩",
+                          "quantity": 2
+                        },
+                        {
+                          "dropType": "EXTRA_DROP",
+                          "itemId": "2001",
+                          "itemName": "基础作战记录",
+                          "quantity": 1
+                        },
+                        {
+                          "dropType": "EXTRA_DROP",
+                          "itemId": "30031",
+                          "itemName": "酯原料",
+                          "quantity": 1
+                        }
+                      ],
+                      "stage": {
+                        "stageCode": "1-7",
+                        "stageId": "main_01-07"
+                      },
+                      "stars": 3,
+                      "stats": [
+                        {
+                          "addQuantity": 1,
+                          "itemId": "30031",
+                          "itemName": "酯原料",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 0,
+                          "itemId": "30041",
+                          "itemName": "异铁碎片",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 1,
+                          "itemId": "2001",
+                          "itemName": "基础作战记录",
+                          "quantity": 3
+                        },
+                        {
+                          "addQuantity": 2,
+                          "itemId": "30012",
+                          "itemName": "固源岩",
+                          "quantity": 4
+                        },
+                        {
+                          "addQuantity": 72,
+                          "itemId": "4001",
+                          "itemName": "龙门币",
+                          "quantity": 216
+                        }
+                      ],
+                      "reported": false,
+                      "report_error": false
+                    },
+                    {
+                      "drops": [
+                        {
+                          "dropType": "EXP_LMB_DROP",
+                          "itemId": "4001",
+                          "itemName": "龙门币",
+                          "quantity": 72
+                        },
+                        {
+                          "dropType": "NORMAL_DROP",
+                          "itemId": "30012",
+                          "itemName": "固源岩",
+                          "quantity": 2
+                        },
+                        {
+                          "dropType": "EXTRA_DROP",
+                          "itemId": "2001",
+                          "itemName": "基础作战记录",
+                          "quantity": 2
+                        }
+                      ],
+                      "stage": {
+                        "stageCode": "1-7",
+                        "stageId": "main_01-07"
+                      },
+                      "stars": 3,
+                      "stats": [
+                        {
+                          "addQuantity": 0,
+                          "itemId": "30031",
+                          "itemName": "酯原料",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 0,
+                          "itemId": "30041",
+                          "itemName": "异铁碎片",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 2,
+                          "itemId": "2001",
+                          "itemName": "基础作战记录",
+                          "quantity": 5
+                        },
+                        {
+                          "addQuantity": 2,
+                          "itemId": "30012",
+                          "itemName": "固源岩",
+                          "quantity": 6
+                        },
+                        {
+                          "addQuantity": 72,
+                          "itemId": "4001",
+                          "itemName": "龙门币",
+                          "quantity": 288
+                        }
+                      ],
+                      "reported": false,
+                      "report_error": false
+                    },
+                    {
+                      "drops": [
+                        {
+                          "dropType": "EXP_LMB_DROP",
+                          "itemId": "4001",
+                          "itemName": "龙门币",
+                          "quantity": 72
+                        },
+                        {
+                          "dropType": "NORMAL_DROP",
+                          "itemId": "30012",
+                          "itemName": "固源岩",
+                          "quantity": 2
+                        },
+                        {
+                          "dropType": "EXTRA_DROP",
+                          "itemId": "2001",
+                          "itemName": "基础作战记录",
+                          "quantity": 1
+                        }
+                      ],
+                      "stage": {
+                        "stageCode": "1-7",
+                        "stageId": "main_01-07"
+                      },
+                      "stars": 3,
+                      "stats": [
+                        {
+                          "addQuantity": 0,
+                          "itemId": "30031",
+                          "itemName": "酯原料",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 0,
+                          "itemId": "30041",
+                          "itemName": "异铁碎片",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 1,
+                          "itemId": "2001",
+                          "itemName": "基础作战记录",
+                          "quantity": 6
+                        },
+                        {
+                          "addQuantity": 2,
+                          "itemId": "30012",
+                          "itemName": "固源岩",
+                          "quantity": 8
+                        },
+                        {
+                          "addQuantity": 72,
+                          "itemId": "4001",
+                          "itemName": "龙门币",
+                          "quantity": 360
+                        }
+                      ],
+                      "reported": false,
+                      "report_error": false
+                    },
+                    {
+                      "drops": [
+                        {
+                          "dropType": "EXP_LMB_DROP",
+                          "itemId": "4001",
+                          "itemName": "龙门币",
+                          "quantity": 72
+                        },
+                        {
+                          "dropType": "NORMAL_DROP",
+                          "itemId": "30012",
+                          "itemName": "固源岩",
+                          "quantity": 2
+                        },
+                        {
+                          "dropType": "EXTRA_DROP",
+                          "itemId": "2001",
+                          "itemName": "基础作战记录",
+                          "quantity": 1
+                        },
+                        {
+                          "dropType": "EXTRA_DROP",
+                          "itemId": "30011",
+                          "itemName": "源岩",
+                          "quantity": 1
+                        }
+                      ],
+                      "stage": {
+                        "stageCode": "1-7",
+                        "stageId": "main_01-07"
+                      },
+                      "stars": 3,
+                      "stats": [
+                        {
+                          "addQuantity": 1,
+                          "itemId": "30011",
+                          "itemName": "源岩",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 0,
+                          "itemId": "30031",
+                          "itemName": "酯原料",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 0,
+                          "itemId": "30041",
+                          "itemName": "异铁碎片",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 1,
+                          "itemId": "2001",
+                          "itemName": "基础作战记录",
+                          "quantity": 7
+                        },
+                        {
+                          "addQuantity": 2,
+                          "itemId": "30012",
+                          "itemName": "固源岩",
+                          "quantity": 10
+                        },
+                        {
+                          "addQuantity": 72,
+                          "itemId": "4001",
+                          "itemName": "龙门币",
+                          "quantity": 432
+                        }
+                      ],
+                      "reported": false,
+                      "report_error": false
+                    },
+                    {
+                      "drops": [
+                        {
+                          "dropType": "EXP_LMB_DROP",
+                          "itemId": "4001",
+                          "itemName": "龙门币",
+                          "quantity": 72
+                        },
+                        {
+                          "dropType": "NORMAL_DROP",
+                          "itemId": "30012",
+                          "itemName": "固源岩",
+                          "quantity": 2
+                        },
+                        {
+                          "dropType": "EXTRA_DROP",
+                          "itemId": "2001",
+                          "itemName": "基础作战记录",
+                          "quantity": 2
+                        }
+                      ],
+                      "stage": {
+                        "stageCode": "1-7",
+                        "stageId": "main_01-07"
+                      },
+                      "stars": 3,
+                      "stats": [
+                        {
+                          "addQuantity": 0,
+                          "itemId": "30011",
+                          "itemName": "源岩",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 0,
+                          "itemId": "30031",
+                          "itemName": "酯原料",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 0,
+                          "itemId": "30041",
+                          "itemName": "异铁碎片",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 2,
+                          "itemId": "2001",
+                          "itemName": "基础作战记录",
+                          "quantity": 9
+                        },
+                        {
+                          "addQuantity": 2,
+                          "itemId": "30012",
+                          "itemName": "固源岩",
+                          "quantity": 12
+                        },
+                        {
+                          "addQuantity": 72,
+                          "itemId": "4001",
+                          "itemName": "龙门币",
+                          "quantity": 504
+                        }
+                      ],
+                      "reported": false,
+                      "report_error": false
+                    },
+                    {
+                      "drops": [
+                        {
+                          "dropType": "EXP_LMB_DROP",
+                          "itemId": "4001",
+                          "itemName": "龙门币",
+                          "quantity": 72
+                        },
+                        {
+                          "dropType": "NORMAL_DROP",
+                          "itemId": "30012",
+                          "itemName": "固源岩",
+                          "quantity": 1
+                        },
+                        {
+                          "dropType": "EXTRA_DROP",
+                          "itemId": "2001",
+                          "itemName": "基础作战记录",
+                          "quantity": 1
+                        }
+                      ],
+                      "stage": {
+                        "stageCode": "1-7",
+                        "stageId": "main_01-07"
+                      },
+                      "stars": 3,
+                      "stats": [
+                        {
+                          "addQuantity": 0,
+                          "itemId": "30011",
+                          "itemName": "源岩",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 0,
+                          "itemId": "30031",
+                          "itemName": "酯原料",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 0,
+                          "itemId": "30041",
+                          "itemName": "异铁碎片",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 1,
+                          "itemId": "2001",
+                          "itemName": "基础作战记录",
+                          "quantity": 10
+                        },
+                        {
+                          "addQuantity": 1,
+                          "itemId": "30012",
+                          "itemName": "固源岩",
+                          "quantity": 13
+                        },
+                        {
+                          "addQuantity": 72,
+                          "itemId": "4001",
+                          "itemName": "龙门币",
+                          "quantity": 576
+                        }
+                      ],
+                      "reported": false,
+                      "report_error": false
+                    },
+                    {
+                      "drops": [
+                        {
+                          "dropType": "EXP_LMB_DROP",
+                          "itemId": "4001",
+                          "itemName": "龙门币",
+                          "quantity": 72
+                        },
+                        {
+                          "dropType": "NORMAL_DROP",
+                          "itemId": "30012",
+                          "itemName": "固源岩",
+                          "quantity": 1
+                        },
+                        {
+                          "dropType": "EXTRA_DROP",
+                          "itemId": "2001",
+                          "itemName": "基础作战记录",
+                          "quantity": 1
+                        },
+                        {
+                          "dropType": "EXTRA_DROP",
+                          "itemId": "30031",
+                          "itemName": "酯原料",
+                          "quantity": 1
+                        }
+                      ],
+                      "stage": {
+                        "stageCode": "1-7",
+                        "stageId": "main_01-07"
+                      },
+                      "stars": 3,
+                      "stats": [
+                        {
+                          "addQuantity": 0,
+                          "itemId": "30011",
+                          "itemName": "源岩",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 1,
+                          "itemId": "30031",
+                          "itemName": "酯原料",
+                          "quantity": 2
+                        },
+                        {
+                          "addQuantity": 0,
+                          "itemId": "30041",
+                          "itemName": "异铁碎片",
+                          "quantity": 1
+                        },
+                        {
+                          "addQuantity": 1,
+                          "itemId": "2001",
+                          "itemName": "基础作战记录",
+                          "quantity": 11
+                        },
+                        {
+                          "addQuantity": 1,
+                          "itemId": "30012",
+                          "itemName": "固源岩",
+                          "quantity": 14
+                        },
+                        {
+                          "addQuantity": 72,
+                          "itemId": "4001",
+                          "itemName": "龙门币",
+                          "quantity": 648
+                        }
+                      ],
+                      "reported": false,
+                      "report_error": false
+                    }
+                  ]
+                },
+                "progress": 0,
+                "showResult": false
+              },
+              {
+                "name": "Mall",
+                "task_id": 11,
+                "title": "收取信用及购物",
+                "status": "idle",
+                "enable": true,
+                "configurations": {
+                  "shopping": true,
+                  "buy_first": [
+                    "固源岩",
+                    "龙门币",
+                    "招聘许可",
+                    "赤金"
+                  ],
+                  "blacklist": [
+                    "家具零件",
+                    "加急许可"
+                  ],
+                  "force_shopping_if_credit_full": true
+                },
+                "results": {},
+                "progress": 0,
+                "showResult": false
+              },
+              {
+                "name": "Award",
+                "task_id": 12,
+                "title": "领取日常奖励",
+                "status": "idle",
+                "enable": true,
+                "configurations": {},
+                "results": {},
+                "progress": 0,
+                "showResult": false
+              },
+              {
+                "name": "Roguelike",
+                "task_id": 7,
+                "title": "无限刷肉鸽",
+                "status": "idle",
+                "enable": false,
+                "configurations": {
+                  "theme": "Phantom",
+                  "mode": 0,
+                  "starts_count": 999,
+                  "investment_enabled": true,
+                  "investments_count": 999,
+                  "stop_when_investment_full": true,
+                  "squad": "指挥分队",
+                  "roles": "取长补短",
+                  "core_char": "",
+                  "use_support": false,
+                  "use_nonfriend_support": false
+                },
+                "results": {},
+                "progress": 0,
+                "showResult": false
+              },
+              {
+                "name": "Shutdown",
+                "task_id": -1,
+                "title": "关机/关闭模拟器",
+                "status": "idle",
+                "enable": false,
+                "configurations": {
+                  "option": "shutdownAll",
+                  "delay": 60
+                },
+                "results": {},
+                "progress": 0,
+                "showResult": false
+              },
+              {
+                "name": "ReclamationAlgorithm",
+                "task_id": -1,
+                "title": "生息演算",
+                "status": "idle",
+                "enable": false,
+                "configurations": {
+                  "mode": 0
+                },
+                "results": {},
+                "progress": 0,
+                "showResult": false
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

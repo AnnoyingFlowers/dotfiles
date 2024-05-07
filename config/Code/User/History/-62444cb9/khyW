@@ -1,0 +1,18 @@
+feat: 实现difftest
+
++ 实现difftest，遇到reg不一样就报错
+* 修复使用内置image时ftrace弹出未导入ELF文件的问题
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa2
+# Your branch is up to date with 'backup/pa2'.
+#
+# Changes to be committed:
+#	modified:   nemu/src/isa/riscv32/difftest/dut.c
+#	modified:   nemu/src/isa/riscv32/reg.c
+#	modified:   nemu/src/utils/tracer.c
+#
+# Changes not staged for commit:
+#	modified:   dlco-test/exp07/csrc/main.cpp
+#

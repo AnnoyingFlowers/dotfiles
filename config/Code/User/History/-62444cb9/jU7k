@@ -1,0 +1,17 @@
+fix: 修复进入nemu后直接q退出会报错的问题
+
+* 在退出前更新状态
++ 加了点注释
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch pa1
+# Your branch is up to date with 'backup/pa1'.
+#
+# Changes to be committed:
+#	modified:   nemu/src/cpu/cpu-exec.c
+#	modified:   nemu/src/isa/riscv32/include/isa-def.h
+#	modified:   nemu/src/memory/paddr.c
+#	modified:   nemu/src/monitor/sdb/sdb.c
+#	modified:   nemu/src/utils/state.c
+#

@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "LLDB Debug",
+            "type": "node",
+            "request": "launch",
+            "program": "${fileDirname}/build/${fileBasenameNoExtension}.out",
+            "cwd": "${fileDirname}",
+            "preLaunchTask": "Compile"
+        }
+    ]
+}

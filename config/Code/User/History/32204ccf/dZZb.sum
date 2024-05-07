@@ -1,0 +1,3 @@
+NAME = sum
+SRCS = tests/sum.c
+include ${AM_HOME}/Makefile

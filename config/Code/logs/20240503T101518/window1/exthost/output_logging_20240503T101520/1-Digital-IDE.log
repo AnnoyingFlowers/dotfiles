@@ -1,0 +1,18 @@
+[Info - 10:15:21] tcl lsp is ready
+[Info - 10:15:21] lsp for tcl is ready
+[Info - 10:15:21] finish initialise opeParam
+[Info - 10:15:21] libManage finish process, add 0 files, del 0 files
+[Debug - 10:15:21] <getPrjHardwareFiles> search folders: 
+[Debug - 10:15:21] /home/louis/gits/ysyx
+[Info - 10:15:21] finish collect 48 hdl files
+[Info - 10:15:22] finish analyse 48 hdl files, find 6 unsolved instances
+[Info - 10:15:22] create pl
+[Info - 10:15:22] Following folders are tracked: 
+[Info - 10:15:22] /home/louis/gits/ysyx
+[Info - 10:15:22] /home/louis/.vscode/extensions/sterben.fpga-support-0.3.2/lib/common
+[Launch - 10:15:22] Digital-IDE has launched, Version: 0.3.2
+[Launch - 10:15:22] OS: linux
+[Error - 13:14:09] path /home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/RegisterFile.v is not a hdlFile
+[Warn - 14:15:01] error happen when create moduleFile /home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/Reg.v
+[Warn - 14:59:45] error happen when create moduleFile /home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/MuxKey.v
+[Warn - 15:33:28] error happen when create moduleFile /home/louis/gits/ysyx/ysyx-workbench/npc/vsrc/ALU.v
